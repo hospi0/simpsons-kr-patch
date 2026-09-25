@@ -1,0 +1,1630 @@
+색인	키이름	종류	페이지	요소	영문
+0	0	폰트	MemoryCard.pag	NumFreeBlocks	0
+1	1	폰트	ViewCard.pag	Quote2	1
+2	2	폰트	ViewCard.pag	Quote2	2
+3	3	폰트	ViewCard.pag	Quote2	3
+4	4	폰트	ViewCard.pag	Quote2	4
+5	5	폰트	ViewCard.pag	Quote2	5
+6	6	폰트	ViewCard.pag	Quote2	6
+7	7	폰트	ViewCard.pag	Quote2	7
+8	8	폰트	ViewCard.pag	Quote2	8
+9	9	폰트	ViewCard.pag	Quote2	9
+10					Snapshot Cam
+11					12
+12					GO!
+13	NO	폰트	Prompt.pag	Response2	NO
+14	OK	폰트	Prompt.pag	Response2	OK
+15	ON	폰트	Controller.pag	Vibration_Value	On
+16	MISSION_INFO_L2_M10	폰트	MissionLoad.pag	MissionInfo	PASS ALL CHECKPOINTS AND CROSS THE FINISH LINE FIRST. DON'T DESTROY YOUR VEHICLE.
+17	MISSION_INFO_L2_M11	폰트	MissionLoad.pag	MissionInfo	COMPLETE AN ENTIRE LAP BEFORE TIME RUNS OUT TO WIN COINS.
+18	MISSION_INFO_L2_M12	폰트	MissionLoad.pag	MissionInfo	COLLECT THE BLOOD FOR GRAMPA.
+19					Repair Vehicle
+20	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE	폰트	MissionOver.pag	MissionFailureReason	Player out of vehicle.
+21					Duff Truck
+22	6_LAPS	폰트	MiniMenu.pag	NumLaps	x 6
+23	ERROR_DATA_CORRUPT_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	Load failed! The Simpsons Hit & Run Save Game file in Slot $ is corrupt and must be deleted. OK?
+24	PAUSED	폰트	Pause.pag	Paused	PAUSE MENU
+25	MU_WRONG_TYPE_STATUS_(GC)	폰트	MemoryCard.pag	Status	This Memory Card is unusable.
+26	LOAD_GAME_FROM	폰트	SelectMemoryDevice.pag	LoadSave	Load from:
+27	MSG_CONTROLLER_DISCONNECTED_(GC)	폰트	Message.pag	Message	Controller disconnected.  \Please reconnect the controller to  \controller port ¥ to continue.
+28					(UP) RESET CAR
+29	PRESS_START_PS2	폰트	Splash.pag	PressStart	Press START button
+30					Street Race:
+31					Wager Race:
+32	MISSION_12	폰트	MissionGallery.pag	MissionNum	Bonus Mission
+33	ERROR_MEDIA_NOT_FORMATTED_(XBOX)	폰트	ErrorPrompt.pag	Message	Xbox Memory Unit $ is not formatted. Format Memory Unit?
+34					Homer - Normal
+35	FRENCH	폰트	Language.pag	Language1	Français
+36	BRAKE_REVERSE	폰트	ControllerGC.pag	Label11	BRAKE / REVERSE
+37	SURROUND_SOUND	폰트	Sound.pag	SurroundSound_Value	SURROUND SOUND
+38					Xbox hard disk
+39	ERROR_DATA_CORRUPT_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	Unable to load The Simpsons Hit & Run saved game.
+40					Mini School Bus
+41	ERROR_MEDIA_WRONG_TYPE_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	Load failed! Memory Card in Memory Card Slot $ is incompatible with The Simpsons Hit & Run. It cannot be used.
+42	ERROR_MEDIA_NOT_FORMATTED_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	Load failed! Memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ is unformatted.
+43	CAMERA	폰트	PauseSettings.pag	Camera	Camera
+44	MSG_DISPLAY_PROGRESSIVE_SCAN_PS2	폰트	GenericPrompt.pag	Message	Do you want to display in Progressive Mode?
+45	MSG_AUTO_LOADING_GAME_(XBOX_HD)	폰트	Message.pag	Message	Auto-loading most recent saved game. Please don't turn off your Xbox console.
+46	MISSION_SELECT	폰트	PauseSunday.pag	MissionSelect	MISSION SELECT
+47	MISSION_TITLE_L6_M1	폰트	MissionGallery.pag	MissionTitle	Going to the Lu'
+48	MISSION_TITLE_L6_M2	폰트	MissionGallery.pag	MissionTitle	Getting Down with the Clown
+49	MISSION_TITLE_L6_M3	폰트	MissionGallery.pag	MissionTitle	Lab Coat Caper
+50	MISSION_TITLE_L6_M4	폰트	MissionGallery.pag	MissionTitle	Duff for Me, Duff for You
+51	MISSION_TITLE_L6_M5	폰트	MissionGallery.pag	MissionTitle	Full Metal Jackass
+52	MISSION_TITLE_L6_M6	폰트	MissionGallery.pag	MissionTitle	Set to Kill
+53	MISSION_TITLE_L6_M7	폰트	MissionGallery.pag	MissionTitle	Kang and Kodos Strike Back
+54	MISSION_TITLE_L6_M8	폰트	MissionLoad.pag	MissionTitle	Race 1:  Time Trial
+55	MISSION_TITLE_L6_M9	폰트	MissionLoad.pag	MissionTitle	Race 2:  Circuit Race
+56	MSG_LOAD_CONFIRM_(PS2)	폰트	GenericPrompt.pag	Message	Loading this data will cause current game progress to be lost.  Load anyway?
+57					Mr. Plow
+58	MU_UNFORMATTED_STATUS_(PS2)	폰트	MemoryCard.pag	Status	Memory card (8MB) (for PlayStation®2) is unformatted
+59					!!!
+60					Fish Van
+61	USE_MISSION_SELECT	폰트	LevelStats.pag	UseMissionSelect	Use Mission Select to return to this level
+62					-
+63					Donut Truck
+64	MSG_SAVE_CONFIRM_(PS2)	폰트	GenericPrompt.pag	Message	Are you sure you want to save the game?
+65	ATTACK	폰트	ControllerGC.pag	Label04	ATTACK
+66	ACCELERATION	폰트	Rewards.pag	Acceleration	ACCELERATION
+67	SELECT_LANGUAGE	폰트	Language.pag	SelectLanguage	Select Language
+68	MISSION_INFO_L7_M10	폰트	MissionLoad.pag	MissionInfo	PASS ALL CHECKPOINTS AND CROSS THE FINISH LINE FIRST. DON'T DESTROY YOUR VEHICLE.
+69	MISSION_INFO_L7_M11	폰트	MissionLoad.pag	MissionInfo	COMPLETE AN ENTIRE LAP BEFORE TIME RUNS OUT TO WIN COINS.
+70	MISSION_INFO_L7_M12	폰트	MissionLoad.pag	MissionInfo	HELP SMITHERS FIND THE ITEMS FOR MR. BURNS BEFORE TIME RUNS OUT.
+71	DEMO	폰트	Demo.pag	Demo	- DEMO -
+72					Krusty's Limo
+73					Sedan
+74	RESET_CAR	폰트	ControllerGC.pag	Label01	RESET CAR
+75	ERROR_MEDIA_INVALID_(XBOX)	폰트	ErrorPrompt.pag	Message	Media invalid!
+76	ERROR_WRONG_MEDIA_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	Save failed!  Please check Memory Card in Memory Card Slot $ and try again.
+77	MSG_LOAD_CONFIRM_(GC)	폰트	GenericPrompt.pag	Message	Loading this game will replace the current game in progress.  Continue?
+78	MISSION_INFO_WAGER_COINS	폰트	MissionLoad.pag	MissionInfo	YOU NEED %D COINS TO ENTER THE RACE
+79	INGAME_MESSAGE_00	폰트	GenericPrompt.pag	Message	To complete this mission, you will need the PLOW KING.  Purchase it from Barney at the Gasoline Station for 150 coins.  IMPORTANT: Use phone booths to access vehicles you already own.
+80	INGAME_MESSAGE_01	폰트	GenericPrompt.pag	Message	To complete this mission, you will need the MR. PLOW truck. Purchase it from Homer in the Hospital parking lot for 200 coins.  REMEMBER: Use phone booths to access vehicles you already own.
+81	INGAME_MESSAGE_02	폰트	GenericPrompt.pag	Message	To complete this mission, you will need the SCHOOL BUS. Purchase it from Otto at Kamp Krusty for 300 coins.  REMEMBER: Use phone booths to access vehicles you already own.
+82	INGAME_MESSAGE_03	폰트	GenericPrompt.pag	Message	You need a disguise. Purchase Lisa's "COOL" CLOTHES at the Android's Dungeon or the Observatory for 250 coins. 
+83	INGAME_MESSAGE_04	폰트	GenericPrompt.pag	Message	Don't get your clothes dirty.  Purchase Marge's "INMATE" CLOTHES at the Kwik-E-Mart, Bart's Room, or Springfield Elementary School for 300 coins.
+84	INGAME_MESSAGE_05	폰트	GenericPrompt.pag	Message	Serve and protect.  Purchase Marge's POLICE UNIFORM at the Kwik-E-Mart, Bart's Room, or Springfield Elementary School for 400 coins.
+85	INGAME_MESSAGE_06	폰트	GenericPrompt.pag	Message	To complete this mission, you will need Homer's "CUSTOM BUILT CAR." Purchase it from Homer in the Hospital parking lot for 500 coins, or call it from a phone booth if you already own it.
+86	INGAME_MESSAGE_07	폰트	GenericPrompt.pag	Message	You need a disguise.  Purchase Apu's AMERICAN CLOTHES at Moe's or the DMV for 425 coins.
+87	INGAME_MESSAGE_08	폰트	GenericPrompt.pag	Message	To complete this mission, you will need the GLOBEX SUPER VILLAIN CAR. Purchase it from Kearney at the Krustylu Entrance for 600 coins, or call it from a phone booth if you already own it.
+88	INGAME_MESSAGE_09	폰트	GenericPrompt.pag	Message	To complete this mission, you will need the ZOMBIE CAR. Purchase it from the Zombie at the Springfield Cemetery for 500 coins, or call it from a phone booth if you already own it.
+89	INGAME_MESSAGE_10	폰트	GenericPrompt.pag	Message	Talk to the Squeaky Voiced Teen at the Aztec theatre.
+90	INGAME_MESSAGE_11	폰트	GenericPrompt.pag	Message	Congratulations! You've unlocked a new vehicle. Go to a phone booth to use it.
+91	INGAME_MESSAGE_12	폰트	GenericPrompt.pag	Message	Congratulations! You've unlocked Cletus' Pickup Truck. Go to a phone booth to use it.
+92	INGAME_MESSAGE_13	폰트	GenericPrompt.pag	Message	Congratulations! You've unlocked Grampa's WWII Vehicle. Go to a phone booth to use it.
+93	INGAME_MESSAGE_14	폰트	GenericPrompt.pag	Message	Congratulations! You've unlocked Principal Skinner's Sedan. Go to a phone booth to use it.
+94	INGAME_MESSAGE_15	폰트	GenericPrompt.pag	Message	Congratulations! You've unlocked Comic Book Guy's Kremlin. Go to a phone booth to use it.
+95	INGAME_MESSAGE_16	폰트	GenericPrompt.pag	Message	Congratulations! You've unlocked Professor Frink's Hover Car. Go to a phone booth to use it.
+96	INGAME_MESSAGE_17	폰트	GenericPrompt.pag	Message	Congratulations! You've unlocked Snake's Lil' Bandit. Go to a phone booth to use it.
+97	INGAME_MESSAGE_18	폰트	GenericPrompt.pag	Message	Congratulations! You've unlocked Mr. Burns' Limo. Go to a phone booth to use it.
+98	INGAME_MESSAGE_19	폰트	GenericPrompt.pag	Message	*
+99	1ST	폰트	MiniSummary.pag	Rank0	1st
+100	2ND	폰트	MiniSummary.pag	Rank1	2nd
+101	3RD	폰트	MiniSummary.pag	Rank2	3rd
+102	ERROR_MEDIA_INVALID_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	*
+103	4TH	폰트	MiniSummary.pag	Rank3	4th
+104	MSG_LOAD_CARD_EMPTY_(XBOX_HD)	폰트	GenericPrompt.pag	Message	No Simpsons Hit & Run save game present on Xbox hard disk.
+105	ERROR_NO_FREE_SPACE_CHECKING_(PS2)	폰트	ErrorPrompt.pag	Message	Insufficient space on the memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $. Insert a memory card (8MB) (for PlayStation®2) with at least 221 KB of free space.
+106	ERROR_NO_MEDIA_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	Load failed! Memory card (8MB) (for PlayStation®2) is not inserted into MEMORY CARD slot $.
+107	MSG_CONFIRM_QUIT	폰트	GenericPrompt.pag	Message	Are you sure you want to quit?
+108					MISSION FAILED!
+109					Multiplayer
+110	ERROR_MEDIA_CORRUPT_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+111	MU_FULL_STATUS_(PS2)	폰트	MemoryCard.pag	Status	Insufficient space on memory card (8MB) (for PlayStation®2). The Simpsons Hit & Run requires 221 KB of free space to save game.
+112	VIEW_CARDS	폰트	PauseSunday.pag	ViewCards	VIEW CARDS
+113	MSG_LOAD_CONFIRM_(XBOX)	폰트	GenericPrompt.pag	Message	Loading this game will replace the current game in progress.  Continue?
+114					???
+115	GOTO_DASHBOARD_(XBOX)	폰트	ErrorPrompt.pag	GotoDashboard	Go to Xbox Dashboard
+116	ERROR_MEDIA_INVALID_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	Load failed! Media invalid!
+117					Apu - Normal
+118	CHECKING_MEMORY_CARDS_(PS2)	폰트	MemCardCheck.pag	CheckingMemoryCards	Checking memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and MEMORY CARD slot 2. Do not remove memory card (8MB) (for PlayStation®2), controller, or reset/switch off the console.
+119					Buy
+120	SELECT_TRACK_AND_NUM_LAPS	폰트	MiniMenu.pag	SelectTrack	SELECT TRACK AND NUMBER OF LAPS
+121	STABILITY	폰트	Rewards.pag	Stability	HANDLING
+122					DNF
+123	LOOK_LEFT	폰트	ControllerPS2.pag	Label14	LOOK LEFT
+124	SETTINGS	폰트	PauseOptions.pag	Settings	SETTINGS
+125					Mr. Burns' Limo
+126	KMH	폰트	Hud.pag	SpeedUnit0	kmh
+127	7_LAPS	폰트	MiniMenu.pag	NumLaps	x 7
+128	VINPUT_MOVERIGHT	폰트	PCKeyboardConfig.pag	Label03	MOVE RIGHT
+129	STAGE_COMPLETE	폰트	Hud.pag	StageComplete	TASK COMPLETE!
+130	MPH	폰트	Hud.pag	SpeedUnit0	mph
+131	L3_BUTTON	폰트	ControllerPS2.pag	L3Button	(L3 button)
+132	OFF	폰트	Controller.pag	Vibration_Value	Off
+133	ERROR_DATA_CORRUPT_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	The Simpsons Hit & Run Saved Game file on Memory Card in Slot $ is corrupted and needs to be deleted.
+134	ERROR_WRONG_MEDIA_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	Xbox Memory Unit $ was removed during use. Loading failed. Press A to continue.
+135	LOOK_RIGHT	폰트	ControllerPS2.pag	Label11	LOOK RIGHT
+136	CANCEL	폰트	Cancel.pag	Back	Cancel
+137	INTERLACED	폰트	Options.pag	DisplayMode_Value	Interlaced
+138	MISSION_TITLE_L7_M1	폰트	MissionGallery.pag	MissionTitle	Rigor Motors
+139	MISSION_TITLE_L7_M2	폰트	MissionGallery.pag	MissionTitle	Long Black Probes
+140	MISSION_TITLE_L7_M3	폰트	MissionGallery.pag	MissionTitle	Pocket Protector
+141	MISSION_TITLE_L7_M4	폰트	MissionGallery.pag	MissionTitle	There's Something About Monty
+142	MISSION_TITLE_L7_M5	폰트	MissionGallery.pag	MissionTitle	Alien "Auto"topsy Part I
+143	MISSION_TITLE_L7_M6	폰트	MissionGallery.pag	MissionTitle	Alien "Auto"topsy Part II
+144	MISSION_TITLE_L7_M7	폰트	MissionGallery.pag	MissionTitle	Alien "Auto"topsy Part III
+145	MISSION_TITLE_L7_M8	폰트	MissionLoad.pag	MissionTitle	Race 1:  Time Trial
+146	MISSION_TITLE_L7_M9	폰트	MissionLoad.pag	MissionTitle	Race 2:  Circuit Race
+147					Police Car
+148	MSG_DELETE_CORRUPT_(PS2)	폰트	GenericPrompt.pag	Message	The Simpsons Hit & Run save file on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ is corrupted.  Do you wish to delete the save file?
+149	YES	폰트	Prompt.pag	Response2	YES
+150	VINPUT_SPRINT	폰트	PCKeyboardConfig.pag	Label07	SPRINT
+151					Nuclear Waste Truck
+152	GAME_COMPLETE	폰트	ScrapBookStats.pag	GameComplete	Game Complete
+153	IN_CAR	폰트	Controller.pag	Display_Value	In Car
+154	MSG_LOADING_GAME_(PS2)	폰트	Message.pag	Message	Loading data. Do not remove memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $, reset, or switch off the console.
+155	MISSION_INFO_L1_M0	폰트	MissionLoad.pag	MissionInfo	GO TO THE KWIK-E-MART AND PURCHASE SOME ICE CREAM AND COLA.
+156	MISSION_INFO_L1_M1	폰트	MissionLoad.pag	MissionInfo	RACE PRINCIPAL SKINNER TO THE SCHOOL AND GIVE LISA HER SCIENCE PROJECT.
+157	MISSION_INFO_L1_M2	폰트	MissionLoad.pag	MissionInfo	COLLECT ALL 6 OF NED'S "LOST" ITEMS BEFORE TIME RUNS OUT!
+158	MISSION_INFO_L1_M3	폰트	MissionLoad.pag	MissionInfo	DESTROY SMITHERS' CAR BEFORE HE GETS TO THE POWER PLANT.
+159	MISSION_INFO_L1_M4	폰트	MissionLoad.pag	MissionInfo	DESTROY ALL THE POWER COUPLINGS BEFORE TIME RUNS OUT!
+160	MISSION_INFO_L1_M5	폰트	MissionLoad.pag	MissionInfo	INVESTIGATE AND FOLLOW THE BLACK VAN. DON'T LET IT GET AWAY! 
+161	MISSION_INFO_L1_M6	폰트	MissionLoad.pag	MissionInfo	HIT THE DELIVERY TRUCK AND COLLECT THE BONESTORM GAMES BEFORE TIME RUNS OUT!
+162	MISSION_INFO_L1_M7	폰트	MissionLoad.pag	MissionInfo	BEAT SMITHERS TO MR. BURNS' MANSION.
+163	MISSION_INFO_L1_M8	폰트	MissionLoad.pag	MissionInfo	REACH THE FINISH LINE BEFORE TIME RUNS OUT. DON'T DESTROY YOUR VEHICLE.
+164	MISSION_INFO_L1_M9	폰트	MissionLoad.pag	MissionInfo	COMPLETE ALL LAPS AND FINISH THE RACE IN FIRST PLACE. DON'T DESTROY YOUR VEHICLE.
+165	VINPUT_RESETCAR	폰트	PCKeyboardConfig.pag	Label13	RESET CAR
+166					Apu - Army
+167					Taxi
+168	CONFIGURATION	폰트	Controller.pag	Configuration	Configuration:
+169					Memory Card in Slot A
+170					Memory Card in Slot B
+171	MOVIE_1	폰트	ViewMovies.pag	Movie1	LEVEL 1 INTRODUCTION
+172	MOVIE_2	폰트	ViewMovies.pag	Movie2	LEVEL 1 MOVIE
+173	MOVIE_3	폰트	ViewMovies.pag	Movie3	LEVEL 2 MOVIE
+174	MOVIE_4	폰트	ViewMovies.pag	Movie4	LEVEL 4 MOVIE
+175	MOVIE_5	폰트	ViewMovies.pag	Movie5	LEVEL 5 MOVIE
+176	MOVIE_6	폰트	ViewMovies.pag	Movie6	LEVEL 6 MOVIE
+177	MOVIE_7	폰트	ViewMovies.pag	Movie7	LEVEL 7 MOVIE
+178	MOVIE_8	폰트	ViewMovies.pag	Movie8	BONUS MOVIE
+179	ERROR_FILE_NOT_FOUND_(PS2)	폰트	ErrorPrompt.pag	Message	File not found!
+180					BACK
+181	MISSION_TITLE_L1_M10	폰트	MissionLoad.pag	MissionTitle	Race 3:  Checkpoint Race
+182	MISSION_TITLE_L1_M11	폰트	MissionLoad.pag	MissionTitle	Race 4:  Wager Race
+183	MISSION_TITLE_L1_M12	폰트	MissionGallery.pag	MissionTitle	This Old Shanty
+184					CARD GALLERY
+185					Kull Cam
+186	16_BIT	폰트	Display.pag	ColourDepth_Value	16-bit
+187	ERROR_HW_FAILURE_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	Save failed! A fatal error has occurred.
+188	FORMAT_GC	폰트	Prompt.pag	Response2	Format Memory Card
+189	RACE_COMPLETE_SOME	폰트	MissionLoad.pag	PattyAndSelmaTitle	%d of %d Races Completed - Congratulations!
+190	STATUS	폰트	MissionSelect.pag	Status	Status
+191					Start
+192	PRESS_START_RESUME_PLAY_XBOX	폰트	PauseFgd.pag	PressStartResumePlay	Press START to Continue
+193					Nonuplets Minivan
+194					Homer - Evil
+195	MISSION_FAILED_VEHICLE_DAMAGE	폰트	MissionOver.pag	MissionFailureReason	You destroyed your vehicle.
+196	ERROR_WRONG_MEDIA_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	Load failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ and please try again.
+197					Canyonero
+198	GAGS_COMPLETE	폰트	Hud.pag	WaspsComplete	LEVEL GAGS COMPLETE!
+199	MISSION_FAILED_TIME_OUT	폰트	MissionOver.pag	MissionFailureReason	Timed out.
+200					Obliteratatron Big Wheel Truck
+201	MU_FULL_STATUS_(GC)	폰트	MemoryCard.pag	Status	Insufficient space to save to this Memory Card. The Simpsons Hit & Run requires 1 file and 2 blocks. To manage the contents of your Memory Card, use the Memory Card Screen.
+202					< Corrupted Save >
+203					Hover Bike
+204	ORDINAL_1ST	폰트	Hud.pag	PositionOrdinal	st
+205	MSG_FORMAT_CONFIRM2_(GC)	폰트	GenericPrompt.pag	Message	Formatting the Memory Card will erase all previously saved data. Do you wish to proceed with formatting?
+206	MSG_DISPLAY_PROGRESSIVE_SCAN_CONFIRM	폰트	GenericPrompt.pag	Message	Did you see the screen correctly? If you did and you want to display in Progressive Mode, choose Yes; otherwise, choose No.
+207	ORDINAL_2ND	폰트	Hud.pag	PositionOrdinal	nd
+208	ACCEPT	폰트	Accept3.pag	Accept	Accept
+209	ORDINAL_3RD	폰트	Hud.pag	PositionOrdinal	rd
+210	GET_IN_CAR_TALK_TO_CHARACTER	폰트	ControllerGC.pag	Label07	GET IN CAR / TALK TO CHARACTER
+211					TOGGLE FIRST PERSON VIEW
+212	ORDINAL_4TH	폰트	Hud.pag	PositionOrdinal	th
+213	PRESS_START_GC	폰트	Splash.pag	PressStart	PRESS START
+214					ATV
+215	CARD_LEVEL_COMPLETE	폰트	Hud.pag	ItemsComplete	LEVEL CARDS COLLECTED!
+216	ERROR_HW_FAILURE_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	Save failed! A fatal error has occurred.
+217	MISSION_TITLE_L6_M10	폰트	MissionLoad.pag	MissionTitle	Race 3:  Checkpoint Race
+218	MISSION_TITLE_L6_M11	폰트	MissionLoad.pag	MissionTitle	Race 4:  Wager Race
+219	MISSION_TITLE_L6_M12	폰트	MissionGallery.pag	MissionTitle	Milking the Pigs
+220	8_LAPS	폰트	MiniMenu.pag	NumLaps	x 8
+221	MISSION_FAILED_GET_COLLECTIBLES	폰트	MissionOver.pag	MissionFailureReason	Failed to collect item.
+222	ERROR_SHELL_OPEN_(PS2)	폰트	ErrorPrompt.pag	Message	*
+223	VINPUT_EBRAKE	폰트	PCKeyboardConfig.pag	Label11	BRAKE
+224	CARD_EPISODE_00	폰트	ViewCard.pag	CardEpisode	Episode 8F13: Homer at Bat
+225	CARD_EPISODE_01	폰트	ViewCard.pag	CardEpisode	Episode 4F22: The City of New York vs. Homer Simpson
+226	CARD_EPISODE_02	폰트	ViewCard.pag	CardEpisode	Episode 3F24: The Mysterious Voyage of Homer
+227	CARD_EPISODE_03	폰트	ViewCard.pag	CardEpisode	Episode 8F23: Brother Can You Spare Two Dimes
+228	CARD_EPISODE_04	폰트	ViewCard.pag	CardEpisode	Episode 2F09: Homer the Great
+229	CARD_EPISODE_05	폰트	ViewCard.pag	CardEpisode	Episode 1F13: Deep Space Homer
+230	CARD_EPISODE_06	폰트	ViewCard.pag	CardEpisode	Episode 4F18: In Marge We Trust
+231	CARD_EPISODE_07	폰트	ViewCard.pag	CardEpisode	*
+232	CARD_EPISODE_08	폰트	ViewCard.pag	CardEpisode	Episode 7G07: The Telltale Head
+233	CARD_EPISODE_09	폰트	ViewCard.pag	CardEpisode	Episode 8F11: Radio Bart
+234	CARD_EPISODE_10	폰트	ViewCard.pag	CardEpisode	Episode 3F07: Marge Be Not Proud
+235	CARD_EPISODE_11	폰트	ViewCard.pag	CardEpisode	Episode 2F11: Bart's Comet
+236	CARD_EPISODE_12	폰트	ViewCard.pag	CardEpisode	Episode 2F05: Lisa on Ice
+237	CARD_EPISODE_13	폰트	ViewCard.pag	CardEpisode	Episode 3F17: Bart on the Road
+238	CARD_EPISODE_14	폰트	ViewCard.pag	CardEpisode	Episode 9F13: I Love Lisa
+239	CARD_EPISODE_15	폰트	ViewCard.pag	CardEpisode	*
+240	CARD_EPISODE_16	폰트	ViewCard.pag	CardEpisode	Episode 5F05: Lisa the Skeptic
+241	CARD_EPISODE_17	폰트	ViewCard.pag	CardEpisode	3F02: Bart Sells His Soul
+242	CARD_EPISODE_18	폰트	ViewCard.pag	CardEpisode	Episode 1F12: Lisa vs. Malibu Stacy
+243	CARD_EPISODE_19	폰트	ViewCard.pag	CardEpisode	Episode 9F13: I Love Lisa
+244	CARD_EPISODE_20	폰트	ViewCard.pag	CardEpisode	Episode 2F19: The PTA Disbands
+245	CARD_EPISODE_21	폰트	ViewCard.pag	CardEpisode	Episode 9F15: Last Exit to Springfield
+246	CARD_EPISODE_22	폰트	ViewCard.pag	CardEpisode	Episode 2F15: Lisa's Wedding
+247	CARD_EPISODE_23	폰트	ViewCard.pag	CardEpisode	*
+248	CARD_EPISODE_24	폰트	ViewCard.pag	CardEpisode	Episode 9F07: Mr. Plow
+249	CARD_EPISODE_25	폰트	ViewCard.pag	CardEpisode	Episode 7F18: Brush With Greatness
+250	CARD_EPISODE_26	폰트	ViewCard.pag	CardEpisode	Episode 8F16: Bart the Lover
+251	CARD_EPISODE_27	폰트	ViewCard.pag	CardEpisode	Episode 7G11: Life on the Fast Lane
+252	CARD_EPISODE_28	폰트	ViewCard.pag	CardEpisode	Episode 5F06: Realty Bites
+253	CARD_EPISODE_29	폰트	ViewCard.pag	CardEpisode	Episode AABF18: They Saved Lisa's Brain
+254	CARD_EPISODE_30	폰트	ViewCard.pag	CardEpisode	Episode 2F21: The Springfield Connection
+255	CARD_EPISODE_31	폰트	ViewCard.pag	CardEpisode	*
+256	CARD_EPISODE_32	폰트	ViewCard.pag	CardEpisode	Episode 3F03: Lisa the Vegetarian
+257	CARD_EPISODE_33	폰트	ViewCard.pag	CardEpisode	Episode 3F10: Team Homer
+258	CARD_EPISODE_34	폰트	ViewCard.pag	CardEpisode	Episode 3F20: Much Apu About Nothing
+259	CARD_EPISODE_35	폰트	ViewCard.pag	CardEpisode	Episode BABF03: Eight Misbehavin'
+260	CARD_EPISODE_36	폰트	ViewCard.pag	CardEpisode	Episode 5F04: The Two Mrs. Nahasapeemapetilons
+261	CARD_EPISODE_37	폰트	ViewCard.pag	CardEpisode	Episode 8F21: The Otto Show
+262	CARD_EPISODE_38	폰트	ViewCard.pag	CardEpisode	Episode 1F10: Homer and Apu
+263	CARD_EPISODE_39	폰트	ViewCard.pag	CardEpisode	*
+264	CARD_EPISODE_40	폰트	ViewCard.pag	CardEpisode	Episode 7F21: Three Men and a Comic Book
+265	CARD_EPISODE_41	폰트	ViewCard.pag	CardEpisode	Episode 2F01: Itchy and Scratchy Land
+266	CARD_EPISODE_42	폰트	ViewCard.pag	CardEpisode	Episode 1F11: Bart Gets Famous
+267	CARD_EPISODE_43	폰트	ViewCard.pag	CardEpisode	Episode 2F13
+268	CARD_EPISODE_44	폰트	ViewCard.pag	CardEpisode	Episode 1F21: Lady Bouvier's Lover
+269	CARD_EPISODE_45	폰트	ViewCard.pag	CardEpisode	Episode 9F19: Krusty gets Kancelled
+270	CARD_EPISODE_46	폰트	ViewCard.pag	CardEpisode	Episode 9F14: Duffless
+271	CARD_EPISODE_47	폰트	ViewCard.pag	CardEpisode	*
+272	CARD_EPISODE_48	폰트	ViewCard.pag	CardEpisode	Episode 1F04: The Devil and Homer Simpson
+273	CARD_EPISODE_49	폰트	ViewCard.pag	CardEpisode	Episode 9F04: Clown Without Pity
+274	CARD_EPISODE_50	폰트	ViewCard.pag	CardEpisode	Episode 7F04: Hungry are the Damned
+275	CARD_EPISODE_51	폰트	ViewCard.pag	CardEpisode	Episode 2F03: Time and Punishment
+276	CARD_EPISODE_52	폰트	ViewCard.pag	CardEpisode	Episode AABF01: Hell Toupee
+277	CARD_EPISODE_53	폰트	ViewCard.pag	CardEpisode	Episode 8F02: Lisa's Nightmare
+278	CARD_EPISODE_54	폰트	ViewCard.pag	CardEpisode	Episode 3F04: Nightmare on Evergreen Terrace
+279	CARD_EPISODE_55	폰트	ViewCard.pag	CardEpisode	*
+280	MSG_SAVE_CONFIRM_OVERWRITE_(GC)	폰트	GenericPrompt.pag	Message	The Simpsons Hit & Run game already exists. Overwrite previous save game?
+281	RACE_COMPLETE_ALL	폰트	MissionLoad.pag	PattyAndSelmaTitle	All Races Completed - Congratulations!
+282					LOOK BACK
+283	MISSION_INFO_L2_M1	폰트	MissionLoad.pag	MissionInfo	AVOID PRINCIPAL SKINNER! DRIVE TO THE TRY-N-SAVE BEFORE TIME RUNS OUT!
+284	MISSION_INFO_L2_M2	폰트	MissionLoad.pag	MissionInfo	COLLECT FIREWORKS FROM AROUND SPRINGFIELD BEFORE TIME RUNS OUT! AVOID CHIEF WIGGUM!
+285	MISSION_INFO_L2_M3	폰트	MissionLoad.pag	MissionInfo	RACE THE NERD TO THE JAVA SERVER.
+286	MISSION_INFO_L2_M4	폰트	MissionLoad.pag	MissionInfo	GO TO HERMAN'S MILITARY ANTIQUES TO FIND A WORLD WAR II RADIO FOR PROFESSOR FRINK.
+287	MISSION_INFO_L2_M5	폰트	MissionLoad.pag	MissionInfo	COLLECT THE FLATMEAT BEFORE TIME RUNS OUT! AVOID APU!
+288	MISSION_INFO_L2_M6	폰트	MissionLoad.pag	MissionInfo	COLLECT THE MONKEYS BEFORE TIME RUNS OUT! THEN GET THE BLENDER FROM DR. NICK.
+289	MISSION_INFO_L2_M7	폰트	MissionLoad.pag	MissionInfo	DESTROY ALL THE CELL PHONE USERS' CARS BEFORE TIME RUNS OUT!
+290	MISSION_INFO_L2_M8	폰트	MissionLoad.pag	MissionInfo	CROSS THE FINISH LINE BEFORE TIME RUNS OUT. DON'T DESTROY YOUR VEHICLE.
+291	MISSION_INFO_L2_M9	폰트	MissionLoad.pag	MissionInfo	COMPLETE ALL LAPS AND FINISH THE RACE IN FIRST PLACE. DON'T DESTROY YOUR VEHICLE.
+292	QUIT	폰트	Back.pag	Back	Quit
+293	MU_UNFORMATTED_STATUS_(GC)	폰트	MemoryCard.pag	Status	*
+294	R3_BUTTON	폰트	ControllerPS2.pag	R3Button	(R3 button)
+295					Marge - Inmate
+296	ERROR_MEDIA_INVALID_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	Load failed! Something other than a Memory Card is inserted in Slot $.  Replace with a Memory Card.
+297	ERROR_FILE_NOT_FOUND_(GC)	폰트	ErrorPrompt.pag	Message	No Simpsons Hit & Run save data present on Memory Card in Memory Card Slot $.
+298	MISSION_INFO_L4_M10	폰트	MissionLoad.pag	MissionInfo	PASS ALL CHECKPOINTS AND CROSS THE FINISH LINE FIRST. DON'T DESTROY YOUR VEHICLE.
+299	MISSION_INFO_L4_M11	폰트	MissionLoad.pag	MissionInfo	COMPLETE AN ENTIRE LAP BEFORE TIME RUNS OUT TO WIN COINS.
+300	MISSION_INFO_L4_M12	폰트	MissionLoad.pag	MissionInfo	GO TO THE SCHOOL TO COLLECT ALL THE INTERCEPTED GIFTS. DON'T LET TIME RUN OUT!
+301	ERROR_MEDIA_WRONG_TYPE_(GC)	폰트	ErrorPrompt.pag	Message	Memory Card in Memory Card Slot $ is incompatible with The Simpsons Hit & Run.  It cannot be used.
+302					Sedan A
+303					Sedan B
+304	ROTATE_CAMERA	폰트	ControllerGC.pag	Label03	(LEFT / RIGHT) ROTATE CAMERA
+305	ERROR_HW_FAILURE_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	Load failed! A fatal error has occurred.
+306					READY
+307	MSG_LOAD_CARD_EMPTY_(GC)	폰트	GenericPrompt.pag	Message	No Simpsons Hit & Run save data present on Memory Card in Memory Card Slot $.
+308	SCRAP_BOOK	폰트	MainMenu.pag	MainMenu_PC	SCRAP BOOK
+309	VINPUT_ACCELERATE	폰트	PCKeyboardConfig.pag	Label10	ACCELERATE
+310	DISPLAY_(OPTIONS)	폰트	Options.pag	Display	DISPLAY
+311	SELECT_MEMORY_DEVICE_(GC)	폰트	MemoryCard.pag	SelectMemoryDevice	Select Memory Card
+312					Fire Truck
+313	ACCELERATE_UP	폰트	ControllerPS2.pag	Label03	(UP) ACCELERATE
+314	MISSION_FAILED_POSITION	폰트	MissionOver.pag	MissionFailureReason	You lost the race.
+315	RETRY_MISSION	폰트	MissionOver.pag	RetryMission	Retry Mission?
+316	STORY_MISSIONS	폰트	ScrapBookStats.pag	StoryMissions	Story Missions
+317	RETRY	폰트	Prompt.pag	Response2	Retry
+318	VEHICLE_ODDS_HARD	폰트	MissionLoad.pag	VehicleOdds_Value	Hard
+319					Format Memory Card
+320					Apu - B-sharps
+321					MEMORY CARD slot 
+322					unused anymore XXX
+323	CHANGE	폰트	Buy.pag	Accept	Change
+324	ERROR_MEDIA_DAMAGED_(XBOX)	폰트	ErrorPrompt.pag	Message	The Xbox Memory Unit $ is damaged and cannot be used. Press A to continue.
+325	MSG_LOADING_MISSION	폰트	Message.pag	Message	Loading new mission.  Please wait.
+326	NO_MEMORY_DEVICE_(PS2)	폰트	MemoryCard.pag	NoMemoryDevice	No memory card (8MB) (for PlayStation®2) inserted in MEMORY CARD slot 1 or MEMORY CARD slot 2.
+327	MSG_DELETE_CORRUPT_(XBOX_HD)	폰트	GenericPrompt.pag	Message	The Simpsons Hit & Run save game on Xbox hard disk is damaged.  Do you wish to delete the save game?
+328	MSG_CONFIRM_RACE_AGAIN	폰트	GenericPrompt.pag	Message	Race again?
+329					Ferrini - Black
+330	LEVEL_COMPLETE	폰트	LevelStats.pag	LevelComplete	Level Complete
+331					Homer - Dirty
+332	VINPUT_MOVEUP	폰트	PCKeyboardConfig.pag	Label00	MOVE UP
+333					Rail Cam
+334	RACE_COMPLETE_INFO_SOME	폰트	MissionLoad.pag	PattyAndSelmaInfo	*
+335	CARD_DECK_COMPLETE	폰트	Hud.pag	ItemsComplete	CARD DECK COMPLETE!
+336	ERROR_MEDIA_NOT_FORMATTED_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	The Memory Card in Slot $ is corrupted and needs to be formatted.
+337	ERROR_NO_MEDIA_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	Load failed! No Memory Card found in Slot $.
+338					Follow Cam
+339	MISSION_FAILED_RACE	폰트	MissionOver.pag	MissionFailureReason	You lost the race.
+340	SAVE_GAME_TO	폰트	SelectMemoryDevice.pag	LoadSave	Save to:
+341					Homer - Donut
+342	ERROR_MEDIA_CORRUPT_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	Save failed!  Please check Memory Card in Memory Card Slot $ and try again.
+343	ERROR_MEDIA_WRONG_TYPE_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	Save failed! Memory card in Memory Card Slot $ is incompatible with The Simpsons Hit & Run. It cannot be used.
+344	ERROR_MEDIA_NOT_FORMATTED_(GC)	폰트	ErrorPrompt.pag	Message	The Memory Card in Slot $ is corrupted and needs to be formatted.
+345					< FULL >
+346	9_LAPS	폰트	MiniMenu.pag	NumLaps	x 9
+347	MSG_DELETE_CORRUPT_(XBOX)	폰트	GenericPrompt.pag	Message	The Simpsons Hit & Run save game on memory unit $ is damaged.  Do you wish to delete the save game?
+348	BEST_TIME	폰트	MissionLoad.pag	BestTime	Best Time:
+349	ERROR_HW_FAILURE_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	Unable to load game. Press A to continue.
+350	MISSION_INFO_L3_M1	폰트	MissionLoad.pag	MissionInfo	RACE THE NERD TO THE ITCHY&SCRATCHY STORE. GET THE COMIC BACK BEFORE TIME RUNS OUT!
+351	MISSION_INFO_L3_M2	폰트	MissionLoad.pag	MissionInfo	FOLLOW MILHOUSE'S CLUES TO FIND BART. DON'T LET TIME RUN OUT!
+352	MISSION_INFO_L3_M3	폰트	MissionLoad.pag	MissionInfo	HELP APU DEFEAT THE MEAT-EATERS. HIT & COLLECT MEAT FROM CLETUS' TRUCK BEFORE TIME RUNS OUT!
+353	MISSION_INFO_L3_M4	폰트	MissionLoad.pag	MissionInfo	DESTROY THE BLACK SEDANS TO FIND A CLUE. DON'T LET TIME RUN OUT!
+354	MISSION_INFO_L3_M5	폰트	MissionLoad.pag	MissionInfo	FOLLOW SNAKE AND FIND "THREE STRIKES" OF EVIDENCE AGAINST HIM. DON'T MISS ANY ITEMS!
+355	MISSION_INFO_L3_M6	폰트	MissionLoad.pag	MissionInfo	SAVE THE SEA CAPTAIN'S FISH. COLLECT ALL THE FISH BEFORE TIME RUNS OUT!
+356	MISSION_INFO_L3_M7	폰트	MissionLoad.pag	MissionInfo	DESTROY THE BLACK LIMO TO FIND BART. DON'T LET TIME RUN OUT!
+357	MISSION_INFO_L3_M8	폰트	MissionLoad.pag	MissionInfo	CROSS THE FINISH LINE BEFORE TIME RUNS OUT. DON'T DESTROY YOUR VEHICLE.
+358	MISSION_INFO_L3_M9	폰트	MissionLoad.pag	MissionInfo	COMPLETE ALL LAPS AND FINISH THE RACE IN FIRST PLACE. DON'T DESTROY YOUR VEHICLE.
+359	MU_FULL_STATUS_(XBOX_HD)	폰트	MemoryCard.pag	Status	FULL
+360	MSG_DISPLAY_PROGRESSIVE_SCAN	폰트	GenericPrompt.pag	Message	Do you want to display in Progressive Mode?
+361					Malibu Stacy Car
+362	ITALIAN	폰트	Language.pag	Language3	Italiano
+363	GERMAN	폰트	Language.pag	Language2	Deutsch
+364	ERROR_MEDIA_NOT_PRESENT_(GC)	폰트	ErrorPrompt.pag	Message	No Memory Card found in Slot A or B.
+365	GAGS	폰트	ScrapBookStats.pag	Gags	Gags
+366	MSG_SAVE_CONFIRM_OVERWRITE_(PS2)	폰트	GenericPrompt.pag	Message	Are you sure you want to overwrite the existing save data?
+367	INVERT_CAM_CONTROL	폰트	PauseSettings.pag	InvertCamControl	Invert Camera Control
+368	PROGRESSIVE	폰트	Options.pag	DisplayMode_Value	Progressive
+369	ERROR_MEDIA_WRONG_TYPE_(PS2)	폰트	ErrorPrompt.pag	Message	Memory card in MEMORY CARD slot $ is incompatible with The Simpsons Hit & Run.  It cannot be used.
+370	ZOOM_FOV	폰트	ControllerGC.pag	Label11	CAMERA ZOOM
+371	GAMEPADCONFIG	폰트	ControllerPC.pag	Label01	Gamepad Config
+372	PRESS_START_RESUME_PLAY_GC	폰트	PauseFgd.pag	PressStartResumePlay	Press START to continue
+373					Format
+374					Chase Sedan
+375	CHECKING_MEMORY_CARDS_(XBOX)	폰트	MemCardCheck.pag	CheckingMemoryCards	Checking Xbox hard disk
+376	VEHICLE_ODDS	폰트	MissionLoad.pag	VehicleOdds	Difficulty:
+377					PSYCHE
+378					Bart - Cadet
+379	ERROR_MEDIA_ENCODING_ERROR_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	*
+380	RACE_SUMMARY	폰트	MiniSummary.pag	RaceSummary	Race Series Standings
+381	PURCHASE	폰트	Buy.pag	Accept	Purchase
+382					Clown Car
+383					Conversation Cam
+384	LOAD_GAME	폰트	MainMenu.pag	MainMenu_PC	LOAD GAME
+385	MSG_LOAD_CARD_EMPTY_(XBOX)	폰트	GenericPrompt.pag	Message	No Simpsons Hit & Run save game present on $.
+386	VIEW_MOVIES	폰트	Options.pag	ViewMovies	VIEW MOVIES
+387	MOVIES	폰트	ScrapBookStats.pag	Movies	Movies
+388	MU_UNFORMATTED_STATUS_(XBOX)	폰트	MemoryCard.pag	Status	Unusable
+389					Police Car
+390	ERROR_MEDIA_WRONG_TYPE_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+391	PAYOUT	폰트	MissionLoad.pag	Payout	Payout:
+392	ERROR_MEDIA_NOT_FORMATTED_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	Load failed! Xbox Memory Unit $ is not formatted.
+393	VINPUT_FIRSTPERSON	폰트	PCKeyboardConfig.pag	Label04	FIRST PERSON
+394	ACCEPT_MISSION	폰트	LetterBoxButtons.pag	Accept	Start Mission
+395					Itchy and Scratchy Movie Truck
+396	MISSION_TITLE_L3_M10	폰트	MissionLoad.pag	MissionTitle	Race 3:  Checkpoint Race
+397	MISSION_TITLE_L3_M11	폰트	MissionLoad.pag	MissionTitle	Race 4:  Wager Race
+398	MISSION_TITLE_L3_M12	폰트	MissionGallery.pag	MissionTitle	Princi-pal
+399					Lisa - Cool
+400	SAVE	폰트	Prompt.pag	Response2	Save
+401					70's Sports Car
+402	MINI_TRACK_UNLOCKED	폰트	Hud.pag	ItemsUnlocked	New bonus game track unlocked!
+403					Plow King
+404					Ghost Ship
+405	SKIP	폰트	MissionOver.pag	Response2	SKIP
+406	ERROR_SHELL_OPEN_(GC)	폰트	ErrorPrompt.pag	Message	*
+407	ERROR_MEDIA_ENCODING_ERROR_(PS2)	폰트	ErrorPrompt.pag	Message	*
+408	MISSION_FAILED_VEHICLE_DAMAGE_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Avoid hitting large objects (buildings, trees and vehicles).
+409	MISSION_FAILED_VEHICLE_DAMAGE_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Maintain control by using the E-brake to powerslide around corners.
+410	MISSION_FAILED_VEHICLE_DAMAGE_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Find wrenches to repair your vehicle.
+411	MISSION_FAILED_VEHICLE_DAMAGE_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Explore the level before attempting this mission.
+412	MISSION_FAILED_VEHICLE_DAMAGE_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Head-on collisions cause the most damage.
+413	MISSION_FAILED_VEHICLE_DAMAGE_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Collect coins to buy a different vehicle.
+414	MISSION_FAILED_VEHICLE_DAMAGE_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Visit phone booths to repair your vehicle.
+415	MISSION_FAILED_VEHICLE_DAMAGE_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Large vehicles can take more damage.
+416					Sedan
+417	MISSION_INFO_L1_M10	폰트	MissionLoad.pag	MissionInfo	PASS ALL CHECKPOINTS AND REACH THE FINISH LINE FIRST. DON'T DESTROY YOUR VEHICLE.
+418	MISSION_INFO_L1_M11	폰트	MissionLoad.pag	MissionInfo	COMPLETE AN ENTIRE LAP BEFORE TIME RUNS OUT TO WIN COINS.
+419	MISSION_INFO_L1_M12	폰트	MissionLoad.pag	MissionInfo	FIND CARDBOARD TUBES AND COLLECT THE TOMACCO HARVEST FOR CLETUS IN UNDER 2:30.
+420	FORMAT_XBOX	폰트	Prompt.pag	Response2	Format
+421	MSG_FORMAT_SUCCESS_(XBOX)	폰트	GenericPrompt.pag	Message	Format Successful.
+422	MISSION_INFO_L4_M1	폰트	MissionLoad.pag	MissionInfo	FIND CHIEF WIGGUM AND COLLECT DONUTS FOR HIM BEFORE TIME RUNS OUT!
+423	MISSION_INFO_L4_M2	폰트	MissionLoad.pag	MissionInfo	FOLLOW CLETUS AND COLLECT WHAT FALLS FROM HIS TRUCK. DON'T MISS ANY ITEMS!
+424	MISSION_INFO_L4_M3	폰트	MissionLoad.pag	MissionInfo	HELP CLETUS HARVEST KETCHUP PACKETS FOR THE WINTER. DON'T LET TIME RUN OUT!
+425	MISSION_INFO_L4_M4	폰트	MissionLoad.pag	MissionInfo	RACE CHIEF WIGGUM TO THE RETIREMENT CASTLE!
+426	MISSION_INFO_L4_M5	폰트	MissionLoad.pag	MissionInfo	GET GRAMPA'S MEDS BACK FROM THE BULLIES BEFORE TIME RUNS OUT. DON'T MISS ANY MEDS!
+427	MISSION_INFO_L4_M6	폰트	MissionLoad.pag	MissionInfo	RUN AND COLLECT ALL THE EVIL COLA CANS BEFORE TIME RUNS OUT!
+428	MISSION_INFO_L4_M7	폰트	MissionLoad.pag	MissionInfo	DESTROY ALL THE COLA DELIVERY TRUCKS BEFORE TIME RUNS OUT!
+429	MISSION_INFO_L4_M8	폰트	MissionLoad.pag	MissionInfo	CROSS THE FINISH LINE BEFORE TIME RUNS OUT. DON'T DESTROY YOUR VEHICLE.
+430	MISSION_INFO_L4_M9	폰트	MissionLoad.pag	MissionInfo	COMPLETE ALL LAPS AND FINISH THE RACE IN FIRST PLACE. DON'T DESTROY YOUR VEHICLE.
+431					SUV
+432					Ferrini - Red
+433					Pizza Van
+434	OPTIONS_(PAUSE)	폰트	PauseMission.pag	Options	OPTIONS
+435					Ice Cream Truck
+436	ERROR_MEDIA_ENCODING_ERROR_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	Load failed! Memory Card in Memory Card Slot $ is formatted for another market.
+437					Far Follow Cam
+438	MSG_SAVING_GAME_(GC)	폰트	Message.pag	Message	Saving. Do not touch the Memory Card in Slot $ or the POWER Button.
+439	VIEW_MODEL	폰트	Rewards.pag	ToggleView	Hide Stats
+440					HA-HA
+441	MU_INVALID_STATUS_(XBOX)	폰트	MemoryCard.pag	Status	Unusable
+442	LEVEL_PROGRESS	폰트	LevelStats.pag	LevelProgress	LEVEL PROGRESS
+443	OPTIONS	폰트	MainMenu.pag	MainMenu_PC	OPTIONS
+444	MSG_AUTO_LOADING_GAME_(GC)	폰트	Message.pag	Message	Auto-loading most recent saved game. Do not touch the Memory Card in Slot $ or the POWER Button.
+445	SELECT_MEMORY_DEVICE_(XBOX)	폰트	MemoryCard.pag	SelectMemoryDevice	Select Xbox Memory Unit or hard disk
+446	MSG_CONFIRM_RESTART	폰트	GenericPrompt.pag	Message	Are you sure you want to restart the current mission?
+447	COLLECTIBLE_CARDS	폰트	ScrapBookStats.pag	Cards	Collector Cards
+448	MISSION_FAILED_TIME_OUT_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Cut corners to save time.
+449	MISSION_FAILED_TIME_OUT_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Explore the level before attempting this mission.
+450	MISSION_FAILED_TIME_OUT_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Look between buildings for short-cuts.
+451	MISSION_FAILED_TIME_OUT_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Look for Krusty Glass to find short-cuts.
+452	MISSION_FAILED_TIME_OUT_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Avoid hitting traffic vehicles.
+453	MISSION_FAILED_TIME_OUT_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Collect coins to purchase a different vehicle.
+454	MISSION_FAILED_TIME_OUT_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Use a phone booth to repair your vehicle.
+455	MISSION_FAILED_TIME_OUT_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Speed is essential! Drive a fast vehicle.
+456					Homer - Muumuu
+457	VIBRATION	폰트	Controller.pag	Vibration	Vibration:
+458	MSG_LOADING_GAME_(GC)	폰트	Message.pag	Message	Loading. Do not touch the Memory Card in Slot $ or the POWER Button.
+459	CHECKING_MEMORY_CARD_2_(PS2)	폰트	MemCardCheck.pag	CheckingMemoryCards	Checking memory card in Slot 2
+460					MU 1A
+461					MU 1B
+462					MU 2A
+463					MU 2B
+464					MU 3A
+465					MU 3B
+466					MU 4A
+467					MU 4B
+468					Burnout Cam
+469	GAME_STATS	폰트	ScrapBookStats.pag	GameStats	GAME STATS
+470					School Bus
+471					ALTERNATE E-BRAKE
+472	0_LAPS	폰트	MiniMenu.pag	NumLaps	x 0
+473					R/C Buggy
+474	MEMCARD_HAS_MORE_FILES_(XBOX_MU)	폰트	GameSlots.pag	FullMessage	There are more saves found than the game can show. The Simpsons Hit & Run only supports 4 save games. 
+475					Planet Hype 50's Car
+476	ERROR_FILE_NOT_FOUND_(XBOX)	폰트	ErrorPrompt.pag	Message	Unable to load game.  Press A to continue.
+477	RESOLUTION	폰트	Display.pag	Resolution	Resolution
+478	EMPTY_SLOT	폰트	GameSlots.pag	Slot3	< EMPTY SLOT >
+479	MISSION_INFO_L6_M10	폰트	MissionLoad.pag	MissionInfo	PASS ALL CHECKPOINTS AND CROSS THE FINISH LINE FIRST. DON'T DESTROY YOUR VEHICLE.
+480	MISSION_INFO_L6_M11	폰트	MissionLoad.pag	MissionInfo	COMPLETE AN ENTIRE LAP BEFORE TIME RUNS OUT TO WIN COINS.
+481	MISSION_INFO_L6_M12	폰트	MissionLoad.pag	MissionInfo	HELP SNAKE TIE UP SOME "LOOSE ENDS." DESTROY CHIEF WIGGUM'S CAR AND COLLECT THE EVIDENCE.
+482	TOUGHNESS	폰트	Rewards.pag	Toughness	TOUGHNESS
+483	DISPLAY_MODE	폰트	Display.pag	DisplayMode	Display Mode
+484	ERROR_NO_FREE_SPACE_CHECKING_(XBOX)	폰트	ErrorPrompt.pag	Message	Your Xbox doesn't have enough free blocks to save games. You need to free # more block(s). Press A to continue without saving or B to free more blocks.
+485	ERROR_MEDIA_DAMAGED_(PS2)	폰트	ErrorPrompt.pag	Message	*
+486	MSG_FORMAT_SUCCESS_(PS2)	폰트	GenericPrompt.pag	Message	Format Successful.
+487					Station Wagon
+488					Electaurus
+489	MSG_FORMAT_CONFIRM_(PS2)	폰트	GenericPrompt.pag	Message	Memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ is unformatted. Format memory card (8MB) (for PlayStation®2)?
+490					/
+491	PRESS_START_XBOX	폰트	Splash.pag	PressStart	PRESS START
+492					Lisa - Hockey
+493	VIBRATION_SETTING	폰트	PauseSettings.pag	Vibration	Vibration
+494	MSG_SAVING_GAME_(XBOX)	폰트	Message.pag	Message	Saving game to memory unit $. Please don't remove memory units or disconnect any controllers.
+495	FORMAT_PS2	폰트	Prompt.pag	Response2	Format
+496					Witch Broom
+497	ERROR_MEDIA_WRONG_TYPE_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	Save failed! Memory card in MEMORY CARD slot $ is incompatible with The Simpsons Hit & Run. It cannot be used.
+498	VINPUT_MOVELEFT	폰트	PCKeyboardConfig.pag	Label02	MOVE LEFT
+499	MSG_FORMAT_CONFIRM2_(PS2)	폰트	GenericPrompt.pag	Message	Are you sure you want to format memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $?
+500	ERROR_NO_MEDIA_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	The Xbox Memory Unit $ was removed during use. Loading failed. Press A to continue.
+501					Comedy Cam
+502	MU_WRONG_TYPE_STATUS_(PS2)	폰트	MemoryCard.pag	Status	Memory card is incompatible with The Simpsons Hit & Run.  It cannot be used.
+503	MSG_DISPLAY_PROGRESSIVE_SCAN_TEST	폰트	GenericPrompt.pag	Message	Testing Progressive Mode.  Reverting back to Interlaced Mode in within 5 seconds.
+504					Format memory card (8MB) (for PlayStation®2)
+505	ITEM_DROPPED	폰트	Hud.pag	ItemDropped	Item Dropped!
+506					Zombie Car
+507	BEST_LAP	폰트	MiniSummary.pag	BestLap	Best Lap
+508	MISSION_FAILED_HIT_N_RUN	폰트	MissionOver.pag	MissionFailureReason	Hit & Run: You got busted!
+509					Curator
+510					Armored Truck
+511	MISSION_INFO_L5_M1	폰트	MissionLoad.pag	MissionInfo	FOLLOW THE COLA TRUCK AND COLLECT ALL THE EVIDENCE. DON'T MISS ANY COLA CRATES!
+512	MISSION_INFO_L5_M2	폰트	MissionLoad.pag	MissionInfo	DRIVE TO THE HOSPITAL BEFORE TIME RUNS OUT! AVOID THE MOB!
+513	MISSION_INFO_L5_M3	폰트	MissionLoad.pag	MissionInfo	HIT THE SHELBYVILLE VAN AND COLLECT THE DIAPERS BEFORE TIME RUNS OUT!
+514	MISSION_INFO_L5_M4	폰트	MissionLoad.pag	MissionInfo	FOLLOW THE POLICE TO FIND A CRIMINAL.
+515	MISSION_INFO_L5_M5	폰트	MissionLoad.pag	MissionInfo	COLLECT ALL THE GARBAGE BEFORE TIME RUNS OUT. DON'T MISS ANY PIECES OF GARBAGE!
+516	MISSION_INFO_L5_M6	폰트	MissionLoad.pag	MissionInfo	HELP SNAKE WITH HIS "COMMUNITY SERVICE." DESTROY THE ARMORED CAR AND AVOID CHIEF WIGGUM!
+517	MISSION_INFO_L5_M7	폰트	MissionLoad.pag	MissionInfo	DRIVE TO THE MUSEUM BEFORE THE CURATOR LEAVES.
+518	MISSION_INFO_L5_M8	폰트	MissionLoad.pag	MissionInfo	CROSS THE FINISH LINE BEFORE TIME RUNS OUT. DON'T DESTROY YOUR VEHICLE.
+519	MISSION_INFO_L5_M9	폰트	MissionLoad.pag	MissionInfo	COMPLETE ALL LAPS AND FINISH THE RACE IN FIRST PLACE. DON'T DESTROY YOUR VEHICLE.
+520	MU_INVALID_STATUS_(PS2)	폰트	MemoryCard.pag	Status	Memory card (8MB) (for PlayStation®2) is unusable.
+521	DELETE	폰트	Prompt.pag	Response2	Delete File
+522	MISSION_FAILED_NOT_ABDUCTED	폰트	MissionOver.pag	MissionFailureReason	Failed to get out of car.
+523	BRAKE_REVERSE_DOWN	폰트	ControllerPS2.pag	Label04	(DOWN) BRAKE / REVERSE
+524	MSG_CONFIRM_SAVE_BEFORE_QUIT	폰트	GenericPrompt.pag	Message	Do you want to save your game?
+525	CARD_DESC_00	폰트	ViewCard.pag	CardDescription	The pet project Homer is forced to abandon so he can work on his magic bat.
+526	CARD_DESC_01	폰트	ViewCard.pag	CardDescription	When given a choice between Crab Juice and a certain sugary soft drink, Homer chooses the crab juice--several cans of it. Unfortunately there's no nearby bathroom....
+527	CARD_DESC_02	폰트	ViewCard.pag	CardDescription	Grown in the jungle primeval by inmates of a South American insane asylum, these mercilessly hot peppers are the fuel for Homer's mystical journey to find his soul mate.
+528	CARD_DESC_03	폰트	ViewCard.pag	CardDescription	Homer's dream recliner, purchased for him by his long-lost Brother Herb.
+529	CARD_DESC_04	폰트	ViewCard.pag	CardDescription	The ancient and revered artifact that is most sacred to the secret order of Stonecutters. Used as a bib and hanky by Homer. Also used to clean his ears.
+530	CARD_DESC_05	폰트	ViewCard.pag	CardDescription	Homer's greatest rival at work. The inanimate carbon rod first beat him out for employee of the month, then was credited with saving the space shuttle crew upon re-entry.
+531	CARD_DESC_06	폰트	ViewCard.pag	CardDescription	The mascot for a popular Japanese cleaning product, that just happens to bear an uncanny resemblance to Homer J. Simpson.
+532	CARD_DESC_07	폰트	ViewCard.pag	CardDescription	*
+533	CARD_DESC_08	폰트	ViewCard.pag	CardDescription	Trying to impress some older kids, Bart cuts the head off the statue commemorating the town's founder.
+534	CARD_DESC_09	폰트	ViewCard.pag	CardDescription	What initially seemed like another lame present from Homer is put to good use by Bart when he uses it to fool the entire town into thinking that a kid is trapped at the bottom of a well.
+535	CARD_DESC_10	폰트	ViewCard.pag	CardDescription	Bart wanted this game so bad, he almost ended up doing hard time. 
+536	CARD_DESC_11	폰트	ViewCard.pag	CardDescription	Also known as "Buttzilla," this ordinary weather balloon was vandalized by Bart to resemble Principal Skinner.
+537	CARD_DESC_12	폰트	ViewCard.pag	CardDescription	Bart's beloved childhood doll, with head removed, used as Lisa's good luck charm during the big hockey game.
+538	CARD_DESC_13	폰트	ViewCard.pag	CardDescription	Fake, of course. Obviously Bart is too young to drive.
+539	CARD_DESC_14	폰트	ViewCard.pag	CardDescription	One of the countless products receiving the official Krusty Brand Seal of Approval. May cause birth defects.
+540	CARD_DESC_15	폰트	ViewCard.pag	CardDescription	*
+541	CARD_DESC_16	폰트	ViewCard.pag	CardDescription	This fossilized "angel skeleton" was actually part of a publicity stunt for Heavenly Hills Mall.
+542	CARD_DESC_17	폰트	ViewCard.pag	CardDescription	Sold to Milhouse for $5.00.
+543	CARD_DESC_18	폰트	ViewCard.pag	CardDescription	Lisa's answer to the sexist, vacuous talking Malibu Stacy doll. Alternative names for the doll suggested by Bart: "Blabbermouth - The Jerky Doll for Jerks," "Wendy Windbag," and "Ugly Doris."
+544	CARD_DESC_19	폰트	ViewCard.pag	CardDescription	Originally intended for someone else, Lisa gave this valentine to Ralph out of shear pity, a kindness she came to regret.
+545	CARD_DESC_20	폰트	ViewCard.pag	CardDescription	Lisa becomes obsessive as a result of a teacher's strike and finds ways to learn on her own.
+546	CARD_DESC_21	폰트	ViewCard.pag	CardDescription	Because the Simpsons do not have a dental plan, Lisa must settle for a cheaper set of braces that "pre-date stainless steel" so she can't get them wet.
+547	CARD_DESC_22	폰트	ViewCard.pag	CardDescription	Lisa's futuristic favorite snack in her college years as told by a fortune-teller.
+548	CARD_DESC_23	폰트	ViewCard.pag	CardDescription	*
+549	CARD_DESC_24	폰트	ViewCard.pag	CardDescription	Homer may no longer have his Mr. Plow business, but Marge won't let him get rid of the jacket.
+550	CARD_DESC_25	폰트	ViewCard.pag	CardDescription	Marge proves her artistic skill by revealing the inner beauty of a naked, ugly Monty Burns.
+551	CARD_DESC_26	폰트	ViewCard.pag	CardDescription	The only love letter Marge ever received from Homer, written on the back of a Postcard from the Duff Brewery in Capital City in 1978.
+552	CARD_DESC_27	폰트	ViewCard.pag	CardDescription	Homer gave a beautiful green bowling ball, engraved "Homer," to Marge for her birthday.
+553	CARD_DESC_28	폰트	ViewCard.pag	CardDescription	The red blazer representing the principles and ideals of the real estate industry.
+554	CARD_DESC_29	폰트	ViewCard.pag	CardDescription	Homer "gets" 2nd prize at a contest put on by the local radio station: a free boudoir photography session.
+555	CARD_DESC_30	폰트	ViewCard.pag	CardDescription	From Marge's brief stint as a police officer. Homer enjoys a squirt of pepper spray on his eggs in the morning.
+556	CARD_DESC_31	폰트	ViewCard.pag	CardDescription	*
+557	CARD_DESC_32	폰트	ViewCard.pag	CardDescription	Newly vegetarian Lisa gets a laugh when Apu shows her a t-shirt with the words, "Don't have a cow, man" on it.
+558	CARD_DESC_33	폰트	ViewCard.pag	CardDescription	The shirt worn by Homer's bowling team: Homer, Moe, Apu, and, unfortunately, Mr. Burns.
+559	CARD_DESC_34	폰트	ViewCard.pag	CardDescription	Protest sign wielded by an ignorant mob member protesting illegal immigrants, including Apu.
+560	CARD_DESC_35	폰트	ViewCard.pag	CardDescription	Apu is reduced to lying on the floor like a farm animal to feed his eight children.
+561	CARD_DESC_36	폰트	ViewCard.pag	CardDescription	Worn by Homer in a vain, last minute attempt to halt the arranged marriage ceremony of Apu and Manjula.
+562	CARD_DESC_37	폰트	ViewCard.pag	CardDescription	Apu invents a new type of Squishee which is tasted once, and only once, by Bart and then thrown in a dumpster.
+563	CARD_DESC_38	폰트	ViewCard.pag	CardDescription	The filth encrusted hot dog that got Apu briefly fired from the Kwik-E-Mart.
+564	CARD_DESC_39	폰트	ViewCard.pag	CardDescription	*
+565	CARD_DESC_40	폰트	ViewCard.pag	CardDescription	Purchased by Bart, Milhouse and Martin for a 100 dollars. The ensuing fight over ownership resulted in the valuable comic book being reduced to a tattered, destroyed mess.
+566	CARD_DESC_41	폰트	ViewCard.pag	CardDescription	The most popular personalized license plate available at the Itchy and Scratchy Land gift shop. "Bart" is nowhere to be found.
+567	CARD_DESC_42	폰트	ViewCard.pag	CardDescription	A memento from one of Bart's many brushes with greatness, when he was the beloved "I didn't do it" boy.
+568	CARD_DESC_43	폰트	ViewCard.pag	CardDescription	Bart makes a collect call to Australia which sparks an international conflict requiring him to make a formal public apology in Australia. The Australians want to punish him with "the Boot."
+569	CARD_DESC_44	폰트	ViewCard.pag	CardDescription	Part of Scratchy's arm on an animation cell. Bart paid 300 dollars for it and then extorted the cash from Mr. Burns.
+570	CARD_DESC_45	폰트	ViewCard.pag	CardDescription	A multitalented dummy outperformed Krusty and took over his timeslot and his fans.
+571	CARD_DESC_46	폰트	ViewCard.pag	CardDescription	Lisa's stolen hamster from her "Is my brother dumber than a hamster?" experiment.
+572	CARD_DESC_47	폰트	ViewCard.pag	CardDescription	*
+573	CARD_DESC_48	폰트	ViewCard.pag	CardDescription	When Homer runs out of donuts at work, he sells his soul to Devil Flanders for a tasty donut. 
+574	CARD_DESC_49	폰트	ViewCard.pag	CardDescription	This talking doll was bent on murdering Homer, until the repairman was called in to set its switch to "good" instead of "evil."
+575	CARD_DESC_50	폰트	ViewCard.pag	CardDescription	The cookbook used by Kodos to prepare fried shrimp for Lisa, sloppy Joe's for Bart, pork chops for Homer, and radish rosettes for Marge.
+576	CARD_DESC_51	폰트	ViewCard.pag	CardDescription	Homer accidently turned his toaster into a time machine, thus doing irreparable harm to the space-time continuum.
+577	CARD_DESC_52	폰트	ViewCard.pag	CardDescription	After Snake's execution, his body was carved up for organs and Homer got Snakes hair transplanted onto his head.
+578	CARD_DESC_53	폰트	ViewCard.pag	CardDescription	A cursed "Monkey's Paw" sold to Homer by the former President of Algeria.
+579	CARD_DESC_54	폰트	ViewCard.pag	CardDescription	Willie died on the thirteenth hour, of the thirteenth day, of the thirteenth month at a PTA meeting in Springfield Elementary--according to the school's calendar.
+580	CARD_DESC_55	폰트	ViewCard.pag	CardDescription	*
+581	SELECT_ANOTHER_MEMORY_DEVICE_(PS2)	폰트	SelectMemoryDevice.pag	SelectMemoryDevice	Select another memory card (8MB) (for PlayStation®2)
+582	MSG_DELETE_CORRUPT_SUCCESS_(XBOX)	폰트	GenericPrompt.pag	Message	Corrupted save has been deleted.
+583	MEMCARD_FULL_NO_EXISTING_(PS2)	폰트	GameSlots.pag	FullMessage	Insufficient space on memory card (8MB) (for PlayStation®2). The Simpsons Hit & Run requires 221 KB of free space to save game.
+584	VEHICLE_REPAIR_COST	폰트	PhoneBooth.pag	CostToFix	Cost to Fix:
+585	MEMCARD_FULL_NO_EXISTING_(XBOX_HD)	폰트	GameSlots.pag	FullMessage	Insufficient space on Xbox Hard Disk. The Simpsons Hit & Run requires 3 free blocks to save game.
+586	CAR_LOOK_UP_BEHIND	폰트	ControllerGC.pag	Label02	(UP / DOWN) LOOK UP / BACK
+587	VIEW_STATS	폰트	Rewards.pag	ToggleView	Show Stats
+588	ERROR_MEDIA_CORRUPT_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	This Memory Card is damaged and cannot be used.
+589	POINTS	폰트	MiniSummary.pag	Points	Points
+590					The multitap (for PlayStation®2) is disconnected.\Please reconnect the multitap (for PlayStation®2) to\controller port ¥ with the analog controller\(DUALSHOCK®2) in controller port ¥ and press\START button to continue.
+591	ERROR_WRONG_MEDIA_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	Load failed!  Please check Memory Card in Memory Card Slot $ and try again.
+592					(CLICK) TOGGLE FIRST PERSON VIEW
+593	MSG_FORMAT_FAIL_(PS2)	폰트	GenericPrompt.pag	Message	Format failed. Please check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ and try again
+594	MEMCARD_FULL_NO_EXISTING_(XBOX_MU)	폰트	GameSlots.pag	FullMessage	Insufficient space on Xbox Memory Unit. The Simpsons Hit & Run requires 3 free blocks to save game.
+595	TIME_TO_BEAT	폰트	MissionLoad.pag	TimeToBeat	Time to Beat:
+596					Minivan
+597	ERROR_NO_FREE_SPACE_(XBOX)	폰트	ErrorPrompt.pag	Message	Insufficient space on memory unit $. The Simpsons Hit & Run requires 3 blocks free to save a new file.
+598					*
+599					Bandit
+600	RUMBLE_SETTING	폰트	PauseSettings.pag	Vibration	Rumble
+601	NO_MEMORY_DEVICE_(GC)	폰트	MemoryCard.pag	NoMemoryDevice	No Memory Cards Available.
+602	PRESS_START_RESUME_PLAY_PS2	폰트	PauseFgd.pag	PressStartResumePlay	Press START button to Continue
+603	ERROR_MEDIA_NOT_FORMATTED_(PS2)	폰트	ErrorPrompt.pag	Message	Memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ is unformatted.
+604	1_LAPS	폰트	MiniMenu.pag	NumLaps	x 1
+605	ERROR_MEDIA_DAMAGED_(GC)	폰트	ErrorPrompt.pag	Message	The Memory Card in Slot $ is damaged and cannot be used.
+606	LOADING_0	폰트	LoadingFE.pag	Loading	LOADING
+607	LOADING_1	폰트	LoadingFE.pag	Loading	LOADING .
+608	LOADING_2	폰트	LoadingFE.pag	Loading	LOADING . .
+609	LOADING_3	폰트	LoadingFE.pag	Loading	LOADING . . .
+610	ERROR_DATA_CORRUPT_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	The Simpsons Hit & Run Saved Game file on Memory Card in Slot $ is corrupted and needs to be deleted.
+611					MISSION COMPLETE!
+612					Steering Wheel disconnected.   \Please reconnect the Steering Wheel \to the same USB connector and \press START button to continue.
+613	MSG_FORMAT_CONFIRM2_(XBOX)	폰트	GenericPrompt.pag	Message	Are you sure you want to format memory unit?
+614	MSG_SAVING_GAME_(PS2)	폰트	Message.pag	Message	Saving data. Do not remove memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $, reset, or switch off the console.
+615	FULL_SCREEN	폰트	Display.pag	DisplayMode_Value	Full Screen
+616	MSG_CONTROLLER_DISCONNECTED_(PS2)	폰트	Message.pag	Message	The analog controller (DUALSHOCK®2) is disconnected.\Please reconnect the analog controller\(DUALSHOCK®2) to controller port ¥ and\press START button to continue.
+617	BONUS_MISSIONS	폰트	ScrapBookStats.pag	BonusMissions	Bonus Missions
+618	ERROR_MEDIA_CORRUPT_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	The Memory Card in Slot $ is corrupted and needs to be formatted.
+619	ERROR_MEDIA_INVALID_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	Save failed! Something other than a Memory Card is inserted in Slot $.  Replace with a Memory Card.
+620	CREDITS_00	폰트	ViewCredits.pag	Credits0	The Simpsons Hit & Run\\\Vivendi Universal Games\\\\Producer\John Melchior\\Associate Producers\Mike Schneider\Timothy Ramage\\Vice President of Technology\Michael Heilemann\\
+621	CREDITS_01	폰트	ViewCredits.pag	Credits1	Publishing\Suzan Rude\Julie Uhrman\Cathy Truong\Jason Nicol\\\Vice President of Marketing\Ed Zobrist\\Marketing Director\Ivo Gerscovich\\Assistant Marketing Manager\Jack Van Leer\\
+622	CREDITS_02	폰트	ViewCredits.pag	Credits2	Director of Public Relations\Sarita Churchill\\Creative Services Director\Michael Bannon\\Creative Services Manager\Marcela Cabrera\\Senior Designer\Debi Laezman\\Account Manager\Maggie Storm Gardner\\
+623	CREDITS_03	폰트	ViewCredits.pag	Credits3	Manual Layout\Lauren Azeltine\\\\Vivendi Universal Games\Special Thanks (Marketing)\Jennifer Belardinelli\Amy Chen\Eric Culqui\Lindsey Fischer\Kevin Fremon\Adrian Garza\Linda Howard\
+624	CREDITS_04	폰트	ViewCredits.pag	Credits4	Raymond Kim\Cheryl Kramp\Steven Parker\Ambra Roth\Glen Rane\Sasha Stearns\Kristin Sutter\Julie Thomas\Yoh Watanabe\Cathy Weiss\Guy Welch\Irene Woticky\\\
+625	CREDITS_05	폰트	ViewCredits.pag	Credits5	Senior Vice President, General Manager\Michael Pole\\\Vice President of QA, Customer Service\& Technical Support\Rod Shean\\QA Manager\ James Galloway\\
+626	CREDITS_06	폰트	ViewCredits.pag	Credits6	QA Brand Manager\Igor Krinitskiy\\QA Supervisor\Michael Gonzales\\VUPC Director\Randy Linch\\QA Project Lead\Michael Graham\\QA Associate Project Lead\Geoff Bent\\
+627	CREDITS_07	폰트	ViewCredits.pag	Credits7	QA Testers\Jonathan Backer\Tony Black\Terrance Brant\Mathew Byward\Brian Douglass\Glenn Dphrepaulezz\Bob Eatmon\Paul Edwards\Ulysses Forosan\Nathan Gary\Tim Harrison\Ben Hines\Jen Johnson\Brian Kang\
+628	CREDITS_08	폰트	ViewCredits.pag	Credits8	Cris Lee\Jonathan Masterson\Joaquin Meza\Arabian Nazel\Joe Olivas\Michael Palomino\William Pamier\Daniel Quesada\Ali Raza\Jason Reis\Jamie Saxon\Luke Thai\Ellen Williams\Calvin Wong\Donna Woo\Jacob Zabie\\\\
+629	CREDITS_09	폰트	ViewCredits.pag	Credits9	Special Thanks\Steven Bersch, Peter Byrne, Alex Duke,\Tom Gastall, Greg Goodrich, Tim Hall,\Gail Harrison, Claudia Katz, Luke Letizia,\Dan Mackechnie, Bill Morrison, Rich Moore,\
+630	CREDITS_10	폰트	ViewCredits.pag	Credits10	Philip O'Neil, Stacey Robinson, Jamie Samson,\Feza Sanigok, Mark Vu, Jim Wilson,\Chris Wilson, Matt Wolf\\\
+631	CREDITS_11	폰트	ViewCredits.pag	Credits11	Creative Consultants\James L. Brooks\Matt Groening\Denise Sirkot\Mili Smythe\\Voice Talent\Dan Castellaneta\Julie Kavner\Nancy Cartwright\Yeardley Smith\Hank Azaria\Harry Shearer\\
+632	CREDITS_12	폰트	ViewCredits.pag	Credits12	Additional Voices\Pamela Hayden\Tress MacNeille\Karl Wiedergott\\Story & Dialogue\Matt Selman\Tim Long\Matt Warburton\\Voice Recording\Larina Jean Adamson\\The Simpsons Theme Song\Danny Elfman\\\
+633	CREDITS_13	폰트	ViewCredits.pag	Credits13	DEVELOPED BY RADICAL ENTERTAINMENT\\Producer\Vlad Ceraldi\\Associate Producer\Steve Bocska\\Art Director\Yayoi Maruno-Chorney\\Technical Director\Joel DeYoung\\
+634	CREDITS_14	폰트	ViewCredits.pag	Credits14	Sound Director/Lead Composer\Marc Baril\\Project Manager/Manager Sound Department\Wolfgang Hamann\\Pre-Production Project Manager\Allister Jones\\Senior Game Designer\Joe McGinn\\
+635	CREDITS_15	폰트	ViewCredits.pag	Credits15	Game Designers\Darren Evenson\Chris Mitchell\Joshua Mitchell\Jeff Plumley\Sheik Sahib\\Senior Design Consultant\Galan Akin\\Additional Design\Earl Berkeley\Jason Elliott\Brian Smedley\\
+636	CREDITS_16	폰트	ViewCredits.pag	Credits16	Lead Animator\Jeremy Mesana\\Lead World Modelers\Sarah Meagher\Jeffrey Pidsadny\\
+637	CREDITS_17	폰트	ViewCredits.pag	Credits17	3D Artists\Vincent Chin\Jaroslav Chorny\Anshin Chu\Dustin Condie\Brad Dixon\Kevin Fink\Aryan Hanbeck\Eric Madill\Mike Marraffa\Sanela Mickovic\Robert Peet\John Zhongyi Wang\Ross Young\\
+638	CREDITS_18	폰트	ViewCredits.pag	Credits18	Animators\Trevor Lim\Yousuf Mapara\Ron Sombilon\\Graphic Artists\Dallas Bolton\Ting Ting Chen\\Lead Programmers\Cary Brisebois\Nigel Brooke\Darren Esau\\
+639	CREDITS_19	폰트	ViewCredits.pag	Credits19	Programmers\Chuck Chow\Tony Chu\Jesse Cluff\Dusit Eakkachaichanvet\Ian Gipson\James Harrison\Greg Mayer\Devin Murnane\Michael Riegger\\Lead Tester\Mark Ng\\
+640	CREDITS_20	폰트	ViewCredits.pag	Credits20	Testers\Alan Cheung\Chris Dellinger\Matthew Miller\\Lead Sound Effects Designer\Cory Hawthorne\\Engine Sound Designer\Marc L'Esperance\\
+641	CREDITS_21	폰트	ViewCredits.pag	Credits21	Additional Music Composition\Allan Levy\Jeff Tymoschuk\\Audio Assistant\Roman Tomazin\\Dialogue Editing/Mastering\James Meyer\\Music/FMV Mixing\Jeff Young\\
+642	CREDITS_22	폰트	ViewCredits.pag	Credits22	Musicians\Derry Byrne\Pepe Danza\Chris Gestrin\Ross Gregory\James Hamilton\Rob Hamilton\Miles Hill\Jamie Kaufmann\Harish Kumar\Andre Lachance\Brad Muirhead\Rod Murray\Jim Pinchin\
+643	CREDITS_23	폰트	ViewCredits.pag	Credits23	John Reichmann\Phil Robertson\Bill Runge\Mike Sanyshyn\Chris Stevens\Jim Woodyard\\
+644	CREDITS_24	폰트	ViewCredits.pag	Credits24	Special Thanks\Jason Bone, David Chandler, Peter De Tina,\Earl Fast, Jared Fry, Chris Glenat, Julian Green,\Cliff Haman, Shannon Hancock, Jeff Harkness,\Shamus Horak, Wade Howard, Shawn Knapp,\
+645	CREDITS_25	폰트	ViewCredits.pag	Credits25	Shawn Lee, Eric Legaspi, Lester Li,\Jonathan Lim, Colin Lorimer, Jen MacDougall,\Brandon McGuigan, Craig McPherson,\Scott Morgan, Jonathan Moyes, Richard Mul,\Wilkin Ng, Propellerhead Software,\
+646	CREDITS_26	폰트	ViewCredits.pag	Credits26	RAD Game Tools (Bink Video software),\Geoff Richardson, Dave Roberts at MOTU,\Elliott Roessler, Bob Simpson and\Reid King at TEAC/TASCAM Canada Ltd.,\Ziemek Trzesicki, Shawn Walsh\\
+647	CREDITS_27	폰트	ViewCredits.pag	Credits27	This game is built with\Copperhead Technology:\www.touchdownentertainment.com\\Copperhead Technology Team\Michael Anderson, Amit Bakshi, Nigel Brooke,\Pam Chow, Rod Davison, Bryan Ewert,\
+648	CREDITS_28	폰트	ViewCredits.pag	Credits28	Rustle Hill, Tim Hinds, Eric Honsch,\Stan Jang, Adrian Johnston, Senta Kaiser,\Justin Lam, Peter Mielcarski, Robert Sparks,\Paul Stark, James Tan, Jodi Tilley,\Neall Verheyde, Kevin Voon,\Hongzhi Wang, Harold Westlund\\
+649	CREDITS_29	폰트	ViewCredits.pag	Credits29	Includes Logitech® Force Feedback Technology\\
+650	CREDITS_30	폰트	ViewCredits.pag	Credits30	Very special thanks to our families and\friends for supporting us through the\challenging process of developing this game.\\\
+651					*
+652	NOT_AVAILABLE	폰트	PauseSettings.pag	Camera_Value	( N/A )
+653	MISSION_FAILED_FOLLOW_DISTANCE_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Explore the level before attempting this mission.
+654	MISSION_FAILED_FOLLOW_DISTANCE_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Look for Krusty Glass to find short-cuts.
+655	MISSION_FAILED_FOLLOW_DISTANCE_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Keep the vehicle you are following in sight.
+656	MISSION_FAILED_FOLLOW_DISTANCE_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Remain a short distance behind the vehicle you are following.
+657	MISSION_FAILED_FOLLOW_DISTANCE_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Use short-cuts to catch up to the vehicle you are following.
+658	MISSION_FAILED_FOLLOW_DISTANCE_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Try to match the speed of the vehicle you are following.
+659	MISSION_FAILED_FOLLOW_DISTANCE_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Collect coins to purchase a different vehicle.
+660	MISSION_FAILED_FOLLOW_DISTANCE_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Maintain control by using the E-brake to powerslide around corners.
+661	ERROR_DATA_CORRUPT_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	Save failed! The Simpsons Hit & Run Save Game file in Slot $ is corrupt and must be deleted. OK?
+662					Ambulance
+663					L
+664					Charred Husk
+665	PRESS_START	폰트	MiniMenu.pag	PressStart3	PRESS START
+666					Knight Boat
+667	MSG_DELETE_CORRUPT_FAIL_(XBOX)	폰트	GenericPrompt.pag	Message	Failed deleting corrupted file.
+668	ERROR_NO_MEDIA_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	Save failed! No Memory Card found in Slot $.
+669					Cell Phone Car A
+670					Cell Phone Car B
+671					Cell Phone Car C
+672					Cell Phone Car D
+673	VOICE	폰트	Sound.pag	Voice	VOICE
+674	MISSION_INFO_L6_M1	폰트	MissionLoad.pag	MissionInfo	COLLECT ALL THE KIDS AND GET TO KRUSTYLU STUDIOS BEFORE KRUSTY LEAVES.
+675	MISSION_INFO_L6_M2	폰트	MissionLoad.pag	MissionInfo	FIND KRUSTY'S LIMO TO FIND KRUSTY. TALK TO KRUSTY BEFORE HIS LIMO PICKS HIM UP.
+676	MISSION_INFO_L6_M3	폰트	MissionLoad.pag	MissionInfo	FIND AND FOLLOW PROFESSOR FRINK.
+677	MISSION_INFO_L6_M4	폰트	MissionLoad.pag	MissionInfo	DRIVE TO THE BREWERY AND STOP THE ALIENS' PLAN. HIT THE TRUCK AND COLLECT THE LASER GUNS.
+678	MISSION_INFO_L6_M5	폰트	MissionLoad.pag	MissionInfo	DESTROY PRINCIPAL SKINNER'S CAR AND TAKE BACK THE LASER GUN BEFORE TIME RUNS OUT!
+679	MISSION_INFO_L6_M6	폰트	MissionLoad.pag	MissionInfo	DESTROY ALL THE FREE LASER STANDS IN SPRINGFIELD BEFORE TIME RUNS OUT!
+680	MISSION_INFO_L6_M7	폰트	MissionLoad.pag	MissionInfo	RACE TO THE BREWERY BEFORE THE ALIENS ESCAPE.
+681	MISSION_INFO_L6_M8	폰트	MissionLoad.pag	MissionInfo	CROSS THE FINISH LINE BEFORE TIME RUNS OUT. DON'T DESTROY YOUR VEHICLE.
+682	MISSION_INFO_L6_M9	폰트	MissionLoad.pag	MissionInfo	COMPLETE ALL LAPS AND FINISH THE RACE IN FIRST PLACE. DON'T DESTROY YOUR VEHICLE.
+683	MSG_CONFIRM_NEW_GAME	폰트	GenericPrompt.pag	Message	Restarting will cause all unsaved game progress to be lost. Restart anyway?
+684					Pickup Truck
+685	ERROR_MEDIA_INVALID_(PS2)	폰트	ErrorPrompt.pag	Message	*
+686	MEMCARD_FULL_HAS_EXISTING_(PS2)	폰트	GameSlots.pag	FullMessage	Insufficient space on memory card (8MB) (for PlayStation®2). The Simpsons Hit & Run requires 221 KB of free space to save game. You can only overwrite existing save file.
+687					Bumper Cam
+688	MISSION_TITLE_L5_M10	폰트	MissionLoad.pag	MissionTitle	Race 3:  Checkpoint Race
+689	MISSION_TITLE_L5_M11	폰트	MissionLoad.pag	MissionTitle	Race 4:  Wager Race
+690	MISSION_TITLE_L5_M12	폰트	MissionGallery.pag	MissionTitle	Kinky Frinky
+691	MISSION_OBJECTIVE_00	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO MARGE
+692	MISSION_OBJECTIVE_01	폰트	PauseMissionObjective.pag	MissionObjective	ENTER THE SCHOOL 
+693	MISSION_OBJECTIVE_02	폰트	PauseMissionObjective.pag	MissionObjective	GET INTO THE VEHICLE
+694	MISSION_OBJECTIVE_03	폰트	PauseMissionObjective.pag	MissionObjective	GO TO THE FLANDERS HOUSE AND TALK TO NED
+695	MISSION_OBJECTIVE_04	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO NED
+696	MISSION_OBJECTIVE_05	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE PACKETS OF KETCHUP
+697	MISSION_OBJECTIVE_06	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO LENNY
+698	MISSION_OBJECTIVE_07	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY SMITHERS' VEHICLE BEFORE HE REACHES THE POWER PLANT
+699	MISSION_OBJECTIVE_08	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE POWER PLANT 
+700	MISSION_OBJECTIVE_09	폰트	PauseMissionObjective.pag	MissionObjective	GET AWAY FROM THE ALIEN CAR
+701	MISSION_OBJECTIVE_10	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY ALL THE POWER COUPLINGS
+702	MISSION_OBJECTIVE_11	폰트	PauseMissionObjective.pag	MissionObjective	RETURN TO YOUR WORKSTATION FOR A NAP
+703	MISSION_OBJECTIVE_12	폰트	PauseMissionObjective.pag	MissionObjective	GET INTO YOUR VEHICLE
+704	MISSION_OBJECTIVE_13	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE BLACK VAN
+705	MISSION_OBJECTIVE_14	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW SNAKE AND COLLECT EVIDENCE
+706	MISSION_OBJECTIVE_15	폰트	PauseMissionObjective.pag	MissionObjective	ENTER THE SIMPSONS HOUSE
+707	MISSION_OBJECTIVE_16	폰트	PauseMissionObjective.pag	MissionObjective	HIT THE DELIVERY TRUCK AND COLLECT THE BONESTORM GAMES
+708	MISSION_OBJECTIVE_17	폰트	PauseMissionObjective.pag	MissionObjective	SET THE FISH FREE
+709	MISSION_OBJECTIVE_18	폰트	PauseMissionObjective.pag	MissionObjective	RACE SMITHERS TO MR. BURNS' MANSION
+710	MISSION_OBJECTIVE_19	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO MR. BURNS
+711	MISSION_OBJECTIVE_20	폰트	PauseMissionObjective.pag	MissionObjective	FIND BART ON THE SHIP
+712	MISSION_OBJECTIVE_21	폰트	PauseMissionObjective.pag	MissionObjective	FIND CHIEF WIGGUM
+713	MISSION_OBJECTIVE_22	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE DONUT TRUCK
+714	MISSION_OBJECTIVE_23	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE CROP CIRCLE
+715	MISSION_OBJECTIVE_24	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW CLETUS AND COLLECT HIS STUFF
+716	MISSION_OBJECTIVE_25	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO CLETUS
+717	MISSION_OBJECTIVE_26	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE KETCHUP
+718	MISSION_OBJECTIVE_27	폰트	PauseMissionObjective.pag	MissionObjective	FIND HANS MOLEMAN
+719	MISSION_OBJECTIVE_28	폰트	PauseMissionObjective.pag	MissionObjective	GET TO GRAMPA FIRST
+720	MISSION_OBJECTIVE_29	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO GRAMPA
+721	MISSION_OBJECTIVE_30	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE BULLIES IN THE SCHOOL PLAYGROUND
+722	MISSION_OBJECTIVE_31	폰트	PauseMissionObjective.pag	MissionObjective	DETROY THE BLACK CAR
+723	MISSION_OBJECTIVE_32	폰트	PauseMissionObjective.pag	MissionObjective	TAKE THE BLOOD BACK TO GRAMPA
+724	MISSION_OBJECTIVE_33	폰트	PauseMissionObjective.pag	MissionObjective	FIND BART
+725	MISSION_OBJECTIVE_34	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE COLA SHIPMENT
+726	MISSION_OBJECTIVE_35	폰트	PauseMissionObjective.pag	MissionObjective	FIND APU
+727	MISSION_OBJECTIVE_36	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE TRUCK
+728	MISSION_OBJECTIVE_37	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE NEXT TRUCK
+729	MISSION_OBJECTIVE_38	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE LAST TRUCK
+730	MISSION_OBJECTIVE_39	폰트	PauseMissionObjective.pag	MissionObjective	GO HOME
+731	MISSION_OBJECTIVE_40	폰트	PauseMissionObjective.pag	MissionObjective	GET AWAY FROM CHIEF WIGGUM
+732	MISSION_OBJECTIVE_41	폰트	PauseMissionObjective.pag	MissionObjective	FIND FLANDERS' TUXEDO
+733	MISSION_OBJECTIVE_42	폰트	PauseMissionObjective.pag	MissionObjective	FIND FLANDERS' LAWN MOWER
+734	MISSION_OBJECTIVE_43	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO BARNEY
+735	MISSION_OBJECTIVE_44	폰트	PauseMissionObjective.pag	MissionObjective	FIND FLANDERS' LAWN CHAIR
+736	MISSION_OBJECTIVE_45	폰트	PauseMissionObjective.pag	MissionObjective	FIND FLANDERS' FAMILY PORTRAIT
+737	MISSION_OBJECTIVE_46	폰트	PauseMissionObjective.pag	MissionObjective	FIND ROD'S INHALER
+738	MISSION_OBJECTIVE_47	폰트	PauseMissionObjective.pag	MissionObjective	RACE PRINCIPAL SKINNER TO THE SCHOOL
+739	MISSION_OBJECTIVE_48	폰트	PauseMissionObjective.pag	MissionObjective	LOSE THE TAIL
+740	MISSION_OBJECTIVE_49	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO WALL E. WEASEL'S
+741	MISSION_OBJECTIVE_50	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE TRY-N-SAVE
+742	MISSION_OBJECTIVE_51	폰트	PauseMissionObjective.pag	MissionObjective	GET AWAY FROM PRINCIPAL SKINNER
+743	MISSION_OBJECTIVE_52	폰트	PauseMissionObjective.pag	MissionObjective	ENTER MOE'S
+744	MISSION_OBJECTIVE_53	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO RALPH
+745	MISSION_OBJECTIVE_54	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO COMIC BOOK GUY
+746	MISSION_OBJECTIVE_55	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE STADIUM 
+747	MISSION_OBJECTIVE_56	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE ITCHY AND SCRATCHY STORE
+748	MISSION_OBJECTIVE_57	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO HERMAN'S MILITARY ANTIQUES
+749	MISSION_OBJECTIVE_58	폰트	PauseMissionObjective.pag	MissionObjective	LOOK FOR THE THIEF
+750	MISSION_OBJECTIVE_59	폰트	PauseMissionObjective.pag	MissionObjective	WIN THE RACE 
+751	MISSION_OBJECTIVE_60	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO SNAKE
+752	MISSION_OBJECTIVE_61	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE FLATMEAT
+753	MISSION_OBJECTIVE_62	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO DR. NICK
+754	MISSION_OBJECTIVE_63	폰트	PauseMissionObjective.pag	MissionObjective	FIND ALL THE MONKEYS BEFORE THEY ESCAPE FROM SPRINGFIELD
+755	MISSION_OBJECTIVE_64	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE CELL PHONE USER'S CAR
+756	MISSION_OBJECTIVE_65	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE MONORAIL STATION
+757	MISSION_OBJECTIVE_66	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO PROFESSOR FRINK
+758	MISSION_OBJECTIVE_67	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE COLA TRUCK AND THEN INVESTIGATE ON FOOT
+759	MISSION_OBJECTIVE_68	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE COLA TRUCK AND COLLECT ALL THE FALLEN CRATES
+760	MISSION_OBJECTIVE_69	폰트	PauseMissionObjective.pag	MissionObjective	PICK UP THE KIDS AND GO TO KRUSTYLU BEFORE KRUSTY LEAVES
+761	MISSION_OBJECTIVE_70	폰트	PauseMissionObjective.pag	MissionObjective	RACE KRUSTY'S LIMO TO THE SQUIDPORT
+762	MISSION_OBJECTIVE_71	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE HOSPITAL
+763	MISSION_OBJECTIVE_72	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO DR. HIBBERT
+764	MISSION_OBJECTIVE_73	폰트	PauseMissionObjective.pag	MissionObjective	HIT THE VAN AND COLLECT THE DIAPERS 
+765	MISSION_OBJECTIVE_74	폰트	PauseMissionObjective.pag	MissionObjective	FIND CHIEF WIGGUM AT THE POLICE STATION 
+766	MISSION_OBJECTIVE_75	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW CHIEF WIGGUM TO FIND A PROFESSIONAL CRIMINAL
+767	MISSION_OBJECTIVE_76	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE REMAINING GARBAGE FOR SNAKE
+768	MISSION_OBJECTIVE_77	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE FOLDER
+769	MISSION_OBJECTIVE_78	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE ARMORED CAR
+770	MISSION_OBJECTIVE_79	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE ARMORED CAR
+771	MISSION_OBJECTIVE_80	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO SNAKE'S HIDEOUT
+772	MISSION_OBJECTIVE_81	폰트	PauseMissionObjective.pag	MissionObjective	STEAL BOARDS FROM CLETUS
+773	MISSION_OBJECTIVE_82	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO JASPER
+774	MISSION_OBJECTIVE_83	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO MOE
+775	MISSION_OBJECTIVE_84	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE ALIEN CAR
+776	MISSION_OBJECTIVE_85	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE THE WASTE TO THE ALIEN SHIP
+777	MISSION_OBJECTIVE_86	폰트	PauseMissionObjective.pag	MissionObjective	FIND MR. BURNS
+778	MISSION_OBJECTIVE_87	폰트	PauseMissionObjective.pag	MissionObjective	RACE THE ALIEN CAR TO THE NUCLEAR WASTE
+779	MISSION_OBJECTIVE_88	폰트	PauseMissionObjective.pag	MissionObjective	TAKE THE NUCLEAR WASTE TO THE ALIEN SHIP AT THE SCHOOL
+780	MISSION_OBJECTIVE_89	폰트	PauseMissionObjective.pag	MissionObjective	GET OUT OF YOUR VEHICLE - QUICK!
+781	MISSION_OBJECTIVE_90	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW PROFESSOR FRINK
+782	MISSION_OBJECTIVE_91	폰트	PauseMissionObjective.pag	MissionObjective	WATCH OUT FOR THE BLACK SEDANS
+783	MISSION_OBJECTIVE_92	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY PRINCIPAL SKINNER'S CAR AND RECOVER THE LASER GUN
+784	MISSION_OBJECTIVE_93	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY ALL OF THE LASER STANDS
+785	MISSION_OBJECTIVE_94	폰트	PauseMissionObjective.pag	MissionObjective	RACE THE ALIENS TO THE DUFF BREWERY
+786	MISSION_OBJECTIVE_95	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE SPRINGFIELD SIGN
+787	MISSION_OBJECTIVE_96	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO PROFESSOR FRINK 
+788	MISSION_OBJECTIVE_97	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE BLACK SEDAN
+789	MISSION_OBJECTIVE_98	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE BLACK LIMO
+790	MISSION_OBJECTIVE_99	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE EVIDENCE
+791	MANAGE_MEM_CARD_GC	폰트	Prompt.pag	Response2	Manage Memory Card
+792	MU_WRONG_ENCODING_STATUS_(XBOX)	폰트	MemoryCard.pag	Status	Unusable
+793	TOTAL_TIME	폰트	MiniSummary.pag	TotalTime	Total Time
+794					Marge - Classy
+795					Garbage Truck
+796	MISSION_TITLE_L1_M0	폰트	MissionLoad.pag	MissionTitle	The Cola Caper
+797	MISSION_TITLE_L1_M1	폰트	MissionGallery.pag	MissionTitle	S-M-R-T
+798	MISSION_TITLE_L1_M2	폰트	MissionGallery.pag	MissionTitle	Petty Theft Homer
+799	MISSION_TITLE_L1_M3	폰트	MissionGallery.pag	MissionTitle	Office Spaced
+800	MISSION_TITLE_L1_M4	폰트	MissionGallery.pag	MissionTitle	Blind Big Brother
+801	MISSION_TITLE_L1_M5	폰트	MissionGallery.pag	MissionTitle	Flowers By Irene
+802	MISSION_TITLE_L1_M6	폰트	MissionGallery.pag	MissionTitle	Bonestorm Storm
+803	MISSION_TITLE_L1_M7	폰트	MissionGallery.pag	MissionTitle	The Fat and Furious
+804	MISSION_TITLE_L1_M8	폰트	MissionLoad.pag	MissionTitle	Race 1:  Time Trial
+805	MISSION_TITLE_L1_M9	폰트	MissionLoad.pag	MissionTitle	Race 2:  Circuit Race
+806	MU_WRONG_ENCODING_STATUS_(GC)	폰트	MemoryCard.pag	Status	*
+807					Tractor
+808					Hearse
+809	MSG_CONFIRM_ABORT	폰트	GenericPrompt.pag	Message	Are you sure you want to cancel the current mission?
+810	ACCELERATE	폰트	ControllerGC.pag	Label09	ACCELERATE
+811					October 25
+812					Local Man Ruins Hot Dog Eating Contest
+813					Disqualified for Vomitting
+814					Study: 90% of Video Games Start With Easy Tutorial Level
+815					October 26
+816					Low Level Employee Harasses Millionaire, Hounds Released
+817					Bonestorm 2 Out Today - Record Truancy Rate Expected
+818					*
+819					October 27
+820					Bart Simpson Disappears in Bright Light
+821					Family Pleads to Light: Give Back Our Boy
+822					"Look Who's Drunk"
+823					October 28
+824					Mysterious Shape Found in Field
+825					Confused Yokel Scratches Head. Local Boy Found Safe - Mind Erased, Pants Soiled
+826					Artist Rendering
+827					October 29
+828					Exciting New Cola Gains Popularity "Cola is Great!" Says Cola Institute
+829					Annoying Housewife Claims Cola "Evil"
+830					Photo Supplied by Husband
+831					October 30
+832					Krusty at Squidport today for Cola - bration
+833					Krusty vows to fight paternity suit
+834					*
+835					October 31
+836					Aliens invade Springfield! Evil Cola causes dead to rise from grave
+837					Local Brain wholesaler reports surge in business
+838					*
+839	MUSIC	폰트	Sound.pag	Music	MUSIC
+840	JUMP	폰트	ControllerGC.pag	Label05	JUMP
+841					PAUSE
+842					< Corrupt File >
+843	MSG_SAVE_SUCCESSFUL	폰트	GenericPrompt.pag	Message	Save Successful
+844	MSG_SAVE_CONFIRM_(GC)	폰트	GenericPrompt.pag	Message	Ready to save. Do not touch the Memory Card or the POWER Button.
+845	MISSION_INFO_L3_M10	폰트	MissionLoad.pag	MissionInfo	PASS ALL CHECKPOINTS AND CROSS THE FINISH LINE FIRST. DON'T DESTROY YOUR VEHICLE.
+846	MISSION_INFO_L3_M11	폰트	MissionLoad.pag	MissionInfo	COMPLETE AN ENTIRE LAP BEFORE TIME RUNS OUT TO WIN COINS.
+847	MISSION_INFO_L3_M12	폰트	MissionLoad.pag	MissionInfo	HELP PRINCIPAL SKINNER COMPLETE HIS ERRANDS BEFORE TIME RUNS OUT!
+848	ERROR_NO_FREE_SPACE_CHECKING_(GC)	폰트	ErrorPrompt.pag	Message	There is insufficient space to save a new file to the Memory Card in Memory Card Slot $. The Simpsons Hit & Run requires 1 file and 2 blocks. Existing files may be loaded and overwritten.
+849	MISSION_FAILED_POSITION_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Maintain control by using the E-brake to powerslide around corners.
+850	MISSION_FAILED_POSITION_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Explore the map to learn the race route and find short-cuts.
+851	MISSION_FAILED_POSITION_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Force other cars off the road or into large objects.
+852	MISSION_FAILED_POSITION_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Look for Krusty Glass to find short-cuts.
+853	MISSION_FAILED_POSITION_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Look between buildings for short-cuts.
+854	MISSION_FAILED_POSITION_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Cut corners to save time.
+855	MISSION_FAILED_POSITION_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Complete all street races to earn a different vehicle.
+856	MISSION_FAILED_POSITION_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Collect coins to purchase a different vehicle.
+857	CHECKING_MEMORY_CARD_B_(GC)	폰트	MemCardCheck.pag	CheckingMemoryCards	Checking Memory Card Slot B
+858					Hover Car
+859	RESUME_GAME	폰트	MainMenu.pag	MainMenu_PC	RESUME GAME
+860	ABORT_MISSION	폰트	PauseMission.pag	AbortMission	CANCEL MISSION
+861	2_LAPS	폰트	MiniMenu.pag	NumLaps	x 2
+862	MSG_SAVE_CONFIRM_OVERWRITE_(XBOX)	폰트	GenericPrompt.pag	Message	An existing game has been found.  Overwrite existing game?
+863	NOT_USED	폰트	PCKeyboardConfig.pag	Map2Label13	(NOT USED)
+864	MSG_HARDDISK_FULL_(XBOX)	폰트	GenericPrompt.pag	Message	The hard disk does not have enough free blocks for this saved game. # block(s) must be freed.
+865	MISSION_FAILED_OUT_OF_BOUNDS	폰트	MissionOver.pag	MissionFailureReason	Out of bounds.
+866					El Carro Loco
+867	FREE_SPACE	폰트	MemoryCard.pag	FreeBlocks	Free Blocks:
+868					Globex Super Villain Car
+869					First Person Cam
+870	MISSION_FAILED_PLAYER_HIT	폰트	MissionOver.pag	MissionFailureReason	Player hit.
+871	EFFECTS	폰트	Sound.pag	Effects	EFFECTS
+872					Marge - Police
+873	MOVE_CHARACTER	폰트	ControllerGC.pag	Label01	MOVE CHARACTER
+874	LEVEL_1	폰트	LevelBar.pag	Level	LEVEL 1
+875	LEVEL_2	폰트	LevelBar.pag	Level	LEVEL 2
+876	LEVEL_3	폰트	LevelBar.pag	Level	LEVEL 3
+877	LEVEL_4	폰트	LevelBar.pag	Level	LEVEL 4
+878	LEVEL_5	폰트	LevelBar.pag	Level	LEVEL 5
+879	LEVEL_6	폰트	LevelBar.pag	Level	LEVEL 6
+880	LEVEL_7	폰트	LevelBar.pag	Level	LEVEL 7
+881	ENGLISH	폰트	Language.pag	Language0	English
+882	ENGINE	폰트	Sound.pag	Engine	VEHICLE
+883					Speed Rocket
+884	ERROR_DATA_CORRUPT_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	Save failed! Unable to save game.  Press A to continue.
+885	WASPS_COMPLETE	폰트	Hud.pag	WaspsComplete	LEVEL WASPS COMPLETE!
+886					Monorail Car
+887	RESTART_MISSION	폰트	PauseMission.pag	RestartMission	RESTART MISSION
+888					Burns Armored Truck
+889	MISSION_INFO_L7_M1	폰트	MissionLoad.pag	MissionInfo	COLLECT SUPPLIES TO HELP FEND OFF THE ZOMBIES. DON'T LET TIME RUN OUT!
+890	MISSION_INFO_L7_M2	폰트	MissionLoad.pag	MissionInfo	FIND OUT WHERE THE ALIEN CAR IS HEADED. FOLLOW THE CAR!
+891	MISSION_INFO_L7_M3	폰트	MissionLoad.pag	MissionInfo	PROTECT PROFESSOR FRINK FROM THE ALIENS. DELIVER THE NUCLEAR WASTE TO THE SPACESHIP.
+892	MISSION_INFO_L7_M4	폰트	MissionLoad.pag	MissionInfo	FIND A SOURCE OF NUCLEAR WASTE BEFORE TIME RUNS OUT!
+893	MISSION_INFO_L7_M5	폰트	MissionLoad.pag	MissionInfo	COLLECT AND DELIVER THE NUCLEAR WASTE TO THE SPACESHIP. DON'T LET TIME RUN OUT!
+894	MISSION_INFO_L7_M6	폰트	MissionLoad.pag	MissionInfo	COLLECT AND DELIVER THE NUCLEAR WASTE TO THE SPACESHIP. DON'T LET TIME RUN OUT!
+895	MISSION_INFO_L7_M7	폰트	MissionLoad.pag	MissionInfo	COLLECT AND DELIVER THE NUCLEAR WASTE TO THE SPACESHIP. DON'T LET TIME RUN OUT!
+896	MISSION_INFO_L7_M8	폰트	MissionLoad.pag	MissionInfo	CROSS THE FINISH LINE BEFORE TIME RUNS OUT. DON'T DESTROY YOUR VEHICLE.
+897	MISSION_INFO_L7_M9	폰트	MissionLoad.pag	MissionInfo	COMPLETE ALL LAPS AND FINISH THE RACE IN FIRST PLACE. DON'T DESTROY YOUR VEHICLE.
+898					PRESS ¿ TO ACCELERATE\USE [ TO STEER\USE µ TO BRAKE\USE § TO HANDBRAKE
+899	DISPLAY	폰트	Controller.pag	Display	Display:
+900	ERROR_MEDIA_INVALID_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	*
+901					Chase Cam
+902	MISSION_FAILED_RACE_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Maintain control by using the E-brake to powerslide around corners.
+903	MISSION_FAILED_RACE_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Explore the map to learn the race route and find short-cuts.
+904	MISSION_FAILED_RACE_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Force other cars off the road or into large objects.
+905	MISSION_FAILED_RACE_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Look for Krusty Glass to find short-cuts.
+906	MISSION_FAILED_RACE_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Look between buildings for short-cuts.
+907	MISSION_FAILED_RACE_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Cut corners to save time.
+908	MISSION_FAILED_RACE_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Complete all street races to earn a different vehicle.
+909	MISSION_FAILED_RACE_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Collect coins to purchase a different vehicle.
+910	CLOTHES	폰트	ScrapBookContents.pag	CharacterClothing	Clothes
+911	ERROR_MEDIA_WRONG_TYPE_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+912	MU_INVALID_STATUS_(GC)	폰트	MemoryCard.pag	Status	This device is not supported. Replace with a Memory Card.
+913					36 Stutz Bearcat
+914	ON_FOOT	폰트	Controller.pag	Display_Value	On Foot
+915	MU_WRONG_TYPE_STATUS_(XBOX)	폰트	MemoryCard.pag	Status	Unusable
+916	ERROR_MEDIA_WRONG_TYPE_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+917	ERROR_MEDIA_NOT_FORMATTED_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+918	ERROR_SHELL_OPEN_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+919					Lisa - Floreda
+920	MSG_FORMATTING_(XBOX)	폰트	Message.pag	Message	Formatting. Please don't remove memory units or disconnect any controllers.
+921	INTRO_MOVIE	폰트	ViewMovies.pag	IntroMovie	GAME INTRODUCTION
+922					USE + OR LEFT ANALOG STICK\TO MOVE AROUND\USE ¡ TO JUMP\PRESS AND HOLD ® TO RUN
+923					Walker Cam
+924	MEMCARD_FULL_NO_EXISTING_(GC)	폰트	GameSlots.pag	FullMessage	Insufficient space to save to this Memory Card. The Simpsons Hit & Run requires 1 file and 2 blocks. To manage the contents of your Memory Card, use the Memory Card Screen.
+925	MISSION_TITLE_L2_M1	폰트	MissionGallery.pag	MissionTitle	Detention Deficit Disorder
+926	MISSION_TITLE_L2_M2	폰트	MissionGallery.pag	MissionTitle	Weapons of Mass Delinquency
+927	MISSION_TITLE_L2_M3	폰트	MissionGallery.pag	MissionTitle	Vox Nerduli
+928	MISSION_TITLE_L2_M4	폰트	MissionGallery.pag	MissionTitle	Bart 'n' Frink
+929	MISSION_TITLE_L2_M5	폰트	MissionGallery.pag	MissionTitle	Better Than Beef
+930	MISSION_TITLE_L2_M6	폰트	MissionGallery.pag	MissionTitle	Monkey See Monkey D'oh
+931	MISSION_TITLE_L2_M7	폰트	MissionGallery.pag	MissionTitle	Cell-Outs
+932	MISSION_TITLE_L2_M8	폰트	MissionLoad.pag	MissionTitle	Race 1:  Time Trial
+933	MISSION_TITLE_L2_M9	폰트	MissionLoad.pag	MissionTitle	Race 2:  Circuit Race
+934	ERROR_MEDIA_INVALID_(GC)	폰트	ErrorPrompt.pag	Message	The device in Slot $ is not supported. Replace with a Memory Card.
+935	VINPUT_HORN	폰트	PCKeyboardConfig.pag	Label12	HORN
+936	PAUSE	폰트	ControllerGC.pag	Label10	PAUSE
+937	VINPUT_DOACTION	폰트	PCKeyboardConfig.pag	Label08	DO ACTION
+938	CHANGE_TRACK_DIRECTION	폰트	MiniMenu.pag	Options	Change Track Direction
+939	LOADING	폰트	Loading.pag	Loading	LOADING
+940					Homer - Casual
+941					Limo
+942	RUMBLE	폰트	Controller.pag	Vibration	Rumble:
+943	VIEW_CREDITS	폰트	Options.pag	ViewCredits	VIEW CREDITS
+944	TURN_LEFT_RIGHT	폰트	ControllerGC.pag	Label00	TURN LEFT / RIGHT
+945	MSG_FORMAT_CONFIRM_(XBOX)	폰트	GenericPrompt.pag	Message	Format Memory Unit?
+946	BUSTED	폰트	Hud.pag	HitNRun	BUSTED!
+947	MSG_LOAD_CARD_EMPTY_(PS2)	폰트	GenericPrompt.pag	Message	No Simpsons Hit & Run save data present on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $.
+948	MSG_SAVING_GAME_(XBOX_HD)	폰트	Message.pag	Message	Saving game. Please don't turn off your Xbox console.
+949	MISSION_FAILED_OUT_OF_BOUNDS_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Keep control of your vehicle.
+950	MISSION_FAILED_OUT_OF_BOUNDS_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Drive more carefully.
+951	MISSION_FAILED_OUT_OF_BOUNDS_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Use the brakes to control your speed.
+952	MISSION_FAILED_OUT_OF_BOUNDS_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Keep control of your vehicle.
+953	MISSION_FAILED_OUT_OF_BOUNDS_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Use the hand brake to corner better.
+954	MISSION_FAILED_OUT_OF_BOUNDS_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Look ahead for upcoming hazards.
+955	MISSION_FAILED_OUT_OF_BOUNDS_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Use the brakes to control your speed.
+956	MISSION_FAILED_OUT_OF_BOUNDS_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Look ahead for upcoming hazards.
+957	ERROR_MEDIA_WRONG_TYPE_LOADING_(PS2)	폰트	ErrorPrompt.pag	Message	Load failed! Memory card in MEMORY CARD slot $ is incompatible with The Simpsons Hit & Run. It cannot be used.
+958					Near Follow Cam
+959					Bart - Football
+960	MISSION_FAILED_GET_COLLECTIBLES_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : If any items are left behind, you will fail the mission.
+961	MISSION_FAILED_GET_COLLECTIBLES_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't drive too far away from an item while following the vehicle.
+962	MISSION_FAILED_GET_COLLECTIBLES_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Keep the vehicle you are following in sight and collect ALL the items.
+963	MISSION_FAILED_GET_COLLECTIBLES_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't leave any items behind while following the vehicle.
+964	MISSION_FAILED_GET_COLLECTIBLES_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't forget to collect ALL the items.
+965	MISSION_FAILED_GET_COLLECTIBLES_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : If you drive too far away from an item, you will fail the mission.
+966	MISSION_FAILED_GET_COLLECTIBLES_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : ALL items must be collected.
+967	MISSION_FAILED_GET_COLLECTIBLES_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Stay close to the vehicle you are following and collect ALL the items.
+968					Tracker Cam
+969					Pickup
+970	ERROR_MEDIA_INVALID_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	Save failed! Media invalid!
+971	IS_MOVIE_UNLOCKED	폰트	Hud.pag	ItemsUnlocked	New bonus game track unlocked! Itchy & Scratchy movie ticket unlocked!
+972	ERROR_NO_FREE_SPACE_(GC)	폰트	ErrorPrompt.pag	Message	There is insufficient space to save to the Memory Card in Memory Card Slot $. The Simpsons Hit & Run requires 1 free file and 2 free blocks to save a new file.
+973					Compact Car
+974	CONTINUE_(PAUSE)	폰트	PauseMission.pag	Continue	CONTINUE
+975	HORN_TAUNT	폰트	ControllerGC.pag	Label08	HORN
+976	3_LAPS	폰트	MiniMenu.pag	NumLaps	x 3
+977	ERROR_NO_FREE_SPACE_(PS2)	폰트	ErrorPrompt.pag	Message	There is insufficient space in the memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $. To save the data, at least 221 KB of free space must be available.
+978	ERROR_NO_MEDIA_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	The Xbox Memory Unit $ was removed during use. Saving failed. Press A to continue.
+979	MSG_DELETE_CORRUPT_FAIL_(GC)	폰트	GenericPrompt.pag	Message	Failed deleting corrupted file. Please check Memory Card in Slot $ and try again
+980	ERROR_MEDIA_NOT_FORMATTED_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	Save failed! Memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ is unformatted.
+981	MSG_FORMATTING_(PS2)	폰트	Message.pag	Message	Formatting. Do not remove memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $, reset, or switch off the console.
+982	CHECKING_MEMORY_CARDS_(GC)	폰트	MemCardCheck.pag	CheckingMemoryCards	Checking Memory Card Slot A and B
+983	ERROR_NO_MEDIA_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	Save failed! Memory card (8MB) (for PlayStation®2) is not inserted into MEMORY CARD slot $.
+984	MISSION_FAILED_HIT_N_RUN_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't get caught by the cops
+985	MISSION_FAILED_HIT_N_RUN_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Switching clothes lowers the meter
+986	MISSION_FAILED_HIT_N_RUN_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Use wrenches to fix your vehicle
+987	MISSION_FAILED_HIT_N_RUN_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Drive more carefully
+988	MISSION_FAILED_HIT_N_RUN_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't hit pedestrians
+989	MISSION_FAILED_HIT_N_RUN_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Switching clothes lowers the meter
+990	MISSION_FAILED_HIT_N_RUN_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Entering interiors lowers the meter
+991	MISSION_FAILED_HIT_N_RUN_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Reckless driving attracts the cops
+992	JUMP_CAMERAS	폰트	PauseSettings.pag	JumpCamera	Jump Cameras
+993	STREET_RACES	폰트	ScrapBookStats.pag	StreetRaces	Street Races
+994	OPEN_BOOK	폰트	ScrapBook.pag	OpenBook	OPEN BOOK
+995	WINS	폰트	MiniSummary.pag	Wins	Wins
+996					Freeing more blocks will result in loss of current game settings. Do you wish to continue?
+997	MEMCARD_FULL_HAS_EXISTING_(GC)	폰트	GameSlots.pag	FullMessage	Insufficient space to save to this Memory Card. The Simpsons Hit & Run requires 1 file and 2 blocks. Existing files may be overwritten. To manage the contents of your Memory Card, use the Memory Card Screen.
+998	MSG_DELETE_CORRUPT_SUCCESS_(GC)	폰트	GenericPrompt.pag	Message	Corrupted file has been deleted.
+999	VEHICLE_DAMAGED	폰트	PhoneBooth.pag	VehicleDamaged	Damaged:
+1000	TUTORIAL_000	폰트	Hud.pag	Message	TO DESTROY WASP CAMERAS, JUMP\INTO THE AIR WITH THE ¡ BUTTON\AND THEN PRESS THE § BUTTON\TO KICK THE WASP
+1001	TUTORIAL_001	폰트	Hud.pag	Message	BONUS MISSION
+1002	TUTORIAL_002	폰트	Hud.pag	Message	USE [ OR + TO MOVE AROUND\USE ¡ TO JUMP\PRESS AND HOLD ® TO RUN
+1003	TUTORIAL_003	폰트	Hud.pag	Message	PRESS ¿ TO ACCELERATE\USE [ OR + TO STEER\USE µ TO BRAKE\USE § TO HANDBRAKE
+1004	TUTORIAL_004	폰트	Hud.pag	Message	PRESS @ TO GET INTO CAR
+1005	TUTORIAL_005	폰트	Hud.pag	Message	FIND ALL GAGS
+1006	TUTORIAL_006	폰트	Hud.pag	Message	WIN ALL RACES TO GET A CAR
+1007	TUTORIAL_007	폰트	Hud.pag	Message	FIND ALL CARDS TO GET A SURPRISE
+1008	TUTORIAL_008	폰트	Hud.pag	Message	USE COINS TO PURCHASE\CARS AND CLOTHES
+1009	TUTORIAL_009	폰트	Hud.pag	Message	PRESS @ TO USE TELEPHONE BOOTH.
+1010	TUTORIAL_010	폰트	Hud.pag	Message	PRESS @ TO GET INTO THE CAR.
+1011	TUTORIAL_011	폰트	Hud.pag	Message	PRESS © TO KICK BOX
+1012	TUTORIAL_012	폰트	Hud.pag	Message	BREAK CERTAIN OBJECTS TO GET COINS
+1013	TUTORIAL_013	폰트	Hud.pag	Message	PRESS @ TO GO INSIDE
+1014	TUTORIAL_014	폰트	Hud.pag	Message	COIN COLLECTED
+1015	TUTORIAL_015	폰트	Hud.pag	Message	VEHICLE DESTROYED!\FIND A WRENCH,\OR GO TO A PHONEBOOTH,\TO REPAIR YOUR VEHICLE.
+1016					UNLOCKED CAR\GO TO PHONE BOOTH TO ACCESS\THIS VEHICLE AT ANY TIME
+1017					USE WRENCHES TO FIX YOUR CAR
+1018					PRESS @ TO GET INTO CAR
+1019					GAG APPROACHED
+1020					WIN THE TIME TRIAL RACE\TO EARN EXTRA COINS
+1021					INVALID TUTORIAL ENTRY
+1022	CHECKING_MEMORY_CARDS_(PC)	폰트	MemCardCheck.pag	CheckingMemoryCards	Checking the hard disk
+1023					Apu - American
+1024	CAR_LOOK_LEFT_RIGHT	폰트	ControllerGC.pag	Label03	(LEFT / RIGHT) LOOK LEFT / RIGHT
+1025	CAMERA_ZOOM_IN_OUT	폰트	ControllerGC.pag	Label02	(UP / DOWN) CAMERA ZOOM IN / OUT
+1026					CONGRATULATIONS!
+1027	CARDS	폰트	ScrapBookContents.pag	CollectorCards	Cards
+1028					ALTERNATE GAS
+1029					Bart - Ninja
+1030	SOUND	폰트	Options.pag	Sound	SOUND
+1031					(DOWN) HORN
+1032	E_BRAKE	폰트	ControllerGC.pag	Label04	E-BRAKE
+1033	CONTINUE_WITHOUT_FORMAT	폰트	Prompt.pag	Response2	Continue Without Format
+1034	MISSION_TITLE_L2_M10	폰트	MissionLoad.pag	MissionTitle	Race 3:  Checkpoint Race
+1035	MISSION_TITLE_L2_M11	폰트	MissionLoad.pag	MissionTitle	Race 4:  Wager Race
+1036	MISSION_TITLE_L2_M12	폰트	MissionGallery.pag	MissionTitle	Dial B for Blood
+1037	LAPS	폰트	Hud.pag	Laps	LAPS
+1038					Bart - Bartman
+1039	CARD_QUOTE1_00	폰트	ViewCard.pag	Quote0	"Yeah, I got a magic bat, too."
+1040	CARD_QUOTE1_01	폰트	ViewCard.pag	Quote0	"New York is a hell-hole; and you know how I feel about hell-holes."
+1041	CARD_QUOTE1_02	폰트	ViewCard.pag	Quote0	"What's that smell? Onions, chili powder, cumin, juicy ground chuck... it's chili! Oh my God, I'm missing the chili cook off! (WHINING) I'm missing the cook off, it's going on right now and I'm missing it...."
+1042	CARD_QUOTE1_03	폰트	ViewCard.pag	Quote0	"Marge, there's an empty spot I've always had inside me. I tried to fill it with family, religion, community service. But those were all dead ends. I think this chair is the answer."
+1043	CARD_QUOTE1_04	폰트	ViewCard.pag	Quote0	"Why don't those stupid idiots let me in their crappy club for jerks?"
+1044	CARD_QUOTE1_05	폰트	ViewCard.pag	Quote0	"Stupid carbon rod. It's all just a popularity contest."
+1045	CARD_QUOTE1_06	폰트	ViewCard.pag	Quote0	"Get out of my way, all of you! This is no place for loafers. Join me or die. Can you do any less?"
+1046	CARD_QUOTE1_07	폰트	ViewCard.pag	Quote0	*
+1047	CARD_QUOTE1_08	폰트	ViewCard.pag	Quote0	"I mean throwing rocks at a statue is one thing, but I'd never cut the head off a guy who iced a bear with his bare hands."
+1048	CARD_QUOTE1_09	폰트	ViewCard.pag	Quote0	"Well I'm afraid we've got a budget problem, Mrs. Simpson. Your boy picked a bad time to fall down a well. If he'd done it at the start of the fiscal year, no problemo."
+1049	CARD_QUOTE1_10	폰트	ViewCard.pag	Quote0	"Buy me Bonestorm or go to hell!"
+1050	CARD_QUOTE1_11	폰트	ViewCard.pag	Quote0	"Oh, it won't come down for months. Curse the man who invented helium. Curse Pierre Jules Cesar Janssen!"
+1051	CARD_QUOTE1_12	폰트	ViewCard.pag	Quote0	"That's very nice dad, but it's wrong for you to reward violent, competitive behavior. However, I will sit up front with you if it's a fatherly gesture of love."
+1052	CARD_QUOTE1_13	폰트	ViewCard.pag	Quote0	"Twenty-five years old? You're not twenty-five years old. This ID is completely fake."
+1053	CARD_QUOTE1_14	폰트	ViewCard.pag	Quote0	"It isn't fair. I'm ten times the Krusty fan you are--I even have the Krusty Home Pregnancy Test."
+1054	CARD_QUOTE1_15	폰트	ViewCard.pag	Quote0	*
+1055	CARD_QUOTE1_16	폰트	ViewCard.pag	Quote0	"I just think it's a fantasy. If you believe in angels, then why not unicorns or sea monsters or leprechauns?"
+1056	CARD_QUOTE1_17	폰트	ViewCard.pag	Quote0	"I can't take this anymore. I want my soul, and I want it now!" (RUNS AWAY)
+1057	CARD_QUOTE1_18	폰트	ViewCard.pag	Quote0	"A hush falls over the general assembly as Stacy approaches the podium to deliver what will no doubt be a stirring and memorable address."
+1058	CARD_QUOTE1_19	폰트	ViewCard.pag	Quote0	"I am so glad you cho-cho-chose to come."
+1059	CARD_QUOTE1_20	폰트	ViewCard.pag	Quote0	"Lisa, if you don't like your job you don't strike; you just go in everyday and do it really half-assed--that's the American way."
+1060	CARD_QUOTE1_21	폰트	ViewCard.pag	Quote0	"I'm also afraid little Lisa is going to need braces."
+1061	CARD_QUOTE1_22	폰트	ViewCard.pag	Quote0	"So Hugh, have you heard all the latest American jokes? Uh, here's a good one: Pull my finger..."
+1062	CARD_QUOTE1_23	폰트	ViewCard.pag	Quote0	*
+1063	CARD_QUOTE1_24	폰트	ViewCard.pag	Quote0	(RAPPING) "Boom ch-cha boom ch-cha boom ch-boom--I'm Mr. Plow and I'm here to say, I'm the plowing-est guy in the USA. I gotta big plow and I move a lot of things, just like your cow if you have one."
+1064	CARD_QUOTE1_25	폰트	ViewCard.pag	Quote0	"Thanks for not making fun of my genitalia."
+1065	CARD_QUOTE1_26	폰트	ViewCard.pag	Quote0	"Maybe it's the beer talking Marge but you got a butt that won't quit. They got those big chewy pretzels here merJanthfgrr five dollars??!!! get outta here...."
+1066	CARD_QUOTE1_27	폰트	ViewCard.pag	Quote0	"Don't worry, this frosting will come right off. Beauty, isn't she?"
+1067	CARD_QUOTE1_28	폰트	ViewCard.pag	Quote0	"What'd you use Marge, huh? The old buff and bluff? The Hail Murray? The Susquehanna Shuffle, huh, huh, huh?"
+1068	CARD_QUOTE1_29	폰트	ViewCard.pag	Quote0	"Gee, you said you were gonna make me look sexier, but it's awfully dark in here."
+1069	CARD_QUOTE1_30	폰트	ViewCard.pag	Quote0	"Homer, give me my pepper spray."
+1070	CARD_QUOTE1_31	폰트	ViewCard.pag	Quote0	*
+1071	CARD_QUOTE1_32	폰트	ViewCard.pag	Quote0	(READING) "Come to Homer's BBBQ. The extra B is for BYOBB. What's that extra 'B' for?"
+1072	CARD_QUOTE1_33	폰트	ViewCard.pag	Quote0	"This just in, a new addition to our 'worst dressed list'--those guys!"
+1073	CARD_QUOTE1_34	폰트	ViewCard.pag	Quote0	"Oh I wish, oh I wish I could have stayed just one more year or two. There was so much that I wanted to see and to do and to have done to me."
+1074	CARD_QUOTE1_35	폰트	ViewCard.pag	Quote0	"Oh, look who's here, the family with one baby. How do you manage?"
+1075	CARD_QUOTE1_36	폰트	ViewCard.pag	Quote0	"Oh, do you think this marriage could really work?"
+1076	CARD_QUOTE1_37	폰트	ViewCard.pag	Quote0	"Otto-Man, you're living in a dumpster?"
+1077	CARD_QUOTE1_38	폰트	ViewCard.pag	Quote0	(SINGS SADLY) "Who needs the Kwik-E-Mart? I do...."
+1078	CARD_QUOTE1_39	폰트	ViewCard.pag	Quote0	*
+1079	CARD_QUOTE1_40	폰트	ViewCard.pag	Quote0	"A hundred bucks? For a comic book? Who drew it, Micha-ma-langelo?"
+1080	CARD_QUOTE1_41	폰트	ViewCard.pag	Quote0	"Mommy, mommy! Buy me a license plate."
+1081	CARD_QUOTE1_42	폰트	ViewCard.pag	Quote0	"Oh don't worry about it. You're just finished, that's all. It happens all the time. That's show business for you. One day you're the most important guy who ever lived... the next day you're some schmo working in a box factory."
+1082	CARD_QUOTE1_43	폰트	ViewCard.pag	Quote0	"When will you Australians learn? In America, we stopped using corporal punishment, and things have never been better. The streets are safe. Old people strut confidently through the darkest alleys."
+1083	CARD_QUOTE1_44	폰트	ViewCard.pag	Quote0	"This card is one hundred percent, absolutely, positively, guaranteed to increase in value."
+1084	CARD_QUOTE1_45	폰트	ViewCard.pag	Quote0	"All right, here's the deal. Every time you watch my show, I will send you... forty dollars!"
+1085	CARD_QUOTE1_46	폰트	ViewCard.pag	Quote0	"Step right up folks! We'll answer the question that's been plaguing scientists for ages: Can hamsters fly planes?"
+1086	CARD_QUOTE1_47	폰트	ViewCard.pag	Quote0	*
+1087	CARD_QUOTE1_48	폰트	ViewCard.pag	Quote0	"Who's that goat-legged fellow? I like the cut of his jib."
+1088	CARD_QUOTE1_49	폰트	ViewCard.pag	Quote0	"The doll's trying to kill me and the toaster's been laughing at me."
+1089	CARD_QUOTE1_50	폰트	ViewCard.pag	Quote0	"You speak English?"
+1090	CARD_QUOTE1_51	폰트	ViewCard.pag	Quote0	"You're still not in your own world, Homer. I can get you home, but you'll have to do exactly as I--" (SCREAMS)
+1091	CARD_QUOTE1_52	폰트	ViewCard.pag	Quote0	"Of course! The transplant! Somehow, Snake's hair must be controlling--"
+1092	CARD_QUOTE1_53	폰트	ViewCard.pag	Quote0	"Come to think of it the guy that sold me this thing did say the wishes would bring grave misfortune--I thought he was just being colorful."
+1093	CARD_QUOTE1_54	폰트	ViewCard.pag	Quote0	"We were there to discuss the misprinted calendars the school had purchased."
+1094	CARD_QUOTE1_55	폰트	ViewCard.pag	Quote0	*
+1095	INTERSECT_NAV_SYSTEM	폰트	PauseSettings.pag	IntersectNavSystem	Navigation System
+1096	ERROR_HW_FAILURE_LOADING_(GC)	폰트	ErrorPrompt.pag	Message	Load failed! A fatal error has occurred.
+1097	MSG_AUTO_LOADING_GAME_(PS2)	폰트	Message.pag	Message	Auto-loading most recent saved game. Do not remove memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $, reset, or switch off the console.
+1098					Static Cam
+1099					Kremlin
+1100	RACE_COMPLETE_INFO_ALL_1	폰트	MissionLoad.pag	PattyAndSelmaInfo	Go to a phone booth to get the Electaurus
+1101	RACE_COMPLETE_INFO_ALL_2	폰트	MissionLoad.pag	PattyAndSelmaInfo	Go to a phone booth to get Moe's Sedan
+1102	RACE_COMPLETE_INFO_ALL_3	폰트	MissionLoad.pag	PattyAndSelmaInfo	Go to a phone booth to get the Book Burning Van
+1103	RACE_COMPLETE_INFO_ALL_4	폰트	MissionLoad.pag	PattyAndSelmaInfo	Go to a phone booth to get the Clown Car
+1104	RACE_COMPLETE_INFO_ALL_5	폰트	MissionLoad.pag	PattyAndSelmaInfo	Go to a phone booth to get the El Carro Loco
+1105	RACE_COMPLETE_INFO_ALL_6	폰트	MissionLoad.pag	PattyAndSelmaInfo	Go to a phone booth to get the 36 Stutz Bearcat
+1106	RACE_COMPLETE_INFO_ALL_7	폰트	MissionLoad.pag	PattyAndSelmaInfo	Go to a phone booth to get the Open Wheel Racer
+1107					Lisa - Normal
+1108	VEHICLES	폰트	ScrapBookStats.pag	Vehicles	Vehicles
+1109	MISSION_TITLE_L3_M1	폰트	MissionGallery.pag	MissionTitle	Nerd Race Queen
+1110	MISSION_TITLE_L3_M2	폰트	MissionGallery.pag	MissionTitle	Clueless
+1111	MISSION_TITLE_L3_M3	폰트	MissionGallery.pag	MissionTitle	Bonfire of the Manatees
+1112	MISSION_TITLE_L3_M4	폰트	MissionGallery.pag	MissionTitle	Operation Hellfish
+1113	MISSION_TITLE_L3_M5	폰트	MissionGallery.pag	MissionTitle	Slithery Sleuthing
+1114	MISSION_TITLE_L3_M6	폰트	MissionGallery.pag	MissionTitle	Fishy Deals
+1115	MISSION_TITLE_L3_M7	폰트	MissionGallery.pag	MissionTitle	The Old Pirate and the Sea
+1116	MISSION_TITLE_L3_M8	폰트	MissionLoad.pag	MissionTitle	Race 1:  Time Trial
+1117	MISSION_TITLE_L3_M9	폰트	MissionLoad.pag	MissionTitle	Race 2:  Circuit Race
+1118	VINPUT_CAMERAZOOM	폰트	PCKeyboardConfig.pag	Label09	CAMERA ZOOM
+1119	MSG_LOAD_SUCCESSFUL	폰트	GenericPrompt.pag	Message	Load Successful
+1120	LOAD	폰트	Prompt.pag	Response2	Load
+1121					Reverse Cam
+1122	MSG_FORMAT_CONFIRM_(GC)	폰트	GenericPrompt.pag	Message	The Memory Card in Slot $ is corrupted and needs to be formatted. OK?
+1123	MSG_FORMAT_FAIL_(GC)	폰트	GenericPrompt.pag	Message	Format failed. The Memory Card in Slot $ is damaged and cannot be used.
+1124	GET_OUT_OF_CAR	폰트	ControllerGC.pag	Label07	GET OUT OF CAR
+1125	ERROR_MEDIA_NOT_FORMATTED_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	Save failed! The Memory Card in Slot $ is corrupted and needs to be formatted.
+1126					Running Totals
+1127					Milk Truck
+1128	NEW_GAME	폰트	MainMenu.pag	MainMenu_PC	NEW GAME
+1129	VINPUT_MOVEDOWN	폰트	PCKeyboardConfig.pag	Label01	MOVE DOWN
+1130					Game Completion
+1131					Hallo Hearse
+1132	DASH_SPRINT	폰트	ControllerGC.pag	Label06	DASH / SPRINT
+1133	CHARACTER_CLOTHING	폰트	ScrapBookStats.pag	Clothing	Character Clothing
+1134					< Corrupted Save >
+1135	MSG_FORMATTING_(GC)	폰트	Message.pag	Message	Formatting. Do not touch the Memory Card in Slot $ or the POWER Button.
+1136					CONGRATULATIONS!\NEW BEST TIME!
+1137	MSG_DELETE_CORRUPT_SUCCESS_(PS2)	폰트	GenericPrompt.pag	Message	Corrupted file has been deleted.
+1138	MINI_GAME	폰트	MainMenu.pag	MainMenu_PC	BONUS GAME
+1139					Multiplayer Setup
+1140	MU_DAMAGED_STATUS_(XBOX)	폰트	MemoryCard.pag	Status	This Memory Card is damaged and cannot be used.
+1141	MISSION_TITLE_L7_M10	폰트	MissionLoad.pag	MissionTitle	Race 3:  Checkpoint Race
+1142	MISSION_TITLE_L7_M11	폰트	MissionLoad.pag	MissionTitle	Race 4:  Wager Race
+1143	MISSION_TITLE_L7_M12	폰트	MissionGallery.pag	MissionTitle	Flaming Tires
+1144	SPACE	폰트	MemoryCard.pag	MemoryDevice	 
+1145	ERROR_WRONG_MEDIA_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	The Xbox Memory Unit $ was removed during use. Saving failed. Press A to continue.
+1146	SPEED	폰트	Rewards.pag	Speed	SPEED
+1147	4_LAPS	폰트	MiniMenu.pag	NumLaps	x 4
+1148	MSG_CONTROLLER_DISCONNECTED_(XBOX)	폰트	Message.pag	Message	Xbox Controller disconnected.   \Please reconnect the Xbox Controller to  \controller port ¥ and press START to continue.
+1149	AUTO	폰트	PauseSettings.pag	Radar_Value	Auto
+1150	MSG_LOADING_GAME_(XBOX_HD)	폰트	Message.pag	Message	Loading Simpsons Hit & Run from hard disk. Please don't turn off your Xbox console.
+1151	MSG_LOADING_GAME_(XBOX)	폰트	Message.pag	Message	Loading Simpsons Hit & Run from $. Please don't remove memory units or disconnect any controllers.
+1152	ERROR_MEDIA_NOT_PRESENT_(PS2)	폰트	ErrorPrompt.pag	Message	Caution! If you wish to save your game data, insert a memory card (8MB) (for PlayStation®2) with at least 221 KB of free space or press the X button to continue without saving.
+1153	SAVE_GAME	폰트	PauseSunday.pag	SaveGame	SAVE GAME
+1154	DISABLE_TUTORIAL	폰트	Tutorial.pag	DisableTutorial	Disable Tutorials
+1155					blocks
+1156	ERROR_MEDIA_NOT_PRESENT_(XBOX)	폰트	ErrorPrompt.pag	Message	No memory unit found.  Press A to continue.
+1157					Homer - Chosen One
+1158					DRIVE
+1159	SELECT_ANOTHER_MEMORY_DEVICE_(XBOX)	폰트	SelectMemoryDevice.pag	SelectMemoryDevice	Select another Memory Device
+1160					TUT
+1161	MU_DAMAGED_STATUS_(PS2)	폰트	MemoryCard.pag	Status	This memory card is damaged and cannot be used.
+1162	MISSION_INFO_L5_M10	폰트	MissionLoad.pag	MissionInfo	PASS ALL CHECKPOINTS AND CROSS THE FINISH LINE FIRST. DON'T DESTROY YOUR VEHICLE.
+1163	MISSION_INFO_L5_M11	폰트	MissionLoad.pag	MissionInfo	COMPLETE AN ENTIRE LAP BEFORE TIME RUNS OUT TO WIN COINS.
+1164	MISSION_INFO_L5_M12	폰트	MissionLoad.pag	MissionInfo	FIND AND DISABLE THE HOVERCAR BEFORE TIME RUNS OUT!
+1165	ERROR_MEDIA_ENCODING_ERROR_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	*
+1166					SORRY, TRY AGAIN!
+1167					Longhorn
+1168					WWII Vehicle
+1169	MSG_FORMAT_FAIL_(XBOX)	폰트	GenericPrompt.pag	Message	Format failed.
+1170					WWII Vehicle w/Rocket
+1171	CARD_QUOTE2_00	폰트	ViewCard.pag	Quote1	"And I got an enchanted jock strap."
+1172	CARD_QUOTE2_01	폰트	ViewCard.pag	Quote1	*
+1173	CARD_QUOTE2_02	폰트	ViewCard.pag	Quote1	*
+1174	CARD_QUOTE2_03	폰트	ViewCard.pag	Quote1	*
+1175	CARD_QUOTE2_04	폰트	ViewCard.pag	Quote1	"I saw weird stuff in that place last night. Weird, strange, sick, twisted, eerie, godless, evil stuff. And I want in."
+1176	CARD_QUOTE2_05	폰트	ViewCard.pag	Quote1	*
+1177	CARD_QUOTE2_06	폰트	ViewCard.pag	Quote1	*
+1178	CARD_QUOTE2_07	폰트	ViewCard.pag	Quote1	*
+1179	CARD_QUOTE2_08	폰트	ViewCard.pag	Quote1	"A boy without mischief is like a bowling ball without a liquid center."
+1180	CARD_QUOTE2_09	폰트	ViewCard.pag	Quote1	"It's an old-fashioned hole digging! By gar, it's been a while!"
+1181	CARD_QUOTE2_10	폰트	ViewCard.pag	Quote1	"Young man, in this house we use a little word called 'please'."
+1182	CARD_QUOTE2_11	폰트	ViewCard.pag	Quote1	*
+1183	CARD_QUOTE2_12	폰트	ViewCard.pag	Quote1	"Okay. (Lisa gets in the car.) Sucker! Competitive violence, that's why you're here!" (LAUGHS.)
+1184	CARD_QUOTE2_13	폰트	ViewCard.pag	Quote1	"Yes, you're right, Milhouse. It is a fake. Which makes it a fake ID."
+1185	CARD_QUOTE2_14	폰트	ViewCard.pag	Quote1	*
+1186	CARD_QUOTE2_15	폰트	ViewCard.pag	Quote1	*
+1187	CARD_QUOTE2_16	폰트	ViewCard.pag	Quote1	"D'ohh, that's bunch of baloney Lisa. Everyone knows leprechauns are extinct."
+1188	CARD_QUOTE2_17	폰트	ViewCard.pag	Quote1	"Run boy, run. Run for your life... boy!"
+1189	CARD_QUOTE2_18	폰트	ViewCard.pag	Quote1	"I wish they taught shopping in school!"
+1190	CARD_QUOTE2_19	폰트	ViewCard.pag	Quote1	"Hm, I think you should give that a rest Ralph."
+1191	CARD_QUOTE2_20	폰트	ViewCard.pag	Quote1	*
+1192	CARD_QUOTE2_21	폰트	ViewCard.pag	Quote1	"Oh no, I'll be socially unpopular---more so."
+1193	CARD_QUOTE2_22	폰트	ViewCard.pag	Quote1	*
+1194	CARD_QUOTE2_23	폰트	ViewCard.pag	Quote1	*
+1195	CARD_QUOTE2_24	폰트	ViewCard.pag	Quote1	*
+1196	CARD_QUOTE2_25	폰트	ViewCard.pag	Quote1	(TO SELF) "I thought I did."
+1197	CARD_QUOTE2_26	폰트	ViewCard.pag	Quote1	*
+1198	CARD_QUOTE2_27	폰트	ViewCard.pag	Quote1	"Well it's hard for me to judge, SINCE I'VE NEVER BOWLED IN MY LIFE!"
+1199	CARD_QUOTE2_28	폰트	ViewCard.pag	Quote1	*
+1200	CARD_QUOTE2_29	폰트	ViewCard.pag	Quote1	"Light is not your friend."
+1201	CARD_QUOTE2_30	폰트	ViewCard.pag	Quote1	"Oh Marge, one squirt and you're south of the border. Mmm... incapacitating."
+1202	CARD_QUOTE2_31	폰트	ViewCard.pag	Quote1	*
+1203	CARD_QUOTE2_32	폰트	ViewCard.pag	Quote1	"That's a typo."
+1204	CARD_QUOTE2_33	폰트	ViewCard.pag	Quote1	*
+1205	CARD_QUOTE2_34	폰트	ViewCard.pag	Quote1	*
+1206	CARD_QUOTE2_35	폰트	ViewCard.pag	Quote1	(LOUD WHISPER) "Marge... they've turned into jerks."
+1207	CARD_QUOTE2_36	폰트	ViewCard.pag	Quote1	"Who knows? We can always get divorced."
+1208	CARD_QUOTE2_37	폰트	ViewCard.pag	Quote1	"Oh, man, I wish. 'Dumpster' brand trash bins are top-of-the-line. This is just a 'Trash-Co' waste disposal unit."
+1209	CARD_QUOTE2_38	폰트	ViewCard.pag	Quote1	"Hey, he's not happy at all. He lied to us through song! I hate when people do that!"
+1210	CARD_QUOTE2_39	폰트	ViewCard.pag	Quote1	*
+1211	CARD_QUOTE2_40	폰트	ViewCard.pag	Quote1	*
+1212	CARD_QUOTE2_41	폰트	ViewCard.pag	Quote1	"No. Come along, Bort."
+1213	CARD_QUOTE2_42	폰트	ViewCard.pag	Quote1	*
+1214	CARD_QUOTE2_43	폰트	ViewCard.pag	Quote1	*
+1215	CARD_QUOTE2_44	폰트	ViewCard.pag	Quote1	"Not a guarantee."
+1216	CARD_QUOTE2_45	폰트	ViewCard.pag	Quote1	"Checks will not be honored."
+1217	CARD_QUOTE2_46	폰트	ViewCard.pag	Quote1	*
+1218	CARD_QUOTE2_47	폰트	ViewCard.pag	Quote1	*
+1219	CARD_QUOTE2_48	폰트	ViewCard.pag	Quote1	"Uh, Prince of Darkness, sir. He's your 11 o'clock."
+1220	CARD_QUOTE2_49	폰트	ViewCard.pag	Quote1	*
+1221	CARD_QUOTE2_50	폰트	ViewCard.pag	Quote1	"I am actually speaking Rigelian. By an astonishing coincidence, both of our languages are exactly the same."
+1222	CARD_QUOTE2_51	폰트	ViewCard.pag	Quote1	(IN A DEEP VOICE) "This is indeed a disturbing universe."
+1223	CARD_QUOTE2_52	폰트	ViewCard.pag	Quote1	"Oh please, Lisa! Everyone's already figured that out."
+1224	CARD_QUOTE2_53	폰트	ViewCard.pag	Quote1	*
+1225	CARD_QUOTE2_54	폰트	ViewCard.pag	Quote1	(SHIVERING) "Lousy Smarch weather."
+1226	CARD_QUOTE2_55	폰트	ViewCard.pag	Quote1	*
+1227					*
+1228					*
+1229					*
+1230					Bart - Hugo
+1231	CHANGE_CAMERA	폰트	ControllerXBOX.pag	Label11	CHANGE CAMERA
+1232					Marge - Normal
+1233	MSG_SAVE_CONFIRM_(XBOX)	폰트	GenericPrompt.pag	Message	Are you sure you want to save the game?
+1234	CHARACTER_SELECT	폰트	MiniMenu.pag	ChangeCharacter	Change Character
+1235					*
+1236	TUTORIAL	폰트	PauseSettings.pag	Tutorial	Tutorial
+1237					Honor Roller
+1238	MISSION_TITLE_L4_M1	폰트	MissionGallery.pag	MissionTitle	For A Few Donuts More
+1239	MISSION_TITLE_L4_M2	폰트	MissionGallery.pag	MissionTitle	Redneck Roundup
+1240	MISSION_TITLE_L4_M3	폰트	MissionGallery.pag	MissionTitle	Ketchup Logic
+1241	MISSION_TITLE_L4_M4	폰트	MissionGallery.pag	MissionTitle	Return of the Nearly-Dead
+1242	MISSION_TITLE_L4_M5	폰트	MissionGallery.pag	MissionTitle	Wolves Stole My Pills
+1243	MISSION_TITLE_L4_M6	폰트	MissionGallery.pag	MissionTitle	The Cola Wars
+1244	MISSION_TITLE_L4_M7	폰트	MissionGallery.pag	MissionTitle	From Outer Space
+1245	MISSION_TITLE_L4_M8	폰트	MissionLoad.pag	MissionTitle	Race 1:  Time Trial
+1246	MISSION_TITLE_L4_M9	폰트	MissionLoad.pag	MissionTitle	Race 2:  Circuit Race
+1247					"Vote Quimby" Truck
+1248					Nerd Car
+1249	MISSION_OBJECTIVE_100	폰트	PauseMissionObjective.pag	MissionObjective	RACE CHIEF WIGGUM TO THE RETIREMENT CASTLE
+1250	MISSION_OBJECTIVE_101	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT ALL OF THE BUZZ COLA
+1251	MISSION_OBJECTIVE_102	폰트	PauseMissionObjective.pag	MissionObjective	ENTER THE KWIK-E-MART
+1252	MISSION_OBJECTIVE_103	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE COLA TRUCK
+1253	MISSION_OBJECTIVE_104	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO CHIEF WIGGUM
+1254	MISSION_OBJECTIVE_105	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO HANS MOLEMAN 
+1255	MISSION_OBJECTIVE_106	폰트	PauseMissionObjective.pag	MissionObjective	RACE THE NERD TO THE JAVA SERVER
+1256	MISSION_OBJECTIVE_107	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE BOARDS
+1257	MISSION_OBJECTIVE_108	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE FIRST AID KIT
+1258	MISSION_OBJECTIVE_109	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE GAS STATION
+1259	MISSION_OBJECTIVE_110	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE SOCK GARTERS
+1260	MISSION_OBJECTIVE_111	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO SMITHERS
+1261	MISSION_OBJECTIVE_112	폰트	PauseMissionObjective.pag	MissionObjective	FIND "DOC WUNDERSTEIN'S TOOTH POWDER"
+1262	MISSION_OBJECTIVE_113	폰트	PauseMissionObjective.pag	MissionObjective	FIND "YES, WE HAVE NO BANANAS" RECORD
+1263	MISSION_OBJECTIVE_114	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT BLOOD FROM THE PLASMA CENTER
+1264	MISSION_OBJECTIVE_115	폰트	PauseMissionObjective.pag	MissionObjective	STREET RACE
+1265	MISSION_OBJECTIVE_116	폰트	PauseMissionObjective.pag	MissionObjective	RACE THE NERD TO THE ITCHY AND SCRATCHY STORE
+1266	MISSION_OBJECTIVE_117	폰트	PauseMissionObjective.pag	MissionObjective	RETURN TO THE ANDROID'S DUNGEON BEFORE THE COMIC DETERIORATES
+1267	MISSION_OBJECTIVE_118	폰트	PauseMissionObjective.pag	MissionObjective	HIT CLETUS' TRUCK AND COLLECT THE FLATMEAT
+1268	MISSION_OBJECTIVE_119	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE BLACK SEDAN
+1269	MISSION_OBJECTIVE_120	폰트	PauseMissionObjective.pag	MissionObjective	TIME TRIAL
+1270	MISSION_OBJECTIVE_121	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT PRINCIPAL SKINNER'S LAUNDRY
+1271	MISSION_OBJECTIVE_122	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO THE SQUEAKY-VOICED TEEN
+1272	MISSION_OBJECTIVE_123	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE DONUT TRUCK
+1273	MISSION_OBJECTIVE_124	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY CHIEF WIGGUM'S CAR AND COLLECT THE EVIDENCE
+1274	MISSION_OBJECTIVE_125	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE MUSEUM
+1275	MISSION_OBJECTIVE_126	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE HOVERCAR
+1276	MISSION_OBJECTIVE_127	폰트	PauseMissionObjective.pag	MissionObjective	DISABLE THE HOVERCAR
+1277	MISSION_OBJECTIVE_128	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE SCHOOL
+1278	MISSION_OBJECTIVE_129	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE ROMANTIC OBJECTS
+1279	MISSION_OBJECTIVE_130	폰트	PauseMissionObjective.pag	MissionObjective	RETURN TO COMIC BOOK GUY
+1280	MISSION_OBJECTIVE_131	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE KWIK-E-MART
+1281	MISSION_OBJECTIVE_132	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE LASER CRATES
+1282	MISSION_OBJECTIVE_133	폰트	PauseMissionObjective.pag	MissionObjective	FIND A LASER GUN, TO USE AS PROOF
+1283	MISSION_OBJECTIVE_134	폰트	PauseMissionObjective.pag	MissionObjective	HIT THE DONUT TRUCK AND COLLECT THE DONUTS
+1284	MISSION_OBJECTIVE_135	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE BLACK SEDAN AND COLLECT GRAMPA'S MEDS 
+1285	MISSION_OBJECTIVE_136	폰트	PauseMissionObjective.pag	MissionObjective	FIND THE SHELBYVILLIANS
+1286	MISSION_OBJECTIVE_137	폰트	PauseMissionObjective.pag	MissionObjective	ENTER CLETUS' TRUCK
+1287	MISSION_OBJECTIVE_138	폰트	PauseMissionObjective.pag	MissionObjective	DELIVER THE FLATMEAT TO THE KRUSTY BURGER
+1288	MISSION_OBJECTIVE_139	폰트	PauseMissionObjective.pag	MissionObjective	GET AWAY FROM APU
+1289	MISSION_OBJECTIVE_140	폰트	PauseMissionObjective.pag	MissionObjective	HIT THE DUFF TRUCK AND DESTROY THE LASER BOXES
+1290	MISSION_OBJECTIVE_141	폰트	PauseMissionObjective.pag	MissionObjective	ENTER COMIC BOOK GUY'S CAR
+1291	MISSION_OBJECTIVE_142	폰트	PauseMissionObjective.pag	MissionObjective	RACE SNAKE TO THE STADIUM
+1292	MISSION_OBJECTIVE_143	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE BAG OF BLOOD
+1293	MISSION_OBJECTIVE_144	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE KRUSTY BURGER BY THE POLICE STATION
+1294	MISSION_OBJECTIVE_145	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE CARDBOARD TUBES
+1295	MISSION_OBJECTIVE_146	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE TOMACCO HARVEST
+1296	MISSION_OBJECTIVE_147	폰트	PauseMissionObjective.pag	MissionObjective	FIND APU AT THE KWIK-E-MART
+1297	MISSION_OBJECTIVE_148	폰트	PauseMissionObjective.pag	MissionObjective	CLIMB THE WRECKAGE TO MR. BURNS' OFFICE
+1298	MISSION_OBJECTIVE_149	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO JIMBO
+1299	MISSION_OBJECTIVE_150	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE MILK TRUCK
+1300	MISSION_OBJECTIVE_151	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE COOLER
+1301	MISSION_OBJECTIVE_152	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE ICE CREAM AND COLA
+1302	MISSION_OBJECTIVE_153	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT LISA'S SCIENCE PROJECT
+1303	MISSION_OBJECTIVE_154	폰트	PauseMissionObjective.pag	MissionObjective	GO TO HOMER'S WORKSTATION
+1304	MISSION_OBJECTIVE_155	폰트	PauseMissionObjective.pag	MissionObjective	ENTER THE SIMPSONS HOUSE AND TALK TO MARGE
+1305	MISSION_OBJECTIVE_156	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO LISA
+1306	MISSION_OBJECTIVE_157	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO APU
+1307	MISSION_OBJECTIVE_158	폰트	PauseMissionObjective.pag	MissionObjective	INVESTIGATE THE BLACK VAN
+1308	MISSION_OBJECTIVE_159	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO CARL
+1309	MISSION_OBJECTIVE_160	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO OTTO
+1310	MISSION_OBJECTIVE_161	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE GROCERY STORE
+1311	MISSION_OBJECTIVE_162	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE POLICE TO LARD LAD'S
+1312	MISSION_OBJECTIVE_163	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO MILHOUSE
+1313	MISSION_OBJECTIVE_164	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO KEARNEY
+1314	MISSION_OBJECTIVE_165	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO MOE'S
+1315	MISSION_OBJECTIVE_166	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE FIREWORKS
+1316	MISSION_OBJECTIVE_167	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE GOOGOLPLEX
+1317	MISSION_OBJECTIVE_168	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE SPRINGFIELD TOWN HALL
+1318	MISSION_OBJECTIVE_169	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE POLICE STATION
+1319	MISSION_OBJECTIVE_170	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE RADIO FROM SNAKE
+1320	MISSION_OBJECTIVE_171	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE KRUSTY BURGER BY THE CONSTRUCTION SITE
+1321	MISSION_OBJECTIVE_172	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE SATELLITE DISH
+1322	MISSION_OBJECTIVE_173	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE SCREAMING MONKEY MEDICAL RESEARCH CENTER
+1323	MISSION_OBJECTIVE_174	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE BLENDER
+1324	MISSION_OBJECTIVE_175	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO THE SQUEAKY-VOICED TEEN
+1325	MISSION_OBJECTIVE_176	폰트	PauseMissionObjective.pag	MissionObjective	ENTER THE ANDROID'S DUNGEON AND TALK TO COMIC BOOK GUY
+1326	MISSION_OBJECTIVE_177	폰트	PauseMissionObjective.pag	MissionObjective	GET THE ITCHY AND SCRATCHY COMIC
+1327	MISSION_OBJECTIVE_178	폰트	PauseMissionObjective.pag	MissionObjective	GET AWAY FROM THE BLACK SEDAN
+1328	MISSION_OBJECTIVE_179	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE NOISELAND ARCADE
+1329	MISSION_OBJECTIVE_180	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE KRUSTY BURGER BY THE ANDROID'S DUNGEON
+1330	MISSION_OBJECTIVE_181	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE OBSERVATORY
+1331	MISSION_OBJECTIVE_182	폰트	PauseMissionObjective.pag	MissionObjective	ENTER THE OBSERVATORY
+1332	MISSION_OBJECTIVE_183	폰트	PauseMissionObjective.pag	MissionObjective	GO TO THE OBSERVATORY'S "LOOK-OUT" POINT
+1333	MISSION_OBJECTIVE_184	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT BART'S LUCKY RED HAT
+1334	MISSION_OBJECTIVE_185	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE AZTEC THEATER
+1335	MISSION_OBJECTIVE_186	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO PLANET HYPE
+1336	MISSION_OBJECTIVE_187	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO MR. BURNS' CASINO
+1337	MISSION_OBJECTIVE_188	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO "THE RIGHT FLUFF" LAUNDROMAT
+1338	MISSION_OBJECTIVE_189	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE KRUSTY BURGER MEAL
+1339	MISSION_OBJECTIVE_190	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO LOUIE AT THE LEGITIMATE BUSINESSMAN'S SOCIAL CLUB
+1340	MISSION_OBJECTIVE_191	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO KRUSTY
+1341	MISSION_OBJECTIVE_192	폰트	PauseMissionObjective.pag	MissionObjective	ENTER THE DMV
+1342	MISSION_OBJECTIVE_193	폰트	PauseMissionObjective.pag	MissionObjective	GET A VEHICLE FROM BART
+1343	MISSION_OBJECTIVE_194	폰트	PauseMissionObjective.pag	MissionObjective	GET OTTO'S SCHOOL BUS. OTTO IS AT KAMP KRUSTY
+1344	MISSION_OBJECTIVE_195	폰트	PauseMissionObjective.pag	MissionObjective	GET "COOL" CLOTHES AT THE ANDROID'S DUNGEON OR OBSERVATORY 
+1345	MISSION_OBJECTIVE_196	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO CAPTAIN MCALLISTER'S CHUM 'N' STUFF
+1346	MISSION_OBJECTIVE_197	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO THE SEA CAPTAIN
+1347	MISSION_OBJECTIVE_198	폰트	PauseMissionObjective.pag	MissionObjective	BOARD THE C-SPANKER
+1348	MISSION_OBJECTIVE_199	폰트	PauseMissionObjective.pag	MissionObjective	FIND BART AND TALK TO HIM
+1349	ERROR_MEDIA_ENCODING_ERROR_(GC)	폰트	ErrorPrompt.pag	Message	The Memory Card in Slot $ is formatted for another market.
+1350	MISSION_OBJECTIVE_200	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO PRINCIPAL SKINNER
+1351	MISSION_OBJECTIVE_201	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO HOMER
+1352	MISSION_OBJECTIVE_202	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE SCHOOL PLAYGROUND
+1353	MISSION_OBJECTIVE_203	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO PROFESSOR FRINK IN THE POWER PLANT PARKING LOT
+1354	MISSION_OBJECTIVE_204	폰트	PauseMissionObjective.pag	MissionObjective	GET HOMER'S "CUSTOM BUILT CAR." HE IS IN THE HOSPITAL PARKING LOT
+1355	MISSION_OBJECTIVE_205	폰트	PauseMissionObjective.pag	MissionObjective	GET "AMERICAN" CLOTHES AT MOE'S OR THE DMV
+1356	MISSION_OBJECTIVE_206	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE DMV
+1357	MISSION_OBJECTIVE_207	폰트	PauseMissionObjective.pag	MissionObjective	RACE THE CURATOR TO THE MUSEUM
+1358	MISSION_OBJECTIVE_208	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE SIT 'N' ROTATE
+1359	MISSION_OBJECTIVE_209	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO KRUSTYLU STUDIOS
+1360	MISSION_OBJECTIVE_210	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW KRUSTY'S LIMO
+1361	MISSION_OBJECTIVE_211	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE DUFF BREWERY
+1362	MISSION_OBJECTIVE_212	폰트	PauseMissionObjective.pag	MissionObjective	TAKE THE LASER TO THE SQUIDPORT
+1363	MISSION_OBJECTIVE_213	폰트	PauseMissionObjective.pag	MissionObjective	GET THE "GLOBEX SUPER VILLAIN CAR."   KEARNEY IS AT KRUSTYLU STUDIOS
+1364	MISSION_OBJECTIVE_214	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO MOE'S HOUSE
+1365	MISSION_OBJECTIVE_215	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO CLETUS' HOUSE
+1366	MISSION_OBJECTIVE_216	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE CHAINSAW
+1367	MISSION_OBJECTIVE_217	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE SIMPSONS HOUSE
+1368	MISSION_OBJECTIVE_218	폰트	PauseMissionObjective.pag	MissionObjective	GET THE "ZOMBIE CAR." THE ZOMBIE IS AT THE CEMETERY
+1369	MISSION_OBJECTIVE_219	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE YOUR VEHICLE INTO THE TRACTOR BEAM AND THEN GET OUT
+1370	MISSION_OBJECTIVE_220	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE MAP
+1371	MISSION_OBJECTIVE_221	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE NUCLEAR WASTE FROM THE POWER PLANT
+1372	MISSION_OBJECTIVE_222	폰트	PauseMissionObjective.pag	MissionObjective	CROSS THE FINISH LINE BEFORE TIME RUNS OUT
+1373	MISSION_OBJECTIVE_223	폰트	PauseMissionObjective.pag	MissionObjective	COMPLETE ALL LAPS AND FINISH FIRST
+1374	MISSION_OBJECTIVE_224	폰트	PauseMissionObjective.pag	MissionObjective	PASS ALL CHECKPOINTS AND FINISH FIRST
+1375	MISSION_OBJECTIVE_225	폰트	PauseMissionObjective.pag	MissionObjective	COMPLETE AN ENTIRE LAP BEFORE TIME RUNS OUT
+1376	MISSION_OBJECTIVE_226	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO BART
+1377	MISSION_OBJECTIVE_227	폰트	PauseMissionObjective.pag	MissionObjective	GET "INMATE" CLOTHES AT THE SCHOOL, KWIK-E-MART OR BART'S ROOM
+1378	MISSION_OBJECTIVE_228	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO NELSON
+1379	MISSION_OBJECTIVE_229	폰트	PauseMissionObjective.pag	MissionObjective	RETURN TO THE RETIREMENT CASTLE
+1380	MISSION_OBJECTIVE_230	폰트	PauseMissionObjective.pag	MissionObjective	GIVE GRAMPA HIS MEDICINE
+1381	MISSION_OBJECTIVE_231	폰트	PauseMissionObjective.pag	MissionObjective	FIND CAFFEINE PILLS TO WAKE GRAMPA UP
+1382	MISSION_OBJECTIVE_232	폰트	PauseMissionObjective.pag	MissionObjective	SEARCH FOR THE BLACK SEDAN IN FRONT OF THE SCHOOL
+1383	MISSION_OBJECTIVE_233	폰트	PauseMissionObjective.pag	MissionObjective	GET A POLICE UNIFORM AT THE SCHOOL, KWIK-E-MART OR BART'S ROOM 
+1384	MISSION_OBJECTIVE_234	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO MR. BURNS' MANSION
+1385	MISSION_OBJECTIVE_235	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE POWER PLANT PARKING LOT
+1386	MISSION_OBJECTIVE_236	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE INTERCEPTED GIFTS
+1387	MISSION_OBJECTIVE_237	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW CLETUS
+1388	MISSION_OBJECTIVE_238	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE KRUSTY BURGER BETWEEN THE CHURCH AND SCHOOL
+1389	MISSION_OBJECTIVE_239	폰트	PauseMissionObjective.pag	MissionObjective	GET BARNEY'S PLOW KING. BARNEY IS AT THE GAS STATION 
+1390	MISSION_OBJECTIVE_240	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE CEMETERY
+1391	MISSION_OBJECTIVE_241	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE WWII RADIO
+1392	MISSION_OBJECTIVE_242	폰트	PauseMissionObjective.pag	MissionObjective	GET HOMER'S MR. PLOW TRUCK. HE IS IN THE HOSPITAL PARKING LOT
+1393	MISSION_OBJECTIVE_243	폰트	PauseMissionObjective.pag	MissionObjective	GET "AMERICAN" CLOTHES AT MOE'S OR THE DMV
+1394	MISSION_OBJECTIVE_244	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE JAVA SERVER
+1395	MISSION_OBJECTIVE_245	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE BREWERY BEFORE THE TRUCKLOAD OF LASERS LEAVES
+1396	MISSION_OBJECTIVE_246	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE TAFFY SHOP
+1397	MISSION_OBJECTIVE_247	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE BOWLARAMA
+1398	MISSION_OBJECTIVE_248	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE THROUGH THE POWERPLANT ENTRANCE
+1399	MISSION_OBJECTIVE_249	폰트	PauseMissionObjective.pag	MissionObjective	RACE THE ALIEN CAR TO THE POWER PLANT
+1400	MISSION_OBJECTIVE_250	폰트	PauseMissionObjective.pag	MissionObjective	GO OUTSIDE
+1401	MISSION_OBJECTIVE_251	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE FLANDERS HOUSE
+1402	MISSION_OBJECTIVE_252	폰트	PauseMissionObjective.pag	MissionObjective	EXIT THE OFFICE
+1403	MISSION_OBJECTIVE_253	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE KRUSTY BURGER BY THE CEMETERY
+1404	MISSION_OBJECTIVE_254	폰트	PauseMissionObjective.pag	MissionObjective	GIVE GRAMPA THE CAFFEINE PILLS
+1405	MISSION_OBJECTIVE_255	폰트	PauseMissionObjective.pag	MissionObjective	COLLECT THE ANTI-FUNGAL CREAM
+1406	MISSION_OBJECTIVE_256	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE HOSPITAL ENTRANCE
+1407	MISSION_OBJECTIVE_257	폰트	PauseMissionObjective.pag	MissionObjective	DESTROY THE CURATOR'S CAR TO GET THE MUSEUM KEY
+1408	MISSION_OBJECTIVE_258	폰트	PauseMissionObjective.pag	MissionObjective	GET AWAY FROM THE MOBSTER'S LIMO
+1409	MISSION_OBJECTIVE_259	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE GARBAGE TRUCK AND COLLECT THE GARBAGE
+1410	MISSION_OBJECTIVE_260	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE GOOGOLPLEX. WATCH OUT FOR CHIEF WIGGUM
+1411	MISSION_OBJECTIVE_261	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE PIZZA VAN TO HERMAN'S MILITARY ANTIQUES
+1412	MISSION_OBJECTIVE_262	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO LARD LAD'S
+1413	MISSION_OBJECTIVE_263	폰트	PauseMissionObjective.pag	MissionObjective	ENTER BART'S BEDROOM
+1414	MISSION_OBJECTIVE_264	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE TRAIL OF DONUTS TO FIND CHIEF WIGGUM
+1415	MISSION_OBJECTIVE_265	폰트	PauseMissionObjective.pag	MissionObjective	GET AWAY FROM THE ALIEN CAR
+1416	MISSION_OBJECTIVE_266	폰트	PauseMissionObjective.pag	MissionObjective	FOLLOW THE MOVIE TRUCK TO FIND KRUSTY'S LIMO
+1417	MISSION_OBJECTIVE_267	폰트	PauseMissionObjective.pag	MissionObjective	RETURN TO CLETUS
+1418	MISSION_OBJECTIVE_268	폰트	PauseMissionObjective.pag	MissionObjective	GET INTO A VEHICLE
+1419	MISSION_OBJECTIVE_269	폰트	PauseMissionObjective.pag	MissionObjective	GO INSIDE THE SIMPSONS HOUSE AND DROP OFF THE SUPPLIES
+1420	MISSION_OBJECTIVE_270	폰트	PauseMissionObjective.pag	MissionObjective	LOOK AT YOUR NEW OUTFIT IN THE WINDOW GLASS
+1421	MISSION_OBJECTIVE_271	폰트	PauseMissionObjective.pag	MissionObjective	TALK TO THE LIMO DRIVER
+1422	MISSION_OBJECTIVE_272	폰트	PauseMissionObjective.pag	MissionObjective	SIT ON THE SOFA
+1423	MISSION_OBJECTIVE_273	폰트	PauseMissionObjective.pag	MissionObjective	DRIVE TO THE TOMACCO FIELD
+1424	MISSION_OBJECTIVE_274	폰트	PauseMissionObjective.pag	MissionObjective	*
+1425	MISSION_OBJECTIVE_275	폰트	PauseMissionObjective.pag	MissionObjective	*
+1426	MISSION_OBJECTIVE_276	폰트	PauseMissionObjective.pag	MissionObjective	*
+1427	MISSION_OBJECTIVE_277	폰트	PauseMissionObjective.pag	MissionObjective	*
+1428	MISSION_OBJECTIVE_278	폰트	PauseMissionObjective.pag	MissionObjective	*
+1429	MISSION_OBJECTIVE_279	폰트	PauseMissionObjective.pag	MissionObjective	*
+1430	MISSION_OBJECTIVE_280	폰트	PauseMissionObjective.pag	MissionObjective	*
+1431	MISSION_OBJECTIVE_281	폰트	PauseMissionObjective.pag	MissionObjective	*
+1432	MISSION_OBJECTIVE_282	폰트	PauseMissionObjective.pag	MissionObjective	*
+1433	MISSION_OBJECTIVE_283	폰트	PauseMissionObjective.pag	MissionObjective	*
+1434	MISSION_OBJECTIVE_284	폰트	PauseMissionObjective.pag	MissionObjective	*
+1435	MISSION_OBJECTIVE_285	폰트	PauseMissionObjective.pag	MissionObjective	*
+1436	MISSION_OBJECTIVE_286	폰트	PauseMissionObjective.pag	MissionObjective	*
+1437	MISSION_OBJECTIVE_287	폰트	PauseMissionObjective.pag	MissionObjective	*
+1438	MISSION_OBJECTIVE_288	폰트	PauseMissionObjective.pag	MissionObjective	*
+1439	MISSION_OBJECTIVE_289	폰트	PauseMissionObjective.pag	MissionObjective	*
+1440	MISSION_OBJECTIVE_290	폰트	PauseMissionObjective.pag	MissionObjective	*
+1441	MISSION_OBJECTIVE_291	폰트	PauseMissionObjective.pag	MissionObjective	*
+1442	MISSION_OBJECTIVE_292	폰트	PauseMissionObjective.pag	MissionObjective	*
+1443	MISSION_OBJECTIVE_293	폰트	PauseMissionObjective.pag	MissionObjective	*
+1444	MISSION_OBJECTIVE_294	폰트	PauseMissionObjective.pag	MissionObjective	*
+1445	MISSION_OBJECTIVE_295	폰트	PauseMissionObjective.pag	MissionObjective	*
+1446	MISSION_OBJECTIVE_296	폰트	PauseMissionObjective.pag	MissionObjective	*
+1447	MISSION_OBJECTIVE_297	폰트	PauseMissionObjective.pag	MissionObjective	*
+1448	MISSION_OBJECTIVE_298	폰트	PauseMissionObjective.pag	MissionObjective	*
+1449	MISSION_OBJECTIVE_299	폰트	PauseMissionObjective.pag	MissionObjective	GET BACK IN YOUR CAR!
+1450					PRESS ¿ TO ACCELERATE\USE LEFT ANALOG STICK OR + TO STEER\USE µ TO BRAKE\USE § TO HANDBRAKE
+1451	MSG_FORMAT_SUCCESS_(GC)	폰트	GenericPrompt.pag	Message	Format Successful.
+1452	VINPUT_JUMP	폰트	PCKeyboardConfig.pag	Label06	JUMP
+1453					Bart - Tall
+1454					Debug Cam
+1455	ERROR_HW_FAILURE_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	Unable to save game. Press A to continue.
+1456	CARD_GET	폰트	Hud.pag	CardGet	COLLECTOR CARD!
+1457	ERROR_MEDIA_ENCODING_ERROR_SAVING_(GC)	폰트	ErrorPrompt.pag	Message	Save Failed! The Memory Card in Slot $ is formatted for another market.
+1458	BACK	폰트	Back.pag	Back	Back
+1459					Bart - Normal
+1460					Base
+1461	MSG_AUTO_LOADING_GAME_(XBOX)	폰트	Message.pag	Message	Auto-loading most recent saved game. Please don't remove memory units or disconnect any controllers.
+1462					Manage memory card
+1463	MSG_DELETE_CORRUPT_(GC)	폰트	GenericPrompt.pag	Message	Are you sure you want to delete this file?
+1464	MISSION_FAILED_NOT_ABDUCTED_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't forget to jump out of your vehicle.
+1465	MISSION_FAILED_NOT_ABDUCTED_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Jump out of your vehicle before reaching the Mother Ship.
+1466	MISSION_FAILED_NOT_ABDUCTED_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Jump out of your vehicle while in the tractor beam.
+1467	MISSION_FAILED_NOT_ABDUCTED_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Remember to jump out of your vehicle.
+1468	MISSION_FAILED_NOT_ABDUCTED_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't forget to jump out of your vehicle.
+1469	MISSION_FAILED_NOT_ABDUCTED_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Jump out of your vehicle before reaching the Mother Ship.
+1470	MISSION_FAILED_NOT_ABDUCTED_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Jump out of your vehicle while in the tractor beam.
+1471	MISSION_FAILED_NOT_ABDUCTED_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Remember to jump out of your vehicle.
+1472	WAITING_FOR_OTHER_PLAYERS	폰트	MiniMenu.pag	WaitingForOtherPlayers	Waiting for other players . . .
+1473	RADAR	폰트	PauseSettings.pag	Radar	Radar
+1474	MU_FULL_STATUS_(XBOX)	폰트	MemoryCard.pag	Status	Full/Unusable
+1475	ENTRY_FEE	폰트	MissionLoad.pag	EntryFee	Entry Fee:
+1476	MSG_CONFIRM_START_MISSION	폰트	GenericPrompt.pag	Message	Would you like to load this mission?
+1477	LOOK_UP	폰트	ControllerGC.pag	Label09	LOOK UP
+1478	MONO_SOUND	폰트	Sound.pag	SurroundSound_Value	MONO SOUND
+1479					Format Memory Unit
+1480					Spy Cam
+1481	32_BIT	폰트	Display.pag	ColourDepth_Value	32-bit
+1482					Sports Car A
+1483					Sports Car B
+1484	CARD_TITLE_00	폰트	ViewCard.pag	CardTitle	HOME MADE FOOTBALL
+1485	CARD_TITLE_01	폰트	ViewCard.pag	CardTitle	CRAB JUICE
+1486	CARD_TITLE_02	폰트	ViewCard.pag	CardTitle	INSANITY PEPPER
+1487	CARD_TITLE_03	폰트	ViewCard.pag	CardTitle	SPINEMELTER 2000
+1488	CARD_TITLE_04	폰트	ViewCard.pag	CardTitle	PARCHMENT
+1489	CARD_TITLE_05	폰트	ViewCard.pag	CardTitle	CARBON ROD
+1490	CARD_TITLE_06	폰트	ViewCard.pag	CardTitle	MR. SPARKLE BOX
+1491	CARD_TITLE_07	폰트	ViewCard.pag	CardTitle	LEVEL 1 BONUS CARD
+1492	CARD_TITLE_08	폰트	ViewCard.pag	CardTitle	HEAD OF JEBEDIAH
+1493	CARD_TITLE_09	폰트	ViewCard.pag	CardTitle	AM RADIO TOY
+1494	CARD_TITLE_10	폰트	ViewCard.pag	CardTitle	BONESTORM GAME
+1495	CARD_TITLE_11	폰트	ViewCard.pag	CardTitle	"BIG BUTT SKINNER"
+1496	CARD_TITLE_12	폰트	ViewCard.pag	CardTitle	MR. HONEYBUNNY
+1497	CARD_TITLE_13	폰트	ViewCard.pag	CardTitle	DRIVERS LICENSE
+1498	CARD_TITLE_14	폰트	ViewCard.pag	CardTitle	PREGNANCY TEST
+1499	CARD_TITLE_15	폰트	ViewCard.pag	CardTitle	LEVEL 2 BONUS CARD
+1500	CARD_TITLE_16	폰트	ViewCard.pag	CardTitle	ANGEL SKELETON
+1501	CARD_TITLE_17	폰트	ViewCard.pag	CardTitle	BART'S SOUL
+1502	CARD_TITLE_18	폰트	ViewCard.pag	CardTitle	LISA LIONHEART
+1503	CARD_TITLE_19	폰트	ViewCard.pag	CardTitle	LISA'S VALENTINE
+1504	CARD_TITLE_20	폰트	ViewCard.pag	CardTitle	LISA'S MACHINE
+1505	CARD_TITLE_21	폰트	ViewCard.pag	CardTitle	EVIL BRACES
+1506	CARD_TITLE_22	폰트	ViewCard.pag	CardTitle	SOY POP
+1507	CARD_TITLE_23	폰트	ViewCard.pag	CardTitle	LEVEL 3 BONUS CARD
+1508	CARD_TITLE_24	폰트	ViewCard.pag	CardTitle	MR. PLOW JACKET
+1509	CARD_TITLE_25	폰트	ViewCard.pag	CardTitle	BURNS PORTRAIT
+1510	CARD_TITLE_26	폰트	ViewCard.pag	CardTitle	LOVE LETTER
+1511	CARD_TITLE_27	폰트	ViewCard.pag	CardTitle	"HOMER" BOWLING BALL
+1512	CARD_TITLE_28	폰트	ViewCard.pag	CardTitle	RED BLAZER
+1513	CARD_TITLE_29	폰트	ViewCard.pag	CardTitle	BOUDOIR ALBUM
+1514	CARD_TITLE_30	폰트	ViewCard.pag	CardTitle	PEPPER SPRAY
+1515	CARD_TITLE_31	폰트	ViewCard.pag	CardTitle	LEVEL 4 BONUS CARD
+1516	CARD_TITLE_32	폰트	ViewCard.pag	CardTitle	APU'S T-SHIRT
+1517	CARD_TITLE_33	폰트	ViewCard.pag	CardTitle	PIN PALS SHIRT
+1518	CARD_TITLE_34	폰트	ViewCard.pag	CardTitle	PROP 24 SIGN
+1519	CARD_TITLE_35	폰트	ViewCard.pag	CardTitle	BABY FEEDER
+1520	CARD_TITLE_36	폰트	ViewCard.pag	CardTitle	GANESH COSTUME
+1521	CARD_TITLE_37	폰트	ViewCard.pag	CardTitle	CHUTNEY SQUISHEE
+1522	CARD_TITLE_38	폰트	ViewCard.pag	CardTitle	HOT DOG
+1523	CARD_TITLE_39	폰트	ViewCard.pag	CardTitle	LEVEL 5 BONUS CARD
+1524	CARD_TITLE_40	폰트	ViewCard.pag	CardTitle	RADIOACTIVE MAN#1
+1525	CARD_TITLE_41	폰트	ViewCard.pag	CardTitle	"BORT" LICENSE PLATE
+1526	CARD_TITLE_42	폰트	ViewCard.pag	CardTitle	BART T-SHIRT
+1527	CARD_TITLE_43	폰트	ViewCard.pag	CardTitle	AUSTRALIA BOOT
+1528	CARD_TITLE_44	폰트	ViewCard.pag	CardTitle	ITCHY AND SCRATCHY CEL
+1529	CARD_TITLE_45	폰트	ViewCard.pag	CardTitle	GABBO DOLL
+1530	CARD_TITLE_46	폰트	ViewCard.pag	CardTitle	BART'S FLYING HAMSTER SCIENCE PROJECT
+1531	CARD_TITLE_47	폰트	ViewCard.pag	CardTitle	LEVEL 6 BONUS CARD
+1532	CARD_TITLE_48	폰트	ViewCard.pag	CardTitle	SOUL DONUT
+1533	CARD_TITLE_49	폰트	ViewCard.pag	CardTitle	KRUSTY DOLL
+1534	CARD_TITLE_50	폰트	ViewCard.pag	CardTitle	HUMAN COOKBOOK
+1535	CARD_TITLE_51	폰트	ViewCard.pag	CardTitle	TIME TRAVEL TOASTER
+1536	CARD_TITLE_52	폰트	ViewCard.pag	CardTitle	HELL TOUPEE
+1537	CARD_TITLE_53	폰트	ViewCard.pag	CardTitle	MONKEY'S PAW
+1538	CARD_TITLE_54	폰트	ViewCard.pag	CardTitle	"SMARCH" CALENDAR
+1539	CARD_TITLE_55	폰트	ViewCard.pag	CardTitle	LEVEL 7 BONUS CARD
+1540	TO_PURCHASE	폰트	Rewards.pag	ToPurchase	to purchase
+1541					BONUS MISSION\COMPLETE!
+1542	SELECT_MEMORY_DEVICE_(PS2)	폰트	MemoryCard.pag	SelectMemoryDevice	Select memory card (8MB) (for PlayStation®2)
+1543	COLOUR DEPTH	폰트	Display.pag	ColourDepth	Colour Depth
+1544	CONTROLLER	폰트	Options.pag	Controller	CONTROLLER
+1545					Number of Flags
+1546	5_LAPS	폰트	MiniMenu.pag	NumLaps	x 5
+1547					Cola Truck
+1548					Cube Van
+1549					Car Built For Homer
+1550	HIT_AND_RUN	폰트	Hud.pag	HitNRun	Hit & Run!
+1551	ERROR_MEDIA_ENCODING_ERROR_LOADING_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+1552	NO_MEMORY_DEVICE_(XBOX)	폰트	MemoryCard.pag	NoMemoryDevice	No Xbox Memory Units Available.
+1553	ERROR_MEDIA_CORRUPT_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+1554					Select
+1555	STEREO_SOUND	폰트	Sound.pag	SurroundSound_Value	STEREO SOUND
+1556	MU_DAMAGED_STATUS_(GC)	폰트	MemoryCard.pag	Status	This Memory Card is damaged and cannot be used.
+1557	CANCEL_MISSION	폰트	MissionLoad.pag	Abort	Cancel Mission
+1558	WINDOW	폰트	Display.pag	DisplayMode_Value	Window
+1559	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Stay in your vehicle.
+1560	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Return to your vehicle within 10 seconds.
+1561	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't get out of your vehicle.
+1562	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : You only have 10 seconds to return to your vehicle.
+1563	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Stay in your vehicle.
+1564	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Return to your vehicle within 10 seconds.
+1565	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Don't get out of your vehicle.
+1566	MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : You only have 10 seconds to get back in your vehicle.
+1567	ERROR_WRONG_MEDIA_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	Save failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ and please try again.
+1568	MISSION_TITLE_L5_M1	폰트	MissionGallery.pag	MissionTitle	Incriminating Caffeine
+1569	MISSION_TITLE_L5_M2	폰트	MissionGallery.pag	MissionTitle	. . . and Baby Makes 8
+1570	MISSION_TITLE_L5_M3	폰트	MissionGallery.pag	MissionTitle	Eight is Too Much
+1571	MISSION_TITLE_L5_M4	폰트	MissionGallery.pag	MissionTitle	This Little Piggy
+1572	MISSION_TITLE_L5_M5	폰트	MissionGallery.pag	MissionTitle	Never Trust a Snake
+1573	MISSION_TITLE_L5_M6	폰트	MissionGallery.pag	MissionTitle	Kwik Cash
+1574	MISSION_TITLE_L5_M7	폰트	MissionGallery.pag	MissionTitle	Curious Curator
+1575	MISSION_TITLE_L5_M8	폰트	MissionLoad.pag	MissionTitle	Race 1:  Time Trial
+1576	MISSION_TITLE_L5_M9	폰트	MissionLoad.pag	MissionTitle	Race 2:  Circuit Race
+1577	ERROR_MEDIA_ENCODING_ERROR_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+1578					Manage Memory Card
+1579	VEHICLE_ODDS_MEDIUM	폰트	MissionLoad.pag	VehicleOdds_Value	Medium
+1580	HORN_TAUNT_CLICK	폰트	ControllerXBOX.pag	Label01	(CLICK) HORN
+1581	MU_WRONG_ENCODING_STATUS_(PS2)	폰트	MemoryCard.pag	Status	Memory card (8MB) (for PlayStation®2) is encoded for different market.
+1582	COINS	폰트	Rewards.pag	Price	coins
+1583	KEYMOUSECONFIG	폰트	ControllerPC.pag	Label00	Keyboard/Mouse Config
+1584	WASPS	폰트	ScrapBookStats.pag	Wasps	Wasp Cameras
+1585					:
+1586					Open Wheel Race Car
+1587	MEMCARD_FULL_HAS_EXISTING_(XBOX_HD)	폰트	GameSlots.pag	FullMessage	Insufficient space on Xbox Hard Disk to create new game. You can only overwrite an existing save game.
+1588					Card
+1589					Book Burning Van
+1590	LOOK_BACK_L2_R2	폰트	ControllerPS2.pag	Label16	(L2 button + R2 button) LOOK BACK
+1591	MISSION_FAILED_FOLLOW_DISTANCE	폰트	MissionOver.pag	MissionFailureReason	Failed to follow vehicle.
+1592	MEMCARD_FULL_HAS_EXISTING_(XBOX_MU)	폰트	GameSlots.pag	FullMessage	Insufficient space on Xbox Memory Unit to create new game. You can only overwrite an existing save game.
+1593					Coffin Car
+1594	CONTINUE	폰트	Prompt.pag	Response2	Continue
+1595	MISSION_TITLE_L4_M10	폰트	MissionLoad.pag	MissionTitle	Race 3:  Checkpoint Race
+1596	MISSION_TITLE_L4_M11	폰트	MissionLoad.pag	MissionTitle	Race 4:  Wager Race
+1597	MISSION_TITLE_L4_M12	폰트	MissionGallery.pag	MissionTitle	Beached Love
+1598	ERROR_MEDIA_CORRUPT_SAVING_(PS2)	폰트	ErrorPrompt.pag	Message	Save failed!  Please check Memory Card in Memory Card Slot $ and try again.
+1599	ERROR_MEDIA_ENCODING_ERROR_SAVING_(XBOX)	폰트	ErrorPrompt.pag	Message	*
+1600	SPANISH	폰트	Language.pag	Language4	Español
+1601	QUIT_GAME	폰트	MainMenu.pag	MainMenu_PC	QUIT GAME
+1602					Family Sedan
+1603	MISSION_FAILED_PLAYER_HIT_HINT0	폰트	MissionOver.pag	MissionFailureHint	Hint : Get a faster vehicle.
+1604	MISSION_FAILED_PLAYER_HIT_HINT1	폰트	MissionOver.pag	MissionFailureHint	Hint : Find the shortcuts.
+1605	MISSION_FAILED_PLAYER_HIT_HINT2	폰트	MissionOver.pag	MissionFailureHint	Hint : Use wrenches to fix your vehicle.
+1606	MISSION_FAILED_PLAYER_HIT_HINT3	폰트	MissionOver.pag	MissionFailureHint	Hint : Smash all the vending machines you find.
+1607	MISSION_FAILED_PLAYER_HIT_HINT4	폰트	MissionOver.pag	MissionFailureHint	Hint : Avoid getting hit.
+1608	MISSION_FAILED_PLAYER_HIT_HINT5	폰트	MissionOver.pag	MissionFailureHint	Hint : Use a phone booth to get a new vehicle.
+1609	MISSION_FAILED_PLAYER_HIT_HINT6	폰트	MissionOver.pag	MissionFailureHint	Hint : Complete all street races to earn a different vehicle.
+1610	MISSION_FAILED_PLAYER_HIT_HINT7	폰트	MissionOver.pag	MissionFailureHint	Hint : Collect coins to purchase a tougher better car.
+1611	MISSIONS	폰트	ScrapBookContents.pag	StoryMissions	Missions
+1612					Tutorial Mission:
+1613	MISSION_1	폰트	MissionGallery.pag	MissionNum	Mission 1
+1614	MISSION_2	폰트	MissionGallery.pag	MissionNum	Mission 2
+1615	MISSION_3	폰트	MissionGallery.pag	MissionNum	Mission 3
+1616	MISSION_4	폰트	MissionGallery.pag	MissionNum	Mission 4
+1617	MISSION_5	폰트	MissionGallery.pag	MissionNum	Mission 5
+1618	MISSION_6	폰트	MissionGallery.pag	MissionNum	Mission 6
+1619	MISSION_7	폰트	MissionGallery.pag	MissionNum	Mission 7
+1620					Street Race:
+1621					Street Race:
+1622	MSG_DELETE_CORRUPT_FAIL_(PS2)	폰트	GenericPrompt.pag	Message	Failed deleting corrupted file. Please check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot $ and try again
+1623	VINPUT_ATTACK	폰트	PCKeyboardConfig.pag	Label05	ATTACK
+1624					Surveillance Van
+1625	SELECT_ANOTHER_MEMORY_DEVICE_(GC)	폰트	SelectMemoryDevice.pag	SelectMemoryDevice	Select another Memory Card
+1626	CONTINUE_WITHOUT_SAVE	폰트	Prompt.pag	Response2	Continue Without Saving
+1627	VEHICLE_ODDS_EASY	폰트	MissionLoad.pag	VehicleOdds_Value	Easy
+1628					M

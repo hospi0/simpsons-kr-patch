@@ -1,0 +1,823 @@
+파일명	태그	주제	순서	형식	화자	방식	영문
+c_aztec1_1_convinit_svt.rsd		aztec1	1	convinit	svt		
+c_aztec2_1_convinit_svt.rsd		aztec2	1	convinit	svt		
+c_aztec3_1_convinit_svt.rsd		aztec3	1	convinit	svt		
+c_aztec4_1_convinit_svt.rsd		aztec4	1	convinit	svt		
+c_foxcredits_1_noboxconv_kan.rsd		foxcredits	1	noboxconv	kan		
+c_foxcredits_2_noboxconv_kod.rsd		foxcredits	2	noboxconv	kod		
+c_foxcredits_3_noboxconv_kan.rsd		foxcredits	3	noboxconv	kan		
+c_foxcredits_4_noboxconv_kod.rsd		foxcredits	4	noboxconv	kod		
+c_foxcredits_5_noboxconv_kod.rsd		foxcredits	5	noboxconv	kod		
+c_pubcredits_1_noboxconv_kan.rsd		pubcredits	1	noboxconv	kan		
+c_pubcredits_2_noboxconv_kan.rsd		pubcredits	2	noboxconv	kan		
+c_pubcredits_3_noboxconv_kod.rsd		pubcredits	3	noboxconv	kod		
+c_pubcredits_4_noboxconv_kan.rsd		pubcredits	4	noboxconv	kan		
+c_pubcredits_5_noboxconv_kod.rsd		pubcredits	5	noboxconv	kod		
+c_raddesign_1_noboxconv_kan.rsd		raddesign	1	noboxconv	kan		
+c_raddesign_2_noboxconv_kod.rsd		raddesign	2	noboxconv	kod		
+c_radfeart_1_noboxconv_kan.rsd		radfeart	1	noboxconv	kan		
+c_radfeart_2_noboxconv_kod.rsd		radfeart	2	noboxconv	kod		
+c_radfmvart_1_noboxconv_kan.rsd		radfmvart	1	noboxconv	kan		
+c_radfx_1_noboxconv_kod.rsd		radfx	1	noboxconv	kod		
+c_radirw_1_noboxconv_kan.rsd		radirw	1	noboxconv	kan		
+c_radlead_1_noboxconv_kod.rsd		radlead	1	noboxconv	kod		
+c_radlead_2_noboxconv_kan.rsd		radlead	2	noboxconv	kan		
+c_radlead_3_noboxconv_kod.rsd		radlead	3	noboxconv	kod		
+c_radmodel_1_noboxconv_kan.rsd		radmodel	1	noboxconv	kan		
+c_radproducer_1_noboxconv_kan.rsd		radproducer	1	noboxconv	kan		
+c_radproducer_2_noboxconv_kod.rsd		radproducer	2	noboxconv	kod		
+c_radprog_1_noboxconv_kan.rsd		radprog	1	noboxconv	kan		
+c_radprog_2_noboxconv_kod.rsd		radprog	2	noboxconv	kod		
+c_radprog_3_noboxconv_kan.rsd		radprog	3	noboxconv	kan		
+c_radprog_4_noboxconv_kod.rsd		radprog	4	noboxconv	kod		
+c_radsound_1_noboxconv_kod.rsd		radsound	1	noboxconv	kod		
+c_radtest_1_noboxconv_kan.rsd		radtest	1	noboxconv	kan		
+c_radtest_2_noboxconv_kod.rsd		radtest	2	noboxconv	kod		
+c_radworld_1_noboxconv_kod.rsd		radworld	1	noboxconv	kod		
+c_radworld_2_noboxconv_kan.rsd		radworld	2	noboxconv	kan		
+c_rewardfail_1_convinit_cbg.rsd		rewardfail	1	convinit	cbg		
+c_rewardintro_1_convinit_cbg.rsd		rewardintro	1	convinit	cbg		
+c_rewardsuccess_1_convinit_cbg.rsd		rewardsuccess	1	convinit	cbg		
+c_congrats_1_convinit_hom_l1.rsd	l1	congrats	1	convinit	hom	exact	Hey, Apu, give me a cola and I need another bucket of ice cream with mini pies in them.
+c_congrats_2_convinit_apu_l1.rsd	l1	congrats	2	convinit	apu	exact	What happened to the ice cream with mini pies your wife bought this morning?
+c_congrats_3_convinit_hom_l1.rsd	l1	congrats	3	convinit	hom	exact	I don't knw, I probably ate it, I don't remember things to good.
+c_congrats2_1_noboxconv_brt_l1.rsd	l1	congrats2	1	noboxconv	brt		
+c_icecream_1_convinit_mrg_l1.rsd	l1	icecream	1	convinit	mrg		
+c_icecream_2_convinit_hom_l1.rsd	l1	icecream	2	convinit	hom		
+c_jug_1_convinit_hom_l1.rsd	l1	jug	1	convinit	hom		
+c_jug_2_convinit_clt_l1.rsd	l1	jug	2	convinit	clt		
+c_jug_3_convinit_hom_l1.rsd	l1	jug	3	convinit	hom		
+c_jug_4_convinit_clt_l1.rsd	l1	jug	4	convinit	clt		
+c_jug_5_convinit_hom_l1.rsd	l1	jug	5	convinit	hom		
+c_jug_6_convinit_clt_l1.rsd	l1	jug	6	convinit	clt		
+c_plowking_1_convinit_hom_l1.rsd	l1	plowking	1	convinit	hom		
+c_plowking_2_convinit_brn_l1.rsd	l1	plowking	2	convinit	brn		
+c_plowking_3_convinit_hom_l1.rsd	l1	plowking	3	convinit	hom		
+c_cityboy_1_convinit_clt_l1b1.rsd	l1b1	cityboy	1	convinit	clt		
+c_bladder_1_convinit_lis_l1m1.rsd	l1m1	bladder	1	convinit	lis	gap	Thanks for bringing me my model of the disegtion system... hey, where's the gall bladder.
+c_bladder_2_convinit_hom_l1m1.rsd	l1m1	bladder	2	convinit	hom	gap	Uh, I got hungry on the way over and it was a fig.
+c_bladder_3_convinit_lis_l1m1.rsd	l1m1	bladder	3	convinit	lis	gap	It was modelling clay! By the way dad, mom called, she needs to talk to you before you go to work.
+c_bladder_4_convinit_hom_l1m1.rsd	l1m1	bladder	4	convinit	hom	gap	D'oh!
+c_bladder_5_convinit_lis_l1m1.rsd	l1m1	bladder	5	convinit	lis		
+c_bladder_6_convinit_hom_l1m1.rsd	l1m1	bladder	6	convinit	hom		
+c_project_1_convinit_mrg_l1m1.rsd	l1m1	project	1	convinit	mrg	topic	Homie, Lisa left for school without her science project. Can you get it to her?
+c_project_2_convinit_hom_l1m1.rsd	l1m1	project	2	convinit	hom	topic	Oh, do I have to?
+c_project_3_convinit_mrg_l1m1.rsd	l1m1	project	3	convinit	mrg	topic	You can drop it off on your way to work.
+c_project_4_convinit_hom_l1m1.rsd	l1m1	project	4	convinit	hom	topic	And I have to go to work?!
+c_cooler_1_convinit_hom_l1m2.rsd	l1m2	cooler	1	convinit	hom	topic	Uh, remeber that cooler I gave you for your birthday? Well, Flanders wants it back.
+c_cooler_2_convinit_brn_l1m2.rsd	l1m2	cooler	2	convinit	brn	topic	Now what'll I use for a toilet?
+c_culprit_1_convinit_fla_l1m2.rsd	l1m2	culprit	1	convinit	fla	exact	I'm all in a ditter Homer, so many of my possesions have dissapeared. I called the police to find the culprit.
+c_culprit_2_convinit_hom_l1m2.rsd	l1m2	culprit	2	convinit	hom	exact	Culprit, eh.
+c_culprit_3_convinit_fla_l1m2.rsd	l1m2	culprit	3	convinit	fla	exact	My lawn mower, my cooler, my lawn chair, a family portrait, even Rod's inhaler, what kind of sick individual would take all of this stuff.
+c_culprit_5_convinit_hom_l1m2.rsd	l1m2	culprit	5	convinit	hom	exact	(In his head) Oh no, I borrowed all of Flanders stuff, quick, think of an excuse to get out of here.
+c_inhaler_1_noboxconv_hom_l1m2.rsd	l1m2	inhaler	1	noboxconv	hom		
+c_mower_1_noboxconv_hom_l1m2.rsd	l1m2	mower	1	noboxconv	hom		
+c_neighbor_1_convinit_mrg_l1m2.rsd	l1m2	neighbor	1	convinit	mrg	topic	Homer, go talk to Ned Flanders, he seems mifted, and PO'ed.
+c_neighbor_2_convinit_hom_l1m2.rsd	l1m2	neighbor	2	convinit	hom	topic	Why me, I'm the worlds greatest neighbor, I even have a mug to that effect.
+c_picture_1_noboxconv_hom_l1m2.rsd	l1m2	picture	1	noboxconv	hom		
+c_return_1_noboxconv_hom_l1m2.rsd	l1m2	return	1	noboxconv	hom		
+c_reward_1_convinit_hom_l1m2.rsd	l1m2	reward	1	convinit	hom	exact	Flanders, look I found your missing stuff. Now about the reward.
+c_reward_2_convinit_fla_l1m2.rsd	l1m2	reward	2	convinit	fla	exact	Thanks neighbor-oony. Here's your reward, a prayer from the lord. Dear father in heaven, bless this kind oaf.
+c_reward_3_convinit_hom_l1m2.rsd	l1m2	reward	3	convinit	hom	exact	Stupid Flanders getting happiness from religion.
+c_churro_1_convinit_len_l1m3.rsd	l1m3	churro	1	convinit	len	exact	Hey, Homer, how about a breakfast churro?
+c_churro_2_convinit_hom_l1m3.rsd	l1m3	churro	2	convinit	hom	exact	No time, tell me where I can find Mr. Smithers.
+c_churro_3_convinit_len_l1m3.rsd	l1m3	churro	3	convinit	len	exact	I think I saw him  at the Kwik-E-Mart. Oh well, more breakfast churros for Lenny!
+c_churro_4_convinit_hom_l1m3.rsd	l1m3	churro	4	convinit	hom	exact	I'm gonna need a car with more junk in the trunk if I want to take him out. I wonder if Barney still has the Plow King.
+c_churro2_1_convinit_len_l1m3.rsd	l1m3	churro2	1	convinit	len		
+c_churro2_2_convinit_hom_l1m3.rsd	l1m3	churro2	2	convinit	hom		
+c_churro2_3_convinit_len_l1m3.rsd	l1m3	churro2	3	convinit	len		
+c_convertible_1_noboxconv_smi_l1m3.rsd	l1m3	convertible	1	noboxconv	smi		
+c_convertible_2_noboxconv_hom_l1m3.rsd	l1m3	convertible	2	noboxconv	hom		
+c_scorpion_1_convinit_mrg_l1m3.rsd	l1m3	scorpion	1	convinit	mrg	topic	Homie, you're late for work, and todays your workplace evaluation with Mr. Smither.
+c_scorpion_2_convinit_hom_l1m3.rsd	l1m3	scorpion	2	convinit	hom	topic	Ah! He'll find my scorpion farm, then where will my scorpions live!? Only one person can help me, Lenny!
+c_camera_1_convinit_hom_l1m4.rsd	l1m4	camera	1	convinit	hom	topic	How can I sleep with that camera? Ooh, sexy girls could be watching me on the internet! Stupid cameras, you should be smashed, I'll destroy you at your power source! Hahahaha!!
+c_sleep_1_convinit_hom_l1m4.rsd	l1m4	sleep	1	convinit	hom		
+c_sleep_2_convinit_bur_l1m4.rsd	l1m4	sleep	2	convinit	bur		
+c_sleep_3_convinit_hom_l1m4.rsd	l1m4	sleep	3	convinit	hom		
+c_skeleton_1_convinit_hom_l1m5.rsd	l1m5	skeleton	1	convinit	hom	topic	Oh, so Mr. Burns is behind all this. Spying is so like him that wrinkled old monkey skeleton.
+c_sharing_1_convinit_mrg_l1m6.rsd	l1m6	sharing	1	convinit	mrg		
+c_sharing_2_convinit_hom_l1m6.rsd	l1m6	sharing	2	convinit	hom		
+c_sharing_3_convinit_mrg_l1m6.rsd	l1m6	sharing	3	convinit	mrg		
+c_violent_1_convinit_hom_l1m6.rsd	l1m6	violent	1	convinit	hom	topic	Mr. burns is spying on everybody, we've got to follow him!
+c_violent_2_convinit_mrg_l1m6.rsd	l1m6	violent	2	convinit	mrg	topic	Not now Homer, a new violent video game has hit the streets, and we need to get rid of it before it warps any children with its bloops and bleeps!
+c_violent_3_convinit_hom_l1m6.rsd	l1m6	violent	3	convinit	hom	topic	But that game sounds awesome.
+c_violent_4_convinit_mrg_l1m6.rsd	l1m6	violent	4	convinit	mrg	topic	And therefore should be destroyed.
+c_violent_5_convinit_hom_l1m6.rsd	l1m6	violent	5	convinit	hom	topic	I guess.
+c_accuse_1_convinit_hom_l1m7.rsd	l1m7	accuse	1	convinit	hom	exact	C. Montgomery Burns, I know you're guilty accused... Sir.
+c_accuse_2_convinit_bur_l1m7.rsd	l1m7	accuse	2	convinit	bur	exact	Fine I admit it, I had a plane shot down. Aunt Hussy was getting to big for her choppers.
+c_accuse_3_convinit_hom_l1m7.rsd	l1m7	accuse	3	convinit	hom	exact	No, you're spying on Springfield with your black vans and cameras.
+c_accuse_4_convinit_bur_l1m7.rsd	l1m7	accuse	4	convinit	bur	exact	black vans, arent they connected to some pizza concern.
+c_accuse_5_convinit_hom_l1m7.rsd	l1m7	accuse	5	convinit	hom	exact	What!? They were only pizza vans. Ohh, I'm a class five idiot.
+c_accuse_6_convinit_bur_l1m7.rsd	l1m7	accuse	6	convinit	bur	exact	Smithers, release the hounds, and if this oaf is an employee of the plant, fire him at once.
+c_adventure_1_convinit_crl_l1m7.rsd	l1m7	adventure	1	convinit	crl	exact	Hey Homer, you look like you're having one of your trademark adventures.
+c_adventure_2_convinit_hom_l1m7.rsd	l1m7	adventure	2	convinit	hom	exact	Danger... Mr. Burns... mini cameras... black vans!
+c_adventure_3_convinit_crl_l1m7.rsd	l1m7	adventure	3	convinit	crl	exact	Whoa, good thing I'm drunk!
+c_adventure_4_convinit_hom_l1m7.rsd	l1m7	adventure	4	convinit	hom	exact	Stupid drunk, oh no, he's going to warn Burns. I can't believe I'm racing the same guy twice in one day.
+c_there_1_noboxconv_hom_l1m7.rsd	l1m7	there	1	noboxconv	hom		
+c_count_1_noboxconv_mil_l1r1.rsd	l1r1	count	1	noboxconv	mil		
+c_fail1_1_noboxconv_pat_l1r1.rsd	l1r1	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l1r1.rsd	l1r1	fail2	1	noboxconv	pat		
+c_intro_1_convinit_hom_l1r1.rsd	l1r1	intro	1	convinit	hom		
+c_intro_2_convinit_mil_l1r1.rsd	l1r1	intro	2	convinit	mil		
+c_success_1_convinit_pat_l1r1.rsd	l1r1	success	1	convinit	pat		
+c_count_1_noboxconv_nel_l1r2.rsd	l1r2	count	1	noboxconv	nel		
+c_fail1_1_noboxconv_pat_l1r2.rsd	l1r2	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l1r2.rsd	l1r2	fail2	1	noboxconv	pat		
+c_intro_1_convinit_hom_l1r2.rsd	l1r2	intro	1	convinit	hom		
+c_intro_2_convinit_nel_l1r2.rsd	l1r2	intro	2	convinit	nel		
+c_success_1_convinit_pat_l1r2.rsd	l1r2	success	1	convinit	pat		
+c_complete_1_convinit_pat_l1r3.rsd	l1r3	complete	1	convinit	pat		
+c_count_1_noboxconv_ral_l1r3.rsd	l1r3	count	1	noboxconv	ral		
+c_fail1_1_noboxconv_pat_l1r3.rsd	l1r3	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l1r3.rsd	l1r3	fail2	1	noboxconv	pat		
+c_intro_1_convinit_hom_l1r3.rsd	l1r3	intro	1	convinit	hom		
+c_intro_2_convinit_ral_l1r3.rsd	l1r3	intro	2	convinit	ral		
+c_pass_1_convinit_ral_l1r3.rsd	l1r3	pass	1	convinit	ral		
+c_success_1_convinit_pat_l1r3.rsd	l1r3	success	1	convinit	pat		
+c_bonus_1_tutorial_brt_l1t1.rsd	l1t1	bonus	1	tutorial	brt		
+c_boxesngc_1_tutorial_brt_l1t1.rsd	l1t1	boxesngc	1	tutorial	brt		
+c_boxesps2_1_tutorial_brt_l1t1.rsd	l1t1	boxesps2	1	tutorial	brt		
+c_boxesxbx_1_tutorial_brt_l1t1.rsd	l1t1	boxesxbx	1	tutorial	brt		
+c_breakngc_1_tutorial_brt_l1t1.rsd	l1t1	breakngc	1	tutorial	brt		
+c_breakps2_1_tutorial_brt_l1t1.rsd	l1t1	breakps2	1	tutorial	brt		
+c_breakxbx_1_tutorial_brt_l1t1.rsd	l1t1	breakxbx	1	tutorial	brt		
+c_broken_1_tutorial_brt_l1t1.rsd	l1t1	broken	1	tutorial	brt		
+c_camera_1_tutorial_brt_l1t1.rsd	l1t1	camera	1	tutorial	brt		
+c_card_1_tutorial_brt_l1t1.rsd	l1t1	card	1	tutorial	brt		
+c_clothes_1_tutorial_brt_l1t1.rsd	l1t1	clothes	1	tutorial	brt		
+c_coin_1_tutorial_hom_l1t1.rsd	l1t1	coin	1	tutorial	hom		
+c_coin_2_tutorial_brt_l1t1.rsd	l1t1	coin	2	tutorial	brt		
+c_damaged_1_tutorial_brt_l1t1.rsd	l1t1	damaged	1	tutorial	brt		
+c_drivengc_1_tutorial_brt_l1t1.rsd	l1t1	drivengc	1	tutorial	brt		
+c_driveps2_1_tutorial_brt_l1t1.rsd	l1t1	driveps2	1	tutorial	brt		
+c_drivexbx_1_tutorial_brt_l1t1.rsd	l1t1	drivexbx	1	tutorial	brt		
+c_failed_1_tutorial_brt_l1t1.rsd	l1t1	failed	1	tutorial	brt		
+c_gag_1_tutorial_brt_l1t1.rsd	l1t1	gag	1	tutorial	brt		
+c_gil_1_tutorial_brt_l1t1.rsd	l1t1	gil	1	tutorial	brt		
+c_hitrun_1_tutorial_brt_l1t1.rsd	l1t1	hitrun	1	tutorial	brt		
+c_incarngc_1_tutorial_brt_l1t1.rsd	l1t1	incarngc	1	tutorial	brt		
+c_incarps2_1_tutorial_brt_l1t1.rsd	l1t1	incarps2	1	tutorial	brt		
+c_incarxbx_1_tutorial_brt_l1t1.rsd	l1t1	incarxbx	1	tutorial	brt		
+c_interiorngc_1_tutorial_brt_l1t1.rsd	l1t1	interiorngc	1	tutorial	brt		
+c_interiorps2_1_tutorial_brt_l1t1.rsd	l1t1	interiorps2	1	tutorial	brt		
+c_interiorxbx_1_tutorial_brt_l1t1.rsd	l1t1	interiorxbx	1	tutorial	brt		
+c_krusty_1_tutorial_brt_l1t1.rsd	l1t1	krusty	1	tutorial	brt		
+c_outcarngc_1_tutorial_brt_l1t1.rsd	l1t1	outcarngc	1	tutorial	brt		
+c_outcarps2_1_tutorial_brt_l1t1.rsd	l1t1	outcarps2	1	tutorial	brt		
+c_outcarxbx_1_tutorial_brt_l1t1.rsd	l1t1	outcarxbx	1	tutorial	brt		
+c_race_1_tutorial_brt_l1t1.rsd	l1t1	race	1	tutorial	brt		
+c_radar_1_tutorial_brt_l1t1.rsd	l1t1	radar	1	tutorial	brt		
+c_rewardngc_1_tutorial_brt_l1t1.rsd	l1t1	rewardngc	1	tutorial	brt		
+c_rewardps2_1_tutorial_brt_l1t1.rsd	l1t1	rewardps2	1	tutorial	brt		
+c_rewardxbx_1_tutorial_brt_l1t1.rsd	l1t1	rewardxbx	1	tutorial	brt		
+c_roadarrow_1_tutorial_brt_l1t1.rsd	l1t1	roadarrow	1	tutorial	brt		
+c_startngc_1_tutorial_brt_l1t1.rsd	l1t1	startngc	1	tutorial	brt		
+c_startps2_1_tutorial_brt_l1t1.rsd	l1t1	startps2	1	tutorial	brt		
+c_startxbx_1_tutorial_brt_l1t1.rsd	l1t1	startxbx	1	tutorial	brt		
+c_timetrial_1_tutorial_brt_l1t1.rsd	l1t1	timetrial	1	tutorial	brt		
+c_traffic_1_tutorial_brt_l1t1.rsd	l1t1	traffic	1	tutorial	brt		
+c_vending_1_tutorial_brt_l1t1.rsd	l1t1	vending	1	tutorial	brt		
+c_wrench_1_tutorial_brt_l1t1.rsd	l1t1	wrench	1	tutorial	brt		
+c_incontinent_1_convinit_brt_l2.rsd	l2	incontinent	1	convinit	brt		
+c_incontinent_2_convinit_grp_l2.rsd	l2	incontinent	2	convinit	grp		
+c_incontinent_3_convinit_brt_l2.rsd	l2	incontinent	3	convinit	brt		
+c_incontinent_4_convinit_grp_l2.rsd	l2	incontinent	4	convinit	grp		
+c_son_1_convinit_brt_l2.rsd	l2	son	1	convinit	brt	exact	I need your truck Homer.
+c_son_2_convinit_hom_l2.rsd	l2	son	2	convinit	hom	exact	Why should I give you that?
+c_son_3_convinit_brt_l2.rsd	l2	son	3	convinit	brt	exact	Because I love you.
+c_son_4_convinit_hom_l2.rsd	l2	son	4	convinit	hom	exact	Hahaha, pay up, sucker!
+c_son_5_convinit_brt_l2.rsd	l2	son	5	convinit	brt	exact	You're charging your own son?
+c_son_6_convinit_hom_l2.rsd	l2	son	6	convinit	hom	exact	Yeah, guess I am.
+c_fries_1_convinit_brt_l2b1.rsd	l2b1	fries	1	convinit	brt		
+c_fries_2_convinit_svt_l2b1.rsd	l2b1	fries	2	convinit	svt		
+c_goat_1_convinit_brt_l2b1.rsd	l2b1	goat	1	convinit	brt	exact	I'm here about fireworks
+c_goat_2_convinit_moe_l2b1.rsd	l2b1	goat	2	convinit	moe	exact	Oh he** yeah!
+c_goat_3_convinit_brt_l2b1.rsd	l2b1	goat	3	convinit	brt	exact	One dozen of your best tiowana fire crackers!
+c_vampire_1_noboxconv_brt_l2b1.rsd	l2b1	vampire	1	noboxconv	brt		
+c_warm_1_convinit_grp_l2b1.rsd	l2b1	warm	1	convinit	grp		
+c_warm_2_convinit_brt_l2b1.rsd	l2b1	warm	2	convinit	brt		
+c_warm_3_convinit_grp_l2b1.rsd	l2b1	warm	3	convinit	grp		
+c_bonestorm_1_convinit_brt_l2m1.rsd	l2m1	bonestorm	1	convinit	brt	exact	I need to get the new Bonestorm or I'll be as uncool as Milhouse.
+c_bonestorm_2_convinit_mil_l2m1.rsd	l2m1	bonestorm	2	convinit	mil	exact	I'm standing right here Bart.
+c_bonestorm_3_convinit_brt_l2m1.rsd	l2m1	bonestorm	3	convinit	brt	exact	Hey hey, that's great.
+c_bonestorm_4_convinit_mil_l2m1.rsd	l2m1	bonestorm	4	convinit	mil	exact	You better get out of here Bart, Prncipal Skinner is looking for everyone who skipped school today. And when you're caught, it's expulsion, Bart, expulsion!!
+c_charlie_1_noboxconv_skn_l2m1.rsd	l2m1	charlie	1	noboxconv	skn		
+c_charlie_2_noboxconv_brt_l2m1.rsd	l2m1	charlie	2	noboxconv	brt		
+c_charlie_3_noboxconv_skn_l2m1.rsd	l2m1	charlie	3	noboxconv	skn		
+c_charlie_4_noboxconv_brt_l2m1.rsd	l2m1	charlie	4	noboxconv	brt		
+c_charlie_5_noboxconv_skn_l2m1.rsd	l2m1	charlie	5	noboxconv	skn		
+c_charlie_6_noboxconv_skn_l2m1.rsd	l2m1	charlie	6	noboxconv	skn		
+c_finger_1_convinit_jim_l2m1.rsd	l2m1	finger	1	convinit	jim	exact	To late losers, I got the last game! Some crazy lady destroyed all the rest.
+c_finger_2_convinit_brt_l2m1.rsd	l2m1	finger	2	convinit	brt	exact	Oh when will people learn that video games don't kill people, they just kills there minds.
+c_gator_1_noboxconv_brt_l2m1.rsd	l2m1	gator	1	noboxconv	brt		
+c_grade_1_convinit_skn_l2m1.rsd	l2m1	grade	1	convinit	skn		
+c_grade_2_convinit_brt_l2m1.rsd	l2m1	grade	2	convinit	brt		
+c_fireworks_1_convinit_brt_l2m2.rsd	l2m2	fireworks	1	convinit	brt	exact	How am I gonna get that new game?
+c_fireworks_2_convinit_kea_l2m2.rsd	l2m2	fireworks	2	convinit	kea	exact	Who cares? Video games are so late 90s. Illegal fireworks are all the rage now. Better make it snappy though if you want to be apart of this trend.
+c_fought_1_noboxconv_brt_l2m2.rsd	l2m2	fought	1	noboxconv	brt		
+c_frog_1_convinit_brt_l2m2.rsd	l2m2	frog	1	convinit	brt	exact	One box of your finest quality chinese frog loggers.
+c_frog_2_convinit_oto_l2m2.rsd	l2m2	frog	2	convinit	oto	exact	Here you go, toquilas and chinese sky candies, they'll blow you away!
+c_life_1_noboxconv_wig_l2m2.rsd	l2m2	life	1	noboxconv	wig		
+c_life_2_noboxconv_brt_l2m2.rsd	l2m2	life	2	noboxconv	brt		
+c_minor_1_convinit_moe_l2m2.rsd	l2m2	minor	1	convinit	moe	gap	Sorry Bart, I can't sell booze to a minor, it ain't right.
+c_minor_2_convinit_brt_l2m2.rsd	l2m2	minor	2	convinit	brt	gap	Ohhh.
+c_minor_3_convinit_moe_l2m2.rsd	l2m2	minor	3	convinit	moe		
+c_stash_1_convinit_brt_l2m2.rsd	l2m2	stash	1	convinit	brt	exact	Ralph, word in the hood is that you have access to your dad's fireworks stash.
+c_stash_2_convinit_ral_l2m2.rsd	l2m2	stash	2	convinit	ral	exact	Fireworks make my ears yell!
+c_stash_3_convinit_brt_l2m2.rsd	l2m2	stash	3	convinit	brt	exact	Here's some gum drops, now make with the works!
+c_stash_4_convinit_ral_l2m2.rsd	l2m2	stash	4	convinit	ral	exact	My daddy's gonna put you in jail.
+c_tijuana_1_convinit_brt_l2m2.rsd	l2m2	tijuana	1	convinit	brt		
+c_tijuana_2_convinit_snk_l2m2.rsd	l2m2	tijuana	2	convinit	snk		
+c_futile_1_convinit_cbg_l2m3.rsd	l2m3	futile	1	convinit	cbg	gap	I am happy to report that your quest for Bonestorm 2 is quite futile. Proffesor Frink posted a message on my news group, alt.furryanimals.fanfiction.net, that he has bought up all of the remaining games.
+c_futile_2_convinit_brt_l2m3.rsd	l2m3	futile	2	convinit	brt	gap	I gotta play Bonestorm 2, gimme one!!
+c_futile_3_convinit_cbg_l2m3.rsd	l2m3	futile	3	convinit	cbg		
+c_jabba_1_convinit_brt_l2m3.rsd	l2m3	jabba	1	convinit	brt	exact	Hey, chocolate and fat, you know where I can get a copy of Bonestorm 2?
+c_jabba_2_convinit_cbg_l2m3.rsd	l2m3	jabba	2	convinit	cbg	exact	Yes, I have no time to converse with you, I must be first to register my disgust on the internet regarding the new McBane film. The action was dismal and the nudity was frustratingly fleeting. I barely got going.
+c_jabba_3_convinit_brt_l2m3.rsd	l2m3	jabba	3	convinit	brt	exact	Quick, to the fat-mobile, hahaha!!
+c_jabba_4_convinit_cbg_l2m3.rsd	l2m3	jabba	4	convinit	cbg	exact	Yes, I suppose, but must we call it that?
+c_chicks_1_convinit_brt_l2m4.rsd	l2m4	chicks	1	convinit	brt	exact	Hey Snake, what's up.
+c_chicks_2_convinit_snk_l2m4.rsd	l2m4	chicks	2	convinit	snk	exact	Um, do I know you little dude?
+c_chicks_3_convinit_brt_l2m4.rsd	l2m4	chicks	3	convinit	brt	exact	I need that radio you "borrowed".
+c_chicks_4_convinit_snk_l2m4.rsd	l2m4	chicks	4	convinit	snk	exact	No way litle dude this radio is gonna help me score bodacious chicks!
+c_chicks_5_convinit_brt_l2m4.rsd	l2m4	chicks	5	convinit	brt	exact	uh, last time I checked, chicks liked fast cars not old electronics. Why don't we race for the radio!
+c_chicks_6_convinit_snk_l2m4.rsd	l2m4	chicks	6	convinit	snk	exact	Oh i totally agree to your proposal!
+c_finest_1_convinit_brt_l2m4.rsd	l2m4	finest	1	convinit	brt	exact	Hey, Springfield's lamest, what's the deal?
+c_finest_2_convinit_wig_l2m4.rsd	l2m4	finest	2	convinit	wig	exact	Didn't you hear? Herman's been robbed, do you know who did it, 'cause if you did, boy that would be great.
+c_finest_3_convinit_brt_l2m4.rsd	l2m4	finest	3	convinit	brt	exact	Oh no, now where am I gonna get a radio?
+c_finest_4_convinit_wig_l2m4.rsd	l2m4	finest	4	convinit	wig	exact	These fresh skid marks leading away from the scene of the crime could be a clue but whose to say, really?
+c_gimme_1_convinit_brt_l2m4.rsd	l2m4	gimme	1	convinit	brt		
+c_gimme_2_convinit_frk_l2m4.rsd	l2m4	gimme	2	convinit	frk		
+c_gimme_3_convinit_brt_l2m4.rsd	l2m4	gimme	3	convinit	brt		
+c_satellite_1_noboxconv_brt_l2m4.rsd	l2m4	satellite	1	noboxconv	brt		
+c_roadkill_1_convinit_brt_l2m5.rsd	l2m5	roadkill	1	convinit	brt		
+c_roadkill_2_convinit_clt_l2m5.rsd	l2m5	roadkill	2	convinit	clt		
+c_roadkill_3_convinit_brt_l2m5.rsd	l2m5	roadkill	3	convinit	brt		
+c_roadkill_4_convinit_clt_l2m5.rsd	l2m5	roadkill	4	convinit	clt		
+c_slack_1_convinit_brt_l2m5.rsd	l2m5	slack	1	convinit	brt	topic	Hey there mister slack-jawed yokal!
+c_slack_2_convinit_clt_l2m5.rsd	l2m5	slack	2	convinit	clt	topic	That be I.
+c_slack_3_convinit_brt_l2m5.rsd	l2m5	slack	3	convinit	brt	topic	Can i borrow your sattelite dish?
+c_slack_4_convinit_clt_l2m5.rsd	l2m5	slack	4	convinit	clt	topic	Sure, if you help me scoop up my flat meat, soffisticated city youngster. Those darn revenuers don't like me selling road kill.
+c_stinkdog_1_noboxconv_clt_l2m5.rsd	l2m5	stinkdog	1	noboxconv	clt		
+c_stinkdog_2_noboxconv_apu_l2m5.rsd	l2m5	stinkdog	2	noboxconv	apu		
+c_blender_1_convinit_frk_l2m6.rsd	l2m6	blender	1	convinit	frk	topic	You expect me to complete a Mark 10 Truckosorous without a blender. Why don't I just make a Plasma Blade without a tennis racket, for claving sake. Now fetch me a blender with the purey and the frapey and liquidfey.
+c_blender_2_convinit_brt_l2m6.rsd	l2m6	blender	2	convinit	brt	topic	Now where a I gonna get a blender... oh, Doctor Nick, he loves blending drinks during surgery!
+c_electrode_1_convinit_nic_l2m6.rsd	l2m6	electrode	1	convinit	nic		
+c_monkey_1_convinit_brt_l2m6.rsd	l2m6	monkey	1	convinit	brt	exact	Hi Doctor Nick
+c_monkey_2_convinit_nic_l2m6.rsd	l2m6	monkey	2	convinit	nic	exact	Hi everbody
+c_monkey_3_convinit_brt_l2m6.rsd	l2m6	monkey	3	convinit	brt	exact	You seem like a heavy drinker, do you have a blender?
+c_monkey_4_convinit_nic_l2m6.rsd	l2m6	monkey	4	convinit	nic	exact	Nope, no ok, my monkeys have escaped, can you catch them for me, I'll be so grateful.
+c_monkey_5_convinit_brt_l2m6.rsd	l2m6	monkey	5	convinit	brt	exact	Why wont they come back to you.
+c_monkey_6_convinit_nic_l2m6.rsd	l2m6	monkey	6	convinit	nic	exact	Because, I have tortured them horribly, silly!
+c_monkey_7_convinit_brt_l2m6.rsd	l2m6	monkey	7	convinit	brt	exact	There's no way I'll be able to fit all of those monkeys into my car. I better get a big truck or something.
+c_monkey2_1_convinit_brt_l2m6.rsd	l2m6	monkey2	1	convinit	brt		
+c_monkey2_2_convinit_nic_l2m6.rsd	l2m6	monkey2	2	convinit	nic		
+c_monkey2_3_convinit_brt_l2m6.rsd	l2m6	monkey2	3	convinit	brt		
+c_monkey2_4_convinit_nic_l2m6.rsd	l2m6	monkey2	4	convinit	nic		
+c_monkey2_5_convinit_brt_l2m6.rsd	l2m6	monkey2	5	convinit	brt		
+c_monkey2_6_convinit_nic_l2m6.rsd	l2m6	monkey2	6	convinit	nic		
+c_doodad_1_convinit_brt_l2m7.rsd	l2m7	doodad	1	convinit	brt		
+c_doodad_2_convinit_frk_l2m7.rsd	l2m7	doodad	2	convinit	frk		
+c_smash_1_convinit_frk_l2m7.rsd	l2m7	smash	1	convinit	frk	exact	Well done my little sociopath!
+c_smash_2_convinit_brt_l2m7.rsd	l2m7	smash	2	convinit	brt	exact	I like to smash
+c_smash_3_convinit_frk_l2m7.rsd	l2m7	smash	3	convinit	frk	exact	Now my robot will not go on a killing rampage with the screaming and the sadness and the blood on the robot.
+c_count_1_noboxconv_mil_l2r1.rsd	l2r1	count	1	noboxconv	mil		
+c_fail1_1_noboxconv_pat_l2r1.rsd	l2r1	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l2r1.rsd	l2r1	fail2	1	noboxconv	pat		
+c_intro_1_convinit_brt_l2r1.rsd	l2r1	intro	1	convinit	brt		
+c_intro_2_convinit_mil_l2r1.rsd	l2r1	intro	2	convinit	mil		
+c_success_1_convinit_pat_l2r1.rsd	l2r1	success	1	convinit	pat		
+c_count_1_noboxconv_nel_l2r2.rsd	l2r2	count	1	noboxconv	nel		
+c_fail1_1_noboxconv_pat_l2r2.rsd	l2r2	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l2r2.rsd	l2r2	fail2	1	noboxconv	pat		
+c_intro_1_convinit_brt_l2r2.rsd	l2r2	intro	1	convinit	brt		
+c_intro_2_convinit_nel_l2r2.rsd	l2r2	intro	2	convinit	nel		
+c_success_1_convinit_pat_l2r2.rsd	l2r2	success	1	convinit	pat		
+c_complete_1_convinit_pat_l2r3.rsd	l2r3	complete	1	convinit	pat		
+c_count_1_noboxconv_ral_l2r3.rsd	l2r3	count	1	noboxconv	ral		
+c_fail1_1_noboxconv_pat_l2r3.rsd	l2r3	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l2r3.rsd	l2r3	fail2	1	noboxconv	pat		
+c_intro_1_convinit_ral_l2r3.rsd	l2r3	intro	1	convinit	ral		
+c_intro_2_convinit_brt_l2r3.rsd	l2r3	intro	2	convinit	brt		
+c_success_1_convinit_pat_l2r3.rsd	l2r3	success	1	convinit	pat		
+c_bus_1_convinit_lis_l3.rsd	l3	bus	1	convinit	lis	exact	Otto, I know I'm a little young to be asking this...
+c_bus_2_convinit_oto_l3.rsd	l3	bus	2	convinit	oto	exact	Look, I don't have any special brownies left, I ate them all.
+c_bus_3_convinit_lis_l3.rsd	l3	bus	3	convinit	lis	exact	But do you think I can use your school bus.
+c_bus_4_convinit_oto_l3.rsd	l3	bus	4	convinit	oto	exact	Oh, right, cool. Meet my price and she's all yours, little lady!
+c_tragedy_1_convinit_lis_l3.rsd	l3	tragedy	1	convinit	lis		
+c_tragedy_2_convinit_skn_l3.rsd	l3	tragedy	2	convinit	skn		
+c_tragedy_3_convinit_lis_l3.rsd	l3	tragedy	3	convinit	lis		
+c_tragedy_4_convinit_skn_l3.rsd	l3	tragedy	4	convinit	skn		
+c_aspic_1_convinit_skn_l3b1.rsd	l3b1	aspic	1	convinit	skn		
+c_aspic_2_convinit_lis_l3b1.rsd	l3b1	aspic	2	convinit	lis		
+c_aspic_3_convinit_skn_l3b1.rsd	l3b1	aspic	3	convinit	skn		
+c_cream_1_convinit_lis_l3b1.rsd	l3b1	cream	1	convinit	lis		
+c_cream_2_convinit_nic_l3b1.rsd	l3b1	cream	2	convinit	nic		
+c_cream_3_convinit_lis_l3b1.rsd	l3b1	cream	3	convinit	lis		
+c_heart_1_noboxconv_lis_l3b1.rsd	l3b1	heart	1	noboxconv	lis		
+c_heart_2_noboxconv_skn_l3b1.rsd	l3b1	heart	2	noboxconv	skn		
+c_laundromat_1_noboxconv_skn_l3b1.rsd	l3b1	laundromat	1	noboxconv	skn		
+c_laundromat_2_noboxconv_lis_l3b1.rsd	l3b1	laundromat	2	noboxconv	lis		
+c_laundromat_3_noboxconv_skn_l3b1.rsd	l3b1	laundromat	3	noboxconv	skn		
+c_laundromat_4_noboxconv_lis_l3b1.rsd	l3b1	laundromat	4	noboxconv	lis		
+c_sandwich_1_convinit_lis_l3b1.rsd	l3b1	sandwich	1	convinit	lis		
+c_sandwich_2_convinit_svt_l3b1.rsd	l3b1	sandwich	2	convinit	svt		
+c_sandwich_3_convinit_lis_l3b1.rsd	l3b1	sandwich	3	convinit	lis		
+c_sandwich_4_convinit_svt_l3b1.rsd	l3b1	sandwich	4	convinit	svt		
+c_brother_1_convinit_lis_l3m1.rsd	l3m1	brother	1	convinit	lis		
+c_brother_2_convinit_cbg_l3m1.rsd	l3m1	brother	2	convinit	cbg		
+c_mylar_1_convinit_cbg_l3m1.rsd	l3m1	mylar	1	convinit	cbg	exact	Now to get this inky treasure into its milarch sancuary.
+c_mylar_2_convinit_lis_l3m1.rsd	l3m1	mylar	2	convinit	lis	exact	What about my brother, you said you saw him.
+c_mylar_3_convinit_cbg_l3m1.rsd	l3m1	mylar	3	convinit	cbg	exact	I think I saw him at the Noiseland Arcade. Ah videogames, what a waste of money. Now to go online and bid 1000 dollars for an Itchy and Scratchy corn-cob holders. Excellent, excellent buy.
+c_nuisance_1_noboxconv_lis_l3m1.rsd	l3m1	nuisance	1	noboxconv	lis	exact	I need to find my stupid brother, have you seen him?
+c_nuisance_2_noboxconv_cbg_l3m1.rsd	l3m1	nuisance	2	noboxconv	cbg	exact	Yes, yes, can't talk now, I must get the last copy of the new Itchy and Scratchy Adventures comic. It's the controversial issue in which they finally kiss! Assist me and I will aid you with your delema.
+c_noiseland_1_convinit_lis_l3m2.rsd	l3m2	noiseland	1	convinit	lis		
+c_noiseland_2_convinit_mil_l3m2.rsd	l3m2	noiseland	2	convinit	mil		
+c_noiseland_3_convinit_lis_l3m2.rsd	l3m2	noiseland	3	convinit	lis		
+c_noiseland_4_convinit_mil_l3m2.rsd	l3m2	noiseland	4	convinit	mil		
+c_sign_1_convinit_mil_l3m2.rsd	l3m2	sign	1	convinit	mil		
+c_sign_2_convinit_lis_l3m2.rsd	l3m2	sign	2	convinit	lis		
+c_sign_3_convinit_mil_l3m2.rsd	l3m2	sign	3	convinit	mil		
+c_sign_4_convinit_lis_l3m2.rsd	l3m2	sign	4	convinit	lis		
+c_sign_5_convinit_mil_l3m2.rsd	l3m2	sign	5	convinit	mil		
+c_sign_6_convinit_lis_l3m2.rsd	l3m2	sign	6	convinit	lis		
+c_store_1_convinit_mil_l3m2.rsd	l3m2	store	1	convinit	mil		
+c_store_2_convinit_lis_l3m2.rsd	l3m2	store	2	convinit	lis		
+c_store_3_convinit_mil_l3m2.rsd	l3m2	store	3	convinit	mil		
+c_weasel_1_convinit_lis_l3m2.rsd	l3m2	weasel	1	convinit	lis		
+c_weasel_2_convinit_mil_l3m2.rsd	l3m2	weasel	2	convinit	mil		
+c_weasel_3_convinit_lis_l3m2.rsd	l3m2	weasel	3	convinit	lis		
+c_weasel_4_convinit_mil_l3m2.rsd	l3m2	weasel	4	convinit	mil		
+c_burger_1_convinit_apu_l3m3.rsd	l3m3	burger	1	convinit	apu	exact	Oh, this is terrible. A very bad man is delivering road kill to all the Krusty Burgers which are cheaper than my Kwik-E-Dogs!
+c_conspiracy_1_convinit_lis_l3m3.rsd	l3m3	conspiracy	1	convinit	lis	exact	Proffessor Frink, Proffessor Frink!! My brother, Bart, is missing. Have you seen him?
+c_conspiracy_2_convinit_frk_l3m3.rsd	l3m3	conspiracy	2	convinit	frk	exact	Well, let's see now, Bart helped me build a monster and then he dissapeared into a bright light.
+c_conspiracy_3_convinit_lis_l3m3.rsd	l3m3	conspiracy	3	convinit	lis	exact	Wow! This is crazy. I need someone to talk to that is wise and learned.
+c_cud_1_noboxconv_lis_l3m3.rsd	l3m3	cud	1	noboxconv	lis		
+c_cud_2_noboxconv_apu_l3m3.rsd	l3m3	cud	2	noboxconv	apu		
+c_cud_3_noboxconv_clt_l3m3.rsd	l3m3	cud	3	noboxconv	clt		
+c_cud_4_noboxconv_lis_l3m3.rsd	l3m3	cud	4	noboxconv	lis		
+c_jerkwater_1_noboxconv_lis_l3m3.rsd	l3m3	jerkwater	1	noboxconv	lis		
+c_jerkwater_2_noboxconv_apu_l3m3.rsd	l3m3	jerkwater	2	noboxconv	apu		
+c_big_1_convinit_lis_l3m4.rsd	l3m4	big	1	convinit	lis		
+c_empty_1_noboxconv_lis_l3m4.rsd	l3m4	empty	1	noboxconv	lis		
+c_kaiser_1_convinit_lis_l3m4.rsd	l3m4	kaiser	1	convinit	lis	exact	Grandpa, can you help me find Bart, he's missing.
+c_kaiser_2_convinit_grp_l3m4.rsd	l3m4	kaiser	2	convinit	grp	exact	Maybe I'm just a seanile old man, but Bart's lucky red hat fell out of that black car.
+c_kaiser_3_convinit_lis_l3m4.rsd	l3m4	kaiser	3	convinit	lis	exact	Wow, Grandpa, what a great clue. You showed why senior citizens are valuable members of the community.
+c_kaiser_4_convinit_grp_l3m4.rsd	l3m4	kaiser	4	convinit	grp	exact	I think my baby teeth are growing back, that's why I had to punch that nurse.
+c_kaiser_5_convinit_lis_l3m4.rsd	l3m4	kaiser	5	convinit	lis	exact	I better get something big if I want to take that car out, like that School Bus.
+c_kaiser2_1_convinit_lis_l3m4.rsd	l3m4	kaiser2	1	convinit	lis		
+c_kaiser2_2_convinit_grp_l3m4.rsd	l3m4	kaiser2	2	convinit	grp		
+c_kaiser2_3_convinit_lis_l3m4.rsd	l3m4	kaiser2	3	convinit	lis		
+c_kaiser2_4_convinit_grp_l3m4.rsd	l3m4	kaiser2	4	convinit	grp		
+c_elderly_1_noboxconv_wig_l3m5.rsd	l3m5	elderly	1	noboxconv	wig	topic	Strike two: running over an elderly person without a license.
+c_jeans_1_noboxconv_wig_l3m5.rsd	l3m5	jeans	1	noboxconv	wig	topic	Strike one: counterfeit designer jeans, the foulest of crimes.
+c_lowlife_1_convinit_wig_l3m5.rsd	l3m5	lowlife	1	convinit	wig		
+c_lowlife_2_convinit_lis_l3m5.rsd	l3m5	lowlife	2	convinit	lis		
+c_lowlife_3_convinit_wig_l3m5.rsd	l3m5	lowlife	3	convinit	wig		
+c_lowlife_4_convinit_lis_l3m5.rsd	l3m5	lowlife	4	convinit	lis		
+c_strikes_1_convinit_lis_l3m5.rsd	l3m5	strikes	1	convinit	lis	exact	Excuse me, Chief Wiggum, can you help? I've gotta find my brother.
+c_strikes_2_convinit_wig_l3m5.rsd	l3m5	strikes	2	convinit	wig	exact	Uh, sorry little girl, I'm busy collecting evidence on Jailbird. We're busting him on three strikes law.
+c_strikes_3_convinit_lis_l3m5.rsd	l3m5	strikes	3	convinit	lis	exact	How many strikes do you have so far?
+c_strikes_4_convinit_wig_l3m5.rsd	l3m5	strikes	4	convinit	wig	exact	Uhh, no strikes, but that's only because I'm very, very bad cop. Now, first of all, if you're gonna go undercover, you are gonna need a disguise.
+c_strikes_5_convinit_lis_l3m5.rsd	l3m5	strikes	5	convinit	lis	exact	You mean like an eye patch?
+c_strikes_6_convinit_wig_l3m5.rsd	l3m5	strikes	6	convinit	wig	exact	Hey, good one, if we could afford a disguise like that, I wouldn't be payed in potato chip coupons.
+c_strikes_7_convinit_lis_l3m5.rsd	l3m5	strikes	7	convinit	lis	exact	So, what disguise do you have?
+c_strikes_8_convinit_wig_l3m5.rsd	l3m5	strikes	8	convinit	wig	exact	Well, here's one of Ralph's old Holloween costumes.
+c_strikes_9_convinit_lis_l3m5.rsd	l3m5	strikes	9	convinit	lis	exact	Fine, wait her so I can get changed.
+c_strikes2_1_convinit_lis_l3m5.rsd	l3m5	strikes2	1	convinit	lis	gap	Milhouse, have you seen Bart or not?!
+c_strikes2_2_convinit_wig_l3m5.rsd	l3m5	strikes2	2	convinit	wig	gap	And strike three, littering. Alright, we got all the evidence we need on this low-life. Now, about your brother. I've seen lots of mysterious goverment types over at the docks. Maybe they sent him on a cruise. They got some good deals these days.
+c_strikes2_3_convinit_lis_l3m5.rsd	l3m5	strikes2	3	convinit	lis	gap	Thanks Chief Wiggum, you are a good cop.
+c_strikes2_4_convinit_wig_l3m5.rsd	l3m5	strikes2	4	convinit	wig	gap	Aw, you're just saying that!
+c_ahab_1_noboxconv_lis_l3m6.rsd	l3m6	ahab	1	noboxconv	lis		
+c_brave_1_noboxconv_lis_l3m6.rsd	l3m6	brave	1	noboxconv	lis		
+c_fish_1_noboxconv_lis_l3m6.rsd	l3m6	fish	1	noboxconv	lis	topic	Those poor fish, I mean, sure I'll help.
+c_free_1_noboxconv_lis_l3m6.rsd	l3m6	free	1	noboxconv	lis		
+c_good_1_noboxconv_lis_l3m6.rsd	l3m6	good	1	noboxconv	lis		
+c_hook_1_noboxconv_lis_l3m6.rsd	l3m6	hook	1	noboxconv	lis		
+c_mackerel_1_convinit_lis_l3m6.rsd	l3m6	mackerel	1	convinit	lis		
+c_mackerel_2_convinit_sea_l3m6.rsd	l3m6	mackerel	2	convinit	sea		
+c_mackerel_3_convinit_lis_l3m6.rsd	l3m6	mackerel	3	convinit	lis		
+c_mackerel_4_convinit_sea_l3m6.rsd	l3m6	mackerel	4	convinit	sea		
+c_mackerel_5_convinit_lis_l3m6.rsd	l3m6	mackerel	5	convinit	lis		
+c_nets_1_noboxconv_lis_l3m6.rsd	l3m6	nets	1	noboxconv	lis		
+c_plenty_1_noboxconv_lis_l3m6.rsd	l3m6	plenty	1	noboxconv	lis		
+c_savor_1_noboxconv_lis_l3m6.rsd	l3m6	savor	1	noboxconv	lis		
+c_school_1_convinit_lis_l3m6.rsd	l3m6	school	1	convinit	lis		
+c_swim_1_noboxconv_lis_l3m6.rsd	l3m6	swim	1	noboxconv	lis		
+c_tartar_1_noboxconv_lis_l3m6.rsd	l3m6	tartar	1	noboxconv	lis		
+c_wild_1_noboxconv_lis_l3m6.rsd	l3m6	wild	1	noboxconv	lis		
+c_catch_1_convinit_sea_l3m7.rsd	l3m7	catch	1	convinit	sea	topic	Argh, thanks for delivering me catch of the day. Now, I can tell ye, I saw your brother.
+c_catch_2_convinit_lis_l3m7.rsd	l3m7	catch	2	convinit	lis	topic	Really?! That's great.
+c_catch_3_convinit_sea_l3m7.rsd	l3m7	catch	3	convinit	sea	topic	Aye, he was in a long, black limo and... ahoy, there she drove!
+c_destroy_1_convinit_lis_l3m7.rsd	l3m7	destroy	1	convinit	lis	topic	Oh god, I destroyed the limo and killed bart!
+c_destroy_2_convinit_sea_l3m7.rsd	l3m7	destroy	2	convinit	sea	topic	Haha, no murder ye be, he got out of the limo and boarded a ship.
+c_destroy_3_convinit_lis_l3m7.rsd	l3m7	destroy	3	convinit	lis	topic	Oh thank you, can you take me there?
+c_destroy_4_convinit_sea_l3m7.rsd	l3m7	destroy	4	convinit	sea	topic	No, I hate the sea.
+c_found_1_convinit_lis_l3m7.rsd	l3m7	found	1	convinit	lis	exact	Bart, I found you.
+c_found_2_convinit_brt_l3m7.rsd	l3m7	found	2	convinit	brt	exact	(Talks giberish)
+c_found_3_convinit_lis_l3m7.rsd	l3m7	found	3	convinit	lis	exact	Bart, Bart, snap out of it!
+c_found_4_convinit_brt_l3m7.rsd	l3m7	found	4	convinit	brt	exact	(More gibersih)
+c_found_5_convinit_lis_l3m7.rsd	l3m7	found	5	convinit	lis	exact	What's your favorite catch phrase?!
+c_found_6_convinit_brt_l3m7.rsd	l3m7	found	6	convinit	brt	exact	Kiss my grits! (More giberish)
+c_found_7_convinit_lis_l3m7.rsd	l3m7	found	7	convinit	lis	exact	It's no use, his brain is even worse than usual. I'll have to take him home
+c_count_1_noboxconv_mil_l3r1.rsd	l3r1	count	1	noboxconv	mil		
+c_fail1_1_noboxconv_pat_l3r1.rsd	l3r1	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l3r1.rsd	l3r1	fail2	1	noboxconv	pat		
+c_intro_1_convinit_lis_l3r1.rsd	l3r1	intro	1	convinit	lis		
+c_intro_2_convinit_mil_l3r1.rsd	l3r1	intro	2	convinit	mil		
+c_success_1_convinit_pat_l3r1.rsd	l3r1	success	1	convinit	pat		
+c_count_1_noboxconv_nel_l3r2.rsd	l3r2	count	1	noboxconv	nel		
+c_count_2_noboxconv_lis_l3r2.rsd	l3r2	count	2	noboxconv	lis		
+c_count_3_noboxconv_nel_l3r2.rsd	l3r2	count	3	noboxconv	nel		
+c_fail1_1_noboxconv_pat_l3r2.rsd	l3r2	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l3r2.rsd	l3r2	fail2	1	noboxconv	pat		
+c_fail2_2_noboxconv_lis_l3r2.rsd	l3r2	fail2	2	noboxconv	lis		
+c_fail2_3_noboxconv_pat_l3r2.rsd	l3r2	fail2	3	noboxconv	pat		
+c_intro_1_convinit_lis_l3r2.rsd	l3r2	intro	1	convinit	lis		
+c_intro_2_convinit_nel_l3r2.rsd	l3r2	intro	2	convinit	nel		
+c_success_1_convinit_pat_l3r2.rsd	l3r2	success	1	convinit	pat		
+c_complete_1_convinit_pat_l3r3.rsd	l3r3	complete	1	convinit	pat		
+c_complete_2_convinit_lis_l3r3.rsd	l3r3	complete	2	convinit	lis		
+c_complete_3_convinit_pat_l3r3.rsd	l3r3	complete	3	convinit	pat		
+c_count_1_noboxconv_ral_l3r3.rsd	l3r3	count	1	noboxconv	ral		
+c_fail1_1_noboxconv_pat_l3r3.rsd	l3r3	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l3r3.rsd	l3r3	fail2	1	noboxconv	pat		
+c_fail2_2_noboxconv_lis_l3r3.rsd	l3r3	fail2	2	noboxconv	lis		
+c_intro_1_convinit_lis_l3r3.rsd	l3r3	intro	1	convinit	lis		
+c_intro_2_convinit_ral_l3r3.rsd	l3r3	intro	2	convinit	ral		
+c_intro_3_convinit_lis_l3r3.rsd	l3r3	intro	3	convinit	lis		
+c_success_1_convinit_pat_l3r3.rsd	l3r3	success	1	convinit	pat		
+c_spherical_1_convinit_mrg_l4.rsd	l4	spherical	1	convinit	mrg		
+c_spherical_2_convinit_cbg_l4.rsd	l4	spherical	2	convinit	cbg		
+c_spherical_3_convinit_mrg_l4.rsd	l4	spherical	3	convinit	mrg		
+c_spherical_4_convinit_cbg_l4.rsd	l4	spherical	4	convinit	cbg		
+c_spherical_5_convinit_mrg_l4.rsd	l4	spherical	5	convinit	mrg		
+c_spherical_6_convinit_cbg_l4.rsd	l4	spherical	6	convinit	cbg		
+c_spherical_7_convinit_mrg_l4.rsd	l4	spherical	7	convinit	mrg		
+c_tractor_1_convinit_mrg_l4.rsd	l4	tractor	1	convinit	mrg		
+c_tractor_2_convinit_wil_l4.rsd	l4	tractor	2	convinit	wil		
+c_tractor_3_convinit_mrg_l4.rsd	l4	tractor	3	convinit	mrg		
+c_done_1_convinit_mrg_l4b1.rsd	l4b1	done	1	convinit	mrg		
+c_done_2_convinit_cbg_l4b1.rsd	l4b1	done	2	convinit	cbg		
+c_cure_1_convinit_mrg_l4m1.rsd	l4m1	cure	1	convinit	mrg	exact	Chief Wiggum, I need you to find out what happened to Bart. Can you show me where the crop circle is? There's got to be a clue to curing Bart.
+c_cure_2_convinit_wig_l4m1.rsd	l4m1	cure	2	convinit	wig	exact	Oh, that's cute. I'd love to help, but I have sugar withdraw real bad, the donut shop is closed and I've got a monkey on my back screaming for crawlers. Oh, he's screaming.
+c_nuts_1_convinit_brt_l4m1.rsd	l4m1	nuts	1	convinit	brt		
+c_nuts_2_convinit_mrg_l4m1.rsd	l4m1	nuts	2	convinit	mrg		
+c_shack_1_convinit_wig_l4m1.rsd	l4m1	shack	1	convinit	wig	exact	Boy for a busy body house wife, you sure get results. That crop cirlce's at Cletus' shack. Now, if you'll excuse me, I have a truck load of donuts to eat. I'm gonna need a lot of coffee, hehe.
+c_decrapitude_1_convinit_mrg_l4m2.rsd	l4m2	decrapitude	1	convinit	mrg		
+c_decrapitude_2_convinit_clt_l4m2.rsd	l4m2	decrapitude	2	convinit	clt		
+c_decrapitude_3_convinit_mrg_l4m2.rsd	l4m2	decrapitude	3	convinit	mrg		
+c_baby_1_convinit_mrg_l4m3.rsd	l4m3	baby	1	convinit	mrg	topic	You've got to help me. I have to find out what happened to my baby boy.
+c_baby_2_convinit_clt_l4m3.rsd	l4m3	baby	2	convinit	clt	topic	Oh, I'm sorry, I thought you was a city slicker, but I ain't telling you nothing, unless you help us with the harvest.
+c_baby_3_convinit_mrg_l4m3.rsd	l4m3	baby	3	convinit	mrg	topic	Harvest? If I'm gonna be doing yard work, I better change or my next "mission" will be to get mud stains out of green yarn.
+c_baby2_1_convinit_mrg_l4m3.rsd	l4m3	baby2	1	convinit	mrg		
+c_baby2_2_convinit_clt_l4m3.rsd	l4m3	baby2	2	convinit	clt		
+c_dumpster_1_noboxconv_clt_l4m3.rsd	l4m3	dumpster	1	noboxconv	clt		
+c_ketchup_1_noboxconv_mrg_l4m3.rsd	l4m3	ketchup	1	noboxconv	mrg		
+c_ketchup_2_noboxconv_clt_l4m3.rsd	l4m3	ketchup	2	noboxconv	clt		
+c_ketchup_3_noboxconv_mrg_l4m3.rsd	l4m3	ketchup	3	noboxconv	mrg		
+c_ketchup_4_noboxconv_clt_l4m3.rsd	l4m3	ketchup	4	noboxconv	clt		
+c_pappy_1_convinit_clt_l4m3.rsd	l4m3	pappy	1	convinit	clt		
+c_pappy_2_convinit_mrg_l4m3.rsd	l4m3	pappy	2	convinit	mrg		
+c_pappy_3_convinit_clt_l4m3.rsd	l4m3	pappy	3	convinit	clt		
+c_winter_1_noboxconv_clt_l4m3.rsd	l4m3	winter	1	noboxconv	clt		
+c_hiding_1_convinit_mrg_l4m4.rsd	l4m4	hiding	1	convinit	mrg		
+c_hiding_2_convinit_mol_l4m4.rsd	l4m4	hiding	2	convinit	mol		
+c_hiding_3_convinit_mrg_l4m4.rsd	l4m4	hiding	3	convinit	mrg		
+c_hiding_4_convinit_mol_l4m4.rsd	l4m4	hiding	4	convinit	mol		
+c_hooligan_1_convinit_mrg_l4m5.rsd	l4m5	hooligan	1	convinit	mrg	exact	How can you hooligans steal an old mans medications? You give them back right now!
+c_hooligan_2_convinit_nel_l4m5.rsd	l4m5	hooligan	2	convinit	nel	exact	Oh, we traded them to some dudes in a black car for some PlayDudes. Check it out, man, this one has an interview with the guy who invented the Wa-Wa-Panel.
+c_hooligan_3_convinit_mrg_l4m5.rsd	l4m5	hooligan	3	convinit	mrg	exact	Hmmm.
+c_medicine_1_convinit_mrg_l4m5.rsd	l4m5	medicine	1	convinit	mrg	topic	Here's your crazy medicine Grandpa.
+c_medicine_2_convinit_grp_l4m5.rsd	l4m5	medicine	2	convinit	grp	topic	Hot diggity, sweet medication, gimme, gimme, gimme!!(snore)
+c_medicine_3_convinit_mrg_l4m5.rsd	l4m5	medicine	3	convinit	mrg	topic	Oh great, now I need something to wake him up.
+c_pills_1_convinit_mrg_l4m5.rsd	l4m5	pills	1	convinit	mrg		
+c_pills_2_convinit_grp_l4m5.rsd	l4m5	pills	2	convinit	grp		
+c_pills_3_convinit_mrg_l4m5.rsd	l4m5	pills	3	convinit	mrg		
+c_cola_1_convinit_mrg_l4m6.rsd	l4m6	cola	1	convinit	mrg	exact	Bart, do you recognize this design?
+c_cola_2_convinit_brt_l4m6.rsd	l4m6	cola	2	convinit	brt	exact	(Some giberish) That's the alien mind control cola, they gave us tons of that up in the alien spaceship. There using it to make the town go crazy.
+c_cola_3_convinit_mrg_l4m6.rsd	l4m6	cola	3	convinit	mrg	exact	Oh thank god, you've snapped out of your trance. I was so worried.
+c_cola_4_convinit_brt_l4m6.rsd	l4m6	cola	4	convinit	brt	exact	Later, I'm going to the arcade.
+c_cola_5_convinit_mrg_l4m6.rsd	l4m6	cola	5	convinit	mrg	exact	This conspiracy goes all the way to the top. I'm gonna need a little extra fire power, as Officer Marge!
+c_cola2_1_convinit_mrg_l4m6.rsd	l4m6	cola2	1	convinit	mrg	gap	Well, I was wondering if you've ever seen a crop circle?
+c_cola2_2_convinit_brt_l4m6.rsd	l4m6	cola2	2	convinit	brt	gap	Cool, free deadly cola.
+c_cola2_3_convinit_mrg_l4m6.rsd	l4m6	cola2	3	convinit	mrg		
+c_cola2_4_convinit_brt_l4m6.rsd	l4m6	cola2	4	convinit	brt		
+c_selling_1_noboxconv_mrg_l4m6.rsd	l4m6	selling	1	noboxconv	mrg		
+c_canyonero_1_noboxconv_mrg_l4m7.rsd	l4m7	canyonero	1	noboxconv	mrg		
+c_evil_1_noboxconv_mrg_l4m7.rsd	l4m7	evil	1	noboxconv	mrg		
+c_settled_1_noboxconv_mrg_l4m7.rsd	l4m7	settled	1	noboxconv	mrg		
+c_settled_2_noboxconv_wig_l4m7.rsd	l4m7	settled	2	noboxconv	wig		
+c_tainted_1_convinit_mrg_l4m7.rsd	l4m7	tainted	1	convinit	mrg	exact	Apu, I think you should be aware that you're selling a tainted cola. Where's this stuff coming from?
+c_tainted_2_convinit_apu_l4m7.rsd	l4m7	tainted	2	convinit	apu	exact	Oh, there is little here not tainted in some way. Even the astroligies grow give poor advice. But I will get to the bottom of this.
+c_tainted_3_convinit_mrg_l4m7.rsd	l4m7	tainted	3	convinit	mrg	exact	Well, it made Bart go crazy and if I find the distributer, I'm gonna give them a piece of my mind.
+c_tainted_4_convinit_apu_l4m7.rsd	l4m7	tainted	4	convinit	apu	exact	Careful Mrs. Simpsons this cola makes people do errational things without guilt. It's as though they have bottled the effects of a raging frat kegger.
+c_tainted_5_convinit_mrg_l4m7.rsd	l4m7	tainted	5	convinit	mrg	exact	That's it, I'm going after them and any other evil cola trucks I find.
+c_count_1_noboxconv_mil_l4r1.rsd	l4r1	count	1	noboxconv	mil		
+c_count_2_noboxconv_pat_l4r1.rsd	l4r1	count	2	noboxconv	pat		
+c_count_3_noboxconv_mil_l4r1.rsd	l4r1	count	3	noboxconv	mil		
+c_fail1_1_noboxconv_pat_l4r1.rsd	l4r1	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l4r1.rsd	l4r1	fail2	1	noboxconv	pat		
+c_fail2_2_noboxconv_mrg_l4r1.rsd	l4r1	fail2	2	noboxconv	mrg		
+c_fail2_3_noboxconv_pat_l4r1.rsd	l4r1	fail2	3	noboxconv	pat		
+c_intro_1_convinit_mrg_l4r1.rsd	l4r1	intro	1	convinit	mrg		
+c_intro_2_convinit_mil_l4r1.rsd	l4r1	intro	2	convinit	mil		
+c_intro_3_convinit_mrg_l4r1.rsd	l4r1	intro	3	convinit	mrg		
+c_intro_4_convinit_mil_l4r1.rsd	l4r1	intro	4	convinit	mil		
+c_intro_5_convinit_mrg_l4r1.rsd	l4r1	intro	5	convinit	mrg		
+c_success_1_convinit_pat_l4r1.rsd	l4r1	success	1	convinit	pat		
+c_count_1_noboxconv_nel_l4r2.rsd	l4r2	count	1	noboxconv	nel		
+c_fail1_1_noboxconv_pat_l4r2.rsd	l4r2	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l4r2.rsd	l4r2	fail2	1	noboxconv	pat		
+c_intro_1_convinit_nel_l4r2.rsd	l4r2	intro	1	convinit	nel		
+c_intro_2_convinit_mrg_l4r2.rsd	l4r2	intro	2	convinit	mrg		
+c_success_1_convinit_pat_l4r2.rsd	l4r2	success	1	convinit	pat		
+c_complete_1_convinit_pat_l4r3.rsd	l4r3	complete	1	convinit	pat		
+c_count_1_noboxconv_ral_l4r3.rsd	l4r3	count	1	noboxconv	ral		
+c_fail1_1_noboxconv_pat_l4r3.rsd	l4r3	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l4r3.rsd	l4r3	fail2	1	noboxconv	pat		
+c_intro_1_convinit_mrg_l4r3.rsd	l4r3	intro	1	convinit	mrg		
+c_intro_2_convinit_ral_l4r3.rsd	l4r3	intro	2	convinit	ral		
+c_intro_3_convinit_mrg_l4r3.rsd	l4r3	intro	3	convinit	mrg		
+c_intro_4_convinit_ral_l4r3.rsd	l4r3	intro	4	convinit	ral		
+c_success_1_convinit_pat_l4r3.rsd	l4r3	success	1	convinit	pat		
+c_borrowing_1_convinit_apu_l5.rsd	l5	borrowing	1	convinit	apu	exact	Mr. Homer, sir, do you have a over-sized vehicle that I might be borrowing?
+c_borrowing_2_convinit_hom_l5.rsd	l5	borrowing	2	convinit	hom	exact	Borrowing, no, selling to you at an insanely high price, yes.
+c_borrowing_3_convinit_apu_l5.rsd	l5	borrowing	3	convinit	apu	exact	Quickly, cover my incotenent baby's tooshies!
+c_hovercar_1_convinit_frk_l5.rsd	l5	hovercar	1	convinit	frk		
+c_hovercar_2_convinit_apu_l5.rsd	l5	hovercar	2	convinit	apu		
+c_hovercar_3_convinit_frk_l5.rsd	l5	hovercar	3	convinit	frk		
+c_hovercar_4_convinit_apu_l5.rsd	l5	hovercar	4	convinit	apu		
+c_hovercar_5_convinit_frk_l5.rsd	l5	hovercar	5	convinit	frk		
+c_hovercar_6_convinit_apu_l5.rsd	l5	hovercar	6	convinit	apu		
+c_hovercar_7_convinit_frk_l5.rsd	l5	hovercar	7	convinit	frk		
+c_relief_1_convinit_frk_l5b1.rsd	l5b1	relief	1	convinit	frk		
+c_relief_2_convinit_apu_l5b1.rsd	l5b1	relief	2	convinit	apu		
+c_relief_3_convinit_frk_l5b1.rsd	l5b1	relief	3	convinit	frk		
+c_mob_1_noboxconv_apu_l5m1.rsd	l5m1	mob	1	noboxconv	apu		
+c_redeem_1_convinit_apu_l5m1.rsd	l5m1	redeem	1	convinit	apu		
+c_italian_1_convinit_apu_l5m2.rsd	l5m2	italian	1	convinit	apu	exact	Hello stereo-typical Italian. Pleased to tell me the source of the evil cola.
+c_italian_2_convinit_lou_l5m2.rsd	l5m2	italian	2	convinit	lou	exact	We don't know nothing... except that the vans are controlled by mysterious strangers. Anyway, you shouldn't snip your nose into other people's business. It could come back to haunt you... and you're family.
+c_italian_3_convinit_apu_l5m2.rsd	l5m2	italian	3	convinit	apu	exact	Oh my gosh, you're threat has reminded me of my fatherly duties. I'm supposed to pick up the otoplets at the hospital.
+c_emergency_1_convinit_hib_l5m3.rsd	l5m3	emergency	1	convinit	hib	exact	I'm afraid we have a medical emergency.
+c_emergency_2_convinit_apu_l5m3.rsd	l5m3	emergency	2	convinit	apu	exact	Oh no, my babies!
+c_emergency_3_convinit_hib_l5m3.rsd	l5m3	emergency	3	convinit	hib	exact	You're babies are about to go to the bathroom all over my waiting room and diapers aren't covered by your insurance. Ooh, you better hurry, I heard the parents of the Shellbyville 9 are grabbing every diaper in town.
+c_emergency_4_convinit_apu_l5m3.rsd	l5m3	emergency	4	convinit	apu	exact	I will get the diapers but there is no way I'll be able to fit them in my car. Maybe Mr. Homer will have a gas-guzzling American vehicle that I can use.
+c_emergency2_1_convinit_hib_l5m3.rsd	l5m3	emergency2	1	convinit	hib		
+c_emergency2_2_convinit_apu_l5m3.rsd	l5m3	emergency2	2	convinit	apu		
+c_emergency2_3_convinit_hib_l5m3.rsd	l5m3	emergency2	3	convinit	hib		
+c_heehee_1_convinit_hom_l5m3.rsd	l5m3	heehee	1	convinit	hom		
+c_tushie_1_convinit_apu_l5m3.rsd	l5m3	tushie	1	convinit	apu		
+c_tushie_2_convinit_hib_l5m3.rsd	l5m3	tushie	2	convinit	hib		
+c_clown_1_convinit_apu_l5m4.rsd	l5m4	clown	1	convinit	apu	exact	Hello famous, American clown, I wish to ask a favor.
+c_clown_2_convinit_kru_l5m4.rsd	l5m4	clown	2	convinit	kru	exact	Everyone wants to wet their beacks, uhhh.
+c_clown_3_convinit_apu_l5m4.rsd	l5m4	clown	3	convinit	apu	exact	I require information about trucks delivering evil cola. How can I get this classified data?
+c_clown_4_convinit_kru_l5m4.rsd	l5m4	clown	4	convinit	kru	exact	Sorry, Apu, I'm a drink, squeezy, punchy low-life. You need a proffesional scumbag. Follow a cop until you find one. You'll have better luck if ya, you know, look American.
+c_clown_5_convinit_apu_l5m4.rsd	l5m4	clown	5	convinit	apu	exact	Thank you, horrible man.
+c_clown2_1_convinit_apu_l5m4.rsd	l5m4	clown2	1	convinit	apu		
+c_clown2_2_convinit_kru_l5m4.rsd	l5m4	clown2	2	convinit	kru		
+c_clown2_3_convinit_apu_l5m4.rsd	l5m4	clown2	3	convinit	apu		
+c_clown2_4_convinit_kru_l5m4.rsd	l5m4	clown2	4	convinit	kru		
+c_seedy_1_convinit_apu_l5m4.rsd	l5m4	seedy	1	convinit	apu		
+c_dmv_1_convinit_snk_l5m5.rsd	l5m5	dmv	1	convinit	snk		
+c_dmv_2_convinit_apu_l5m5.rsd	l5m5	dmv	2	convinit	apu		
+c_mugging_1_convinit_snk_l5m5.rsd	l5m5	mugging	1	convinit	snk	topic	Hand over your wallet, dude, this is totally a mugging.
+c_mugging_2_convinit_apu_l5m5.rsd	l5m5	mugging	2	convinit	apu	topic	What good luck, a criminal.
+c_mugging_3_convinit_snk_l5m5.rsd	l5m5	mugging	3	convinit	snk	topic	Huh?
+c_mugging_4_convinit_apu_l5m5.rsd	l5m5	mugging	4	convinit	apu	topic	Well surely a violent, filth bag such as yourself could find out who is driving the black cola vans.
+c_mugging_5_convinit_snk_l5m5.rsd	l5m5	mugging	5	convinit	snk	topic	Well, I do have a connection with the DMV but it will cost you. You have to pick up the litter for my community service.
+c_mugging_6_convinit_apu_l5m5.rsd	l5m5	mugging	6	convinit	apu	topic	It is a deal.
+c_mugging_7_convinit_snk_l5m5.rsd	l5m5	mugging	7	convinit	snk	topic	Deal, now hand over your wallet.
+c_mugging_8_convinit_apu_l5m5.rsd	l5m5	mugging	8	convinit	apu	topic	Yes, yes, whatever.
+c_victim_1_noboxconv_apu_l5m5.rsd	l5m5	victim	1	noboxconv	apu		
+c_arrest_1_noboxconv_wig_l5m6.rsd	l5m6	arrest	1	noboxconv	wig		
+c_hideout_1_noboxconv_apu_l5m6.rsd	l5m6	hideout	1	noboxconv	apu		
+c_hideout_2_noboxconv_snk_l5m6.rsd	l5m6	hideout	2	noboxconv	snk		
+c_profanity_1_convinit_apu_l5m6.rsd	l5m6	profanity	1	convinit	apu	topic	If you do not tell me who operates these vans than I will be forced to use profanity.
+c_profanity_2_convinit_snk_l5m6.rsd	l5m6	profanity	2	convinit	snk	topic	Ok, ok, chill, dude. The museum runs them.
+c_profanity_3_convinit_apu_l5m6.rsd	l5m6	profanity	3	convinit	apu	topic	The museum? This adventure gets more exciting than the last!
+c_thug_1_noboxconv_apu_l5m6.rsd	l5m6	thug	1	noboxconv	apu		
+c_thug_2_noboxconv_snk_l5m6.rsd	l5m6	thug	2	noboxconv	snk		
+c_trust_1_convinit_apu_l5m6.rsd	l5m6	trust	1	convinit	apu		
+c_trust_2_convinit_snk_l5m6.rsd	l5m6	trust	2	convinit	snk		
+c_trust_3_convinit_apu_l5m6.rsd	l5m6	trust	3	convinit	apu		
+c_museum_1_convinit_apu_l5m7.rsd	l5m7	museum	1	convinit	apu	exact	Oh Mr. Bart, I have discovered that the evil cola is being made in the Springfield museum.
+c_museum_2_convinit_brt_l5m7.rsd	l5m7	museum	2	convinit	brt	exact	But that closes in five minutes!
+c_museum_3_convinit_apu_l5m7.rsd	l5m7	museum	3	convinit	apu	exact	And my car is out of gas!
+c_museum_4_convinit_brt_l5m7.rsd	l5m7	museum	4	convinit	brt	exact	Just fill it up at the Kwik-E-Mart.
+c_museum_5_convinit_apu_l5m7.rsd	l5m7	museum	5	convinit	apu	exact	With those prices, no way!
+c_museum_6_convinit_brt_l5m7.rsd	l5m7	museum	6	convinit	brt	exact	Fine, we'll take my car.
+c_count_1_noboxconv_mil_l5r1.rsd	l5r1	count	1	noboxconv	mil		
+c_fail1_1_noboxconv_pat_l5r1.rsd	l5r1	fail1	1	noboxconv	pat		
+c_fail1_2_noboxconv_apu_l5r1.rsd	l5r1	fail1	2	noboxconv	apu		
+c_fail2_1_noboxconv_pat_l5r1.rsd	l5r1	fail2	1	noboxconv	pat		
+c_fail2_2_noboxconv_apu_l5r1.rsd	l5r1	fail2	2	noboxconv	apu		
+c_intro_1_convinit_apu_l5r1.rsd	l5r1	intro	1	convinit	apu		
+c_intro_2_convinit_mil_l5r1.rsd	l5r1	intro	2	convinit	mil		
+c_intro_3_convinit_apu_l5r1.rsd	l5r1	intro	3	convinit	apu		
+c_intro_4_convinit_mil_l5r1.rsd	l5r1	intro	4	convinit	mil		
+c_success_1_convinit_pat_l5r1.rsd	l5r1	success	1	convinit	pat		
+c_count_1_noboxconv_nel_l5r2.rsd	l5r2	count	1	noboxconv	nel		
+c_fail1_1_noboxconv_pat_l5r2.rsd	l5r2	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l5r2.rsd	l5r2	fail2	1	noboxconv	pat		
+c_fail2_2_noboxconv_apu_l5r2.rsd	l5r2	fail2	2	noboxconv	apu		
+c_fail2_3_noboxconv_pat_l5r2.rsd	l5r2	fail2	3	noboxconv	pat		
+c_intro_1_convinit_apu_l5r2.rsd	l5r2	intro	1	convinit	apu		
+c_intro_2_convinit_nel_l5r2.rsd	l5r2	intro	2	convinit	nel		
+c_success_1_convinit_pat_l5r2.rsd	l5r2	success	1	convinit	pat		
+c_success_2_convinit_apu_l5r2.rsd	l5r2	success	2	convinit	apu		
+c_success_3_convinit_pat_l5r2.rsd	l5r2	success	3	convinit	pat		
+c_complete_1_convinit_pat_l5r3.rsd	l5r3	complete	1	convinit	pat		
+c_count_1_noboxconv_ral_l5r3.rsd	l5r3	count	1	noboxconv	ral		
+c_fail1_1_noboxconv_pat_l5r3.rsd	l5r3	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_apu_l5r3.rsd	l5r3	fail2	1	noboxconv	apu		
+c_fail2_2_noboxconv_pat_l5r3.rsd	l5r3	fail2	2	noboxconv	pat		
+c_intro_1_convinit_apu_l5r3.rsd	l5r3	intro	1	convinit	apu		
+c_intro_2_convinit_ral_l5r3.rsd	l5r3	intro	2	convinit	ral		
+c_success_1_convinit_pat_l5r3.rsd	l5r3	success	1	convinit	pat		
+c_success_2_convinit_apu_l5r3.rsd	l5r3	success	2	convinit	apu		
+c_swine_1_convinit_brt_l6.rsd	l6	swine	1	convinit	brt	exact	Hey Kearney, I need to do a lot of collaterall damage in the minimum amount of time.
+c_swine_2_convinit_kea_l6.rsd	l6	swine	2	convinit	kea	exact	I've got just the thing. I have a car that was owned by a super villain. He once conquered the East Coast.
+c_wheelman_1_convinit_brt_l6.rsd	l6	wheelman	1	convinit	brt		
+c_wheelman_2_convinit_snk_l6.rsd	l6	wheelman	2	convinit	snk		
+c_wheelman_3_convinit_brt_l6.rsd	l6	wheelman	3	convinit	brt		
+c_wheelman_4_convinit_snk_l6.rsd	l6	wheelman	4	convinit	snk		
+c_wheelman_5_convinit_brt_l6.rsd	l6	wheelman	5	convinit	brt		
+c_wheelman_6_convinit_snk_l6.rsd	l6	wheelman	6	convinit	snk		
+c_deal_1_convinit_snk_l6b1.rsd	l6b1	deal	1	convinit	snk		
+c_porkbag_1_convinit_brt_l6b1.rsd	l6b1	porkbag	1	convinit	brt		
+c_porkbag_2_convinit_snk_l6b1.rsd	l6b1	porkbag	2	convinit	snk		
+c_krustylu_1_convinit_brt_l6m1.rsd	l6m1	krustylu	1	convinit	brt	exact	Otto man, I need a ride.
+c_krustylu_2_convinit_oto_l6m1.rsd	l6m1	krustylu	2	convinit	oto	exact	No can do, little dude. I gotta round up these other little dudes and get them to KrustLu for the studio tour.
+c_krustylu_3_convinit_brt_l6m1.rsd	l6m1	krustylu	3	convinit	brt	exact	That's where I need to go. Step on it, Otto.
+c_krustylu_4_convinit_oto_l6m1.rsd	l6m1	krustylu	4	convinit	oto	exact	Ok right after I drop these kids off at KrustyLu.
+c_krustylu_5_convinit_brt_l6m1.rsd	l6m1	krustylu	5	convinit	brt	exact	Otto, I just said.
+c_krustylu_6_convinit_oto_l6m1.rsd	l6m1	krustylu	6	convinit	oto	exact	Ok, stop hassling me midget Abraham Lincoln.
+c_scared_1_convinit_brt_l6m1.rsd	l6m1	scared	1	convinit	brt	exact	Apu, you've got to help me warn Krusty of this alien plot, and thus saving the good people of Springfield.
+c_scared_2_convinit_apu_l6m1.rsd	l6m1	scared	2	convinit	apu	exact	I'm sorry sir but I cannot speak English, I can only speak Heindi.
+c_scared_3_convinit_brt_l6m1.rsd	l6m1	scared	3	convinit	brt	exact	But you're speaking English now.
+c_scared_4_convinit_apu_l6m1.rsd	l6m1	scared	4	convinit	apu	exact	Yes, I learned these words phonetically.
+c_scared_5_convinit_brt_l6m1.rsd	l6m1	scared	5	convinit	brt	exact	Your just scared about getting vaproized by the space monsters.
+c_scared_6_convinit_apu_l6m1.rsd	l6m1	scared	6	convinit	apu	exact	Up, down, up, down, go hot dog, button your undershirt, blah, blah, blah.
+c_duff_1_convinit_brt_l6m2.rsd	l6m2	duff	1	convinit	brt	exact	Barney, where's Krusty? I have to warn him.
+c_duff_2_convinit_brn_l6m2.rsd	l6m2	duff	2	convinit	brn	exact	Krusty's not here, Little Homer, he's down at the Squidport, doing a promo for this new Buzz Cola.
+c_duff_3_convinit_brt_l6m2.rsd	l6m2	duff	3	convinit	brt	exact	But that's the cola the aliens are using to control all human behavior.
+c_duff_4_convinit_brn_l6m2.rsd	l6m2	duff	4	convinit	brn	exact	Control human behavior? No beverage can do that. Oh no, I haven't had a Duff in two hours, my life is over! Ohhhhh!!
+c_duff_5_convinit_brt_l6m2.rsd	l6m2	duff	5	convinit	brt	exact	But I have to get to Krusty before the limo does.
+c_duff_6_convinit_brn_l6m2.rsd	l6m2	duff	6	convinit	brn	exact	And I have to stay here and go through the DT's.
+c_duff_7_convinit_brt_l6m2.rsd	l6m2	duff	7	convinit	brt	exact	Sounds like a plan.
+c_massacre_1_convinit_brt_l6m3.rsd	l6m3	massacre	1	convinit	brt	topic	Krusty, listen carefully, aliens are handing out free laser guns and cola that makes you go crazy. It'll be a massacre, the streets will be littered with lasered-off limbs and heads.
+c_massacre_2_convinit_kru_l6m3.rsd	l6m3	massacre	2	convinit	kru	topic	Yeah right, and I'm getting into the Country Western Hall of Fame. It just ain't gonna happen, kid.
+c_massacre_3_convinit_brt_l6m3.rsd	l6m3	massacre	3	convinit	brt	topic	Oh, I just gotta find evidence. Who do I know that's smart enough to prove this alien conspiracy? Bumblebee Man, Comic Book Guy, Disco Stew, that's it a! A nerd, Proffesor Frink!
+c_extra_1_convinit_brt_l6m4.rsd	l6m4	extra	1	convinit	brt		
+c_sellout_1_noboxconv_brt_l6m4.rsd	l6m4	sellout	1	noboxconv	brt		
+c_wolf_1_convinit_brt_l6m4.rsd	l6m4	wolf	1	convinit	brt	exact	Proffesor Frink! You've gotta help me, no one believes my story, it's just just like "The Boy Who Cried Wolf" except, instead of a wolf, it's an alien conspiracy!
+c_wolf_2_convinit_frk_l6m4.rsd	l6m4	wolf	2	convinit	frk	exact	Aliens? That would explain the strange transmissions from my Plutonium C-B Radio. I must've intercepted an alien message. It says they're hiding the lasers in the dump truck. Bla, ho, ya, the plot is congriluted now.
+c_wolf_3_convinit_brt_l6m4.rsd	l6m4	wolf	3	convinit	brt	exact	Relax, nerd layer, I'll knock the lasers out of the trucks so I can show them to Krusty.
+c_proof_1_noboxconv_brt_l6m5.rsd	l6m5	proof	1	noboxconv	brt	topic	Krusty, I have proof now! See this laser gun?
+c_warn_1_convinit_brt_l6m5.rsd	l6m5	warn	1	convinit	brt	exact	Principal Skinner, aliens are distributing deadly lasers all over Springfield. We've gotta warn everybody.
+c_warn_2_convinit_skn_l6m5.rsd	l6m5	warn	2	convinit	skn	exact	All we've gotta do, young man, is get that eliscit goo-god of your hands. Clearly you forgot the the schools zero-tolerance policy of lasers.
+c_freeguns_1_convinit_brt_l6m6.rsd	l6m6	freeguns	1	convinit	brt		
+c_freeguns_2_convinit_kru_l6m6.rsd	l6m6	freeguns	2	convinit	kru		
+c_freeguns_3_convinit_brt_l6m6.rsd	l6m6	freeguns	3	convinit	brt		
+c_freeguns2_1_convinit_brt_l6m6.rsd	l6m6	freeguns2	1	convinit	brt		
+c_freeguns2_2_convinit_kru_l6m6.rsd	l6m6	freeguns2	2	convinit	kru		
+c_showgirl_1_convinit_brt_l6m6.rsd	l6m6	showgirl	1	convinit	brt		
+c_showgirl_2_convinit_kru_l6m6.rsd	l6m6	showgirl	2	convinit	kru		
+c_defile_1_convinit_brt_l6m7.rsd	l6m7	defile	1	convinit	brt	exact	Dad, the aliens have taken over the Duff Brewery and they're using it to store laser guns. Ohh, if only I didn't have to do so much explaining.
+c_defile_2_convinit_hom_l6m7.rsd	l6m7	defile	2	convinit	hom	exact	What, this is Duff's worst disgrace since Duff Ice. It's time to use my secret weapon. Remember when I told you I sold my old car so you could go to college?
+c_defile_3_convinit_brt_l6m7.rsd	l6m7	defile	3	convinit	brt	exact	Yeah.
+c_defile_4_convinit_hom_l6m7.rsd	l6m7	defile	4	convinit	hom	exact	It was a lie.
+c_defile_5_convinit_brt_l6m7.rsd	l6m7	defile	5	convinit	brt	exact	Yay, that's worth more.
+c_count_1_noboxconv_mil_l6r1.rsd	l6r1	count	1	noboxconv	mil		
+c_fail1_1_noboxconv_pat_l6r1.rsd	l6r1	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l6r1.rsd	l6r1	fail2	1	noboxconv	pat		
+c_fail2_2_noboxconv_brt_l6r1.rsd	l6r1	fail2	2	noboxconv	brt		
+c_intro_1_convinit_brt_l6r1.rsd	l6r1	intro	1	convinit	brt		
+c_intro_2_convinit_mil_l6r1.rsd	l6r1	intro	2	convinit	mil		
+c_success_1_convinit_pat_l6r1.rsd	l6r1	success	1	convinit	pat		
+c_success_2_convinit_brt_l6r1.rsd	l6r1	success	2	convinit	brt		
+c_count_1_noboxconv_nel_l6r2.rsd	l6r2	count	1	noboxconv	nel		
+c_fail1_1_noboxconv_pat_l6r2.rsd	l6r2	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l6r2.rsd	l6r2	fail2	1	noboxconv	pat		
+c_fail2_2_noboxconv_brt_l6r2.rsd	l6r2	fail2	2	noboxconv	brt		
+c_fail2_3_noboxconv_mil_l6r2.rsd	l6r2	fail2	3	noboxconv	mil		
+c_fail2_4_noboxconv_pat_l6r2.rsd	l6r2	fail2	4	noboxconv	pat		
+c_intro_1_convinit_brt_l6r2.rsd	l6r2	intro	1	convinit	brt		
+c_intro_2_convinit_nel_l6r2.rsd	l6r2	intro	2	convinit	nel		
+c_success_1_convinit_pat_l6r2.rsd	l6r2	success	1	convinit	pat		
+c_success_2_convinit_brt_l6r2.rsd	l6r2	success	2	convinit	brt		
+c_complete_1_convinit_pat_l6r3.rsd	l6r3	complete	1	convinit	pat		
+c_count_1_noboxconv_ral_l6r3.rsd	l6r3	count	1	noboxconv	ral		
+c_fail1_1_noboxconv_pat_l6r3.rsd	l6r3	fail1	1	noboxconv	pat		
+c_fail2_1_noboxconv_pat_l6r3.rsd	l6r3	fail2	1	noboxconv	pat		
+c_fail2_2_noboxconv_brt_l6r3.rsd	l6r3	fail2	2	noboxconv	brt		
+c_fail2_3_noboxconv_pat_l6r3.rsd	l6r3	fail2	3	noboxconv	pat		
+c_intro_1_convinit_ral_l6r3.rsd	l6r3	intro	1	convinit	ral		
+c_success_1_convinit_pat_l6r3.rsd	l6r3	success	1	convinit	pat		
+c_errands_1_convinit_hom_l7.rsd	l7	errands	1	convinit	hom		
+c_errands_2_convinit_smi_l7.rsd	l7	errands	2	convinit	smi		
+c_errands_3_convinit_hom_l7.rsd	l7	errands	3	convinit	hom		
+c_garters_1_convinit_hom_l7b1.rsd	l7b1	garters	1	convinit	hom		
+c_garters_2_convinit_smi_l7b1.rsd	l7b1	garters	2	convinit	smi		
+c_garters_3_convinit_hom_l7b1.rsd	l7b1	garters	3	convinit	hom		
+c_muscles_1_convinit_hom_l7b1.rsd	l7b1	muscles	1	convinit	hom		
+c_muscles_2_convinit_smi_l7b1.rsd	l7b1	muscles	2	convinit	smi		
+c_muscles_3_convinit_hom_l7b1.rsd	l7b1	muscles	3	convinit	hom		
+c_tooth_1_convinit_hom_l7b1.rsd	l7b1	tooth	1	convinit	hom		
+c_tooth_2_convinit_smi_l7b1.rsd	l7b1	tooth	2	convinit	smi		
+c_tooth_3_convinit_hom_l7b1.rsd	l7b1	tooth	3	convinit	hom		
+c_boards_1_noboxconv_hom_l7m1.rsd	l7m1	boards	1	noboxconv	hom		
+c_boards2_1_noboxconv_clt_l7m1.rsd	l7m1	boards2	1	noboxconv	clt		
+c_chainsaw_1_convinit_hom_l7m1.rsd	l7m1	chainsaw	1	convinit	hom	exact	Moe, I need your chainsaw to chop up attacking zombies.
+c_chainsaw_2_convinit_moe_l7m1.rsd	l7m1	chainsaw	2	convinit	moe	exact	Then how will I defend myself?
+c_chainsaw_3_convinit_hom_l7m1.rsd	l7m1	chainsaw	3	convinit	hom	exact	Moe, Moe, Moe, shouldn't the weapons go to people who have loved ones in their lives.
+c_chainsaw_4_convinit_moe_l7m1.rsd	l7m1	chainsaw	4	convinit	moe	exact	Yeah maybe your right.
+c_chainsaw_5_convinit_hom_l7m1.rsd	l7m1	chainsaw	5	convinit	hom	exact	I think I made my point.
+c_chainsaw_6_convinit_moe_l7m1.rsd	l7m1	chainsaw	6	convinit	moe	exact	Well, I better comb my hair before the zombies get here. (Sigh) my life stinks.
+c_firstaid_1_convinit_hom_l7m1.rsd	l7m1	firstaid	1	convinit	hom	exact	Flanders, give me your first aid kit.
+c_firstaid_2_convinit_fla_l7m1.rsd	l7m1	firstaid	2	convinit	fla	exact	Well I was hoping to save it for Roder and Toder to bandage there brain-eating boo-boos.
+c_firstaid_3_convinit_hom_l7m1.rsd	l7m1	firstaid	3	convinit	hom	exact	Just rub a bible on them.
+c_firstaid_4_convinit_fla_l7m1.rsd	l7m1	firstaid	4	convinit	fla	exact	Will that work to fend off zombies?
+c_firstaid_5_convinit_hom_l7m1.rsd	l7m1	firstaid	5	convinit	hom	exact	Who am I, Doctor Science?
+c_firstaid_6_convinit_fla_l7m1.rsd	l7m1	firstaid	6	convinit	fla	exact	Okely-dokely, here's the first aid.
+c_firstaid_8_convinit_rod_l7m1.rsd	l7m1	firstaid	8	convinit	rod	exact	Daddy, if the zombies are dead, why aren't they in heaven?
+c_psychotic_1_convinit_hom_l7m1.rsd	l7m1	psychotic	1	convinit	hom		
+c_zombie_1_convinit_lis_l7m1.rsd	l7m1	zombie	1	convinit	lis	gap	Dad! The zombies are on the way, shouldn't we do something?
+c_zombie_2_convinit_hom_l7m1.rsd	l7m1	zombie	2	convinit	hom	gap	Not now Lisa, I'm trying to listen to the baseball game.
+c_zombie_4_convinit_hom_l7m1.rsd	l7m1	zombie	4	convinit	hom	gap	Oh alright, I'll get some survival supplies. Stupid Brockman getting eaten by zombies.
+c_plant_1_noboxconv_hom_l7m2.rsd	l7m2	plant	1	noboxconv	hom		
+c_probe_1_convinit_hom_l7m2.rsd	l7m2	probe	1	convinit	hom	exact	Hey, you there, Smelly Sam. What's going on?
+c_probe_2_convinit_cbg_l7m2.rsd	l7m2	probe	2	convinit	cbg	exact	The alien craft is using some sort of tractor beam to suck up trespassers to their doom. Worst. Effects. Ever.
+c_probe_3_convinit_hom_l7m2.rsd	l7m2	probe	3	convinit	hom	exact	But that's real.
+c_probe_4_convinit_cbg_l7m2.rsd	l7m2	probe	4	convinit	cbg	exact	Worst. Effects. Ever.
+c_probe_5_convinit_hom_l7m2.rsd	l7m2	probe	5	convinit	hom	exact	What's with the cool black car?
+c_probe_6_convinit_cbg_l7m2.rsd	l7m2	probe	6	convinit	cbg	exact	If my knowledge of sci fi movies is correct, which it is, the black car is an advanced probe for the mother ship. Now, if you're through, I'm going to spend my last hours on Earth, complaining about movies on the internet.
+c_probe_7_convinit_hom_l7m2.rsd	l7m2	probe	7	convinit	hom	exact	The gift of life is wasted on you.
+c_probe_8_convinit_cbg_l7m2.rsd	l7m2	probe	8	convinit	cbg	exact	Yes, I recommend you obtain a zombie car. It will protect you well but it is runned on human brains, slight draw back.
+c_probe_9_convinit_hom_l7m2.rsd	l7m2	probe	9	convinit	hom	exact	I've got plenty of those.
+c_probe2_1_convinit_hom_l7m2.rsd	l7m2	probe2	1	convinit	hom		
+c_probe2_2_convinit_cbg_l7m2.rsd	l7m2	probe2	2	convinit	cbg		
+c_probe2_3_convinit_hom_l7m2.rsd	l7m2	probe2	3	convinit	hom		
+c_probe2_4_convinit_cbg_l7m2.rsd	l7m2	probe2	4	convinit	cbg		
+c_probe2_5_convinit_hom_l7m2.rsd	l7m2	probe2	5	convinit	hom		
+c_probe2_6_convinit_cbg_l7m2.rsd	l7m2	probe2	6	convinit	cbg		
+c_probe2_7_convinit_hom_l7m2.rsd	l7m2	probe2	7	convinit	hom		
+c_beam_1_noboxconv_frk_l7m3.rsd	l7m3	beam	1	noboxconv	frk		
+c_nuclear_1_convinit_frk_l7m3.rsd	l7m3	nuclear	1	convinit	frk	exact	I'm glad you're here my morpobly obbesse ally. Based on my mathulations, I've figured out the aliens weakness. It's nuclear waste. Yuck.
+c_nuclear_2_convinit_hom_l7m3.rsd	l7m3	nuclear	2	convinit	hom	exact	Uh, and how does that effect me?
+c_nuclear_3_convinit_frk_l7m3.rsd	l7m3	nuclear	3	convinit	frk	exact	Well it could save the life of you and your family.
+c_nuclear_4_convinit_hom_l7m3.rsd	l7m3	nuclear	4	convinit	hom	exact	And?
+c_nuclear_5_convinit_frk_l7m3.rsd	l7m3	nuclear	5	convinit	frk	exact	Look, I've loaded my vehicle with nuclear waste from the power plant. I'm going to deliver this toxic payload to the alien ship, risking myself and my delicious brain to zombie snacking which if you've never undergone that, I can tell you it stings.
+c_nuclear_6_convinit_hom_l7m3.rsd	l7m3	nuclear	6	convinit	hom	exact	What a hero, I never knew his name.
+c_nuclear_7_convinit_frk_l7m3.rsd	l7m3	nuclear	7	convinit	frk	exact	Uh, it's Proffesor John Frink.
+c_nuclear_8_convinit_hom_l7m3.rsd	l7m3	nuclear	8	convinit	hom	exact	Are you still here?
+c_toxic_1_noboxconv_hom_l7m3.rsd	l7m3	toxic	1	noboxconv	hom		
+c_boss_1_noboxconv_hom_l7m4.rsd	l7m4	boss	1	noboxconv	hom		
+c_buried_1_convinit_hom_l7m4.rsd	l7m4	buried	1	convinit	hom	exact	I need to buy some nuclear waste, and fast!
+c_buried_2_convinit_lis_l7m4.rsd	l7m4	buried	2	convinit	lis	exact	Why don't you ask Mr. Burns. His buried nuclear waste has poisoned Springfield for years to come.
+c_buried_3_convinit_hom_l7m4.rsd	l7m4	buried	3	convinit	hom	exact	Good ol' Mr. Burns. He'll save us! Thank goodness for nuclear waste.
+c_ashtray_1_noboxconv_hom_l7m5.rsd	l7m5	ashtray	1	noboxconv	hom		
+c_barrel_1_convinit_bur_l7m5.rsd	l7m5	barrel	1	convinit	bur	exact	Ooh, is it you Merryweather, come to haunt me again. I kid you once I...
+c_barrel_2_convinit_hom_l7m5.rsd	l7m5	barrel	2	convinit	hom	exact	Mr. Burns, it's me, Homer Simpson!
+c_barrel_3_convinit_bur_l7m5.rsd	l7m5	barrel	3	convinit	bur	exact	So you're not the ghost of my former partner? Woo, wow, that was... wow.
+c_barrel_4_convinit_hom_l7m5.rsd	l7m5	barrel	4	convinit	hom	exact	Look, I need to get some barrels of radioactive waste to save Springfield from the aliens.
+c_barrel_5_convinit_bur_l7m5.rsd	l7m5	barrel	5	convinit	bur	exact	I agree, illegal aliens are a nucence.
+c_barrel_6_convinit_hom_l7m5.rsd	l7m5	barrel	6	convinit	hom	exact	Not leafblower aliens, tentacle aliens.
+c_barrel_7_convinit_bur_l7m5.rsd	l7m5	barrel	7	convinit	bur	exact	Oh, in that case, here's a map to where I burried nuclear barrels all over Springfield. And they said that they made them bleed from the heart. I hope they... bleed from the heart.
+c_clever_1_convinit_hom_l7m5.rsd	l7m5	clever	1	convinit	hom		
+c_carjack_1_convinit_snk_l7m6.rsd	l7m6	carjack	1	convinit	snk	exact	Wow, imagine, me getting car jacked. What a total switcharoo.
+c_carjack_2_convinit_hom_l7m6.rsd	l7m6	carjack	2	convinit	hom	exact	Just go.
+c_carjack_3_convinit_snk_l7m6.rsd	l7m6	carjack	3	convinit	snk	exact	And what will you do if I don't.
+c_carjack_4_convinit_hom_l7m6.rsd	l7m6	carjack	4	convinit	hom	exact	Flip you the bird!
+c_carjack_5_convinit_snk_l7m6.rsd	l7m6	carjack	5	convinit	snk	exact	Ok, don't get freaky, get in!
+c_sayonara_1_noboxconv_snk_l7m6.rsd	l7m6	sayonara	1	noboxconv	snk		
+c_sacrifice_1_convinit_hom_l7m7.rsd	l7m7	sacrifice	1	convinit	hom	exact	Where'd you get that sweet ride.
+c_sacrifice_2_convinit_grp_l7m7.rsd	l7m7	sacrifice	2	convinit	grp	exact	I bought it with my social security. Thank you Uncle Sucker.
+c_sacrifice_3_convinit_hom_l7m7.rsd	l7m7	sacrifice	3	convinit	hom	exact	Gimme a lift. I gotta save Springfield.
+c_sacrifice_4_convinit_grp_l7m7.rsd	l7m7	sacrifice	4	convinit	grp	exact	You're not gonna sacrifice me for the greater good, are you son?
+c_sacrifice_5_convinit_hom_l7m7.rsd	l7m7	sacrifice	5	convinit	hom	exact	We'll see dad, we'll see.
+c_sacrifice_6_convinit_grp_l7m7.rsd	l7m7	sacrifice	6	convinit	grp	exact	Ohh.
+c_count_1_convinit_zom_l7r1.rsd	l7r1	count	1	convinit	zom		
+c_count_1_noboxconv_zm2_l7r1.rsd	l7r1	count	1	noboxconv	zm2		
+c_fail1_1_noboxconv_zm2_l7r1.rsd	l7r1	fail1	1	noboxconv	zm2		
+c_fail2_1_noboxconv_zm2_l7r1.rsd	l7r1	fail2	1	noboxconv	zm2		
+c_intro_1_convinit_hom_l7r1.rsd	l7r1	intro	1	convinit	hom		
+c_intro_2_convinit_zm2_l7r1.rsd	l7r1	intro	2	convinit	zm2		
+c_intro_3_convinit_hom_l7r1.rsd	l7r1	intro	3	convinit	hom		
+c_success_1_convinit_zm2_l7r1.rsd	l7r1	success	1	convinit	zm2		
+c_count_1_convinit_zom_l7r2.rsd	l7r2	count	1	convinit	zom		
+c_count_1_noboxconv_zm3_l7r2.rsd	l7r2	count	1	noboxconv	zm3		
+c_fail1_1_noboxconv_zm3_l7r2.rsd	l7r2	fail1	1	noboxconv	zm3		
+c_fail2_1_noboxconv_zm3_l7r2.rsd	l7r2	fail2	1	noboxconv	zm3		
+c_intro_1_convinit_hom_l7r2.rsd	l7r2	intro	1	convinit	hom		
+c_intro_2_convinit_zm3_l7r2.rsd	l7r2	intro	2	convinit	zm3		
+c_success_1_convinit_zm3_l7r2.rsd	l7r2	success	1	convinit	zm3		
+c_complete_1_convinit_zom_l7r3.rsd	l7r3	complete	1	convinit	zom		
+c_complete_2_convinit_hom_l7r3.rsd	l7r3	complete	2	convinit	hom		
+c_count_1_convinit_zom_l7r3.rsd	l7r3	count	1	convinit	zom		
+c_count_1_noboxconv_zm1_l7r3.rsd	l7r3	count	1	noboxconv	zm1		
+c_fail1_1_noboxconv_zm1_l7r3.rsd	l7r3	fail1	1	noboxconv	zm1		
+c_fail2_1_noboxconv_zm1_l7r3.rsd	l7r3	fail2	1	noboxconv	zm1		
+c_intro_1_convinit_hom_l7r3.rsd	l7r3	intro	1	convinit	hom		
+c_intro_2_convinit_zm1_l7r3.rsd	l7r3	intro	2	convinit	zm1		
+c_success_1_convinit_zm1_l7r3.rsd	l7r3	success	1	convinit	zm1		

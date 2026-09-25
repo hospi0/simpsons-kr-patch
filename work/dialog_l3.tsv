@@ -1,0 +1,148 @@
+파일명	태그	주제	순서	화자	미션	방식	영문
+c_bus_1_convinit_lis_l3.rsd	l3	bus	1	lis	Operation Hellfish	전체	Otto, I know I'm a little young to be asking this...
+c_bus_2_convinit_oto_l3.rsd	l3	bus	2	oto	Operation Hellfish	전체	Look, I don't have any special brownies left; I ate them all.
+c_bus_3_convinit_lis_l3.rsd	l3	bus	3	lis	Operation Hellfish	전체	But do you think I can use your school bus?
+c_bus_4_convinit_oto_l3.rsd	l3	bus	4	oto	Operation Hellfish	전체	Oh-hoh right, cool. Meet my price and she's all yours, little lady!
+c_tragedy_1_convinit_lis_l3.rsd	l3	tragedy	1	lis	Princi-Pal	전체	Principal Skinner! Bart's missing!
+c_tragedy_2_convinit_skn_l3.rsd	l3	tragedy	2	skn	Princi-Pal	전체	Bart's gone?! What a tragedy! Uh, to get your mind off this terrible loss which we all feel, why don't you run a few uh, errands or as I call them 'grief helpers' for me.
+c_tragedy_3_convinit_lis_l3.rsd	l3	tragedy	3	lis	Princi-Pal	전체	But Bart's only missing!
+c_tragedy_4_convinit_skn_l3.rsd	l3	tragedy	4	skn	Princi-Pal	전체	Well, looking for that little monster-I mean treasure, can't, help anything. You might as well pick up Mother's dry cleaning for me.
+c_aspic_1_convinit_skn_l3b1.rsd	l3b1	aspic	1	skn	Princi-Pal	배정	There. We've got Mother's laundry, dinner for Edna and me, and uh, some personal items. Now if you can just help me find a place that carries Mother's favorite canned aspic
+c_aspic_2_convinit_lis_l3b1.rsd	l3b1	aspic	2	lis	Princi-Pal	배정	This is ridiculous! I can't keep doing errands for you, I've gotta find Bart!
+c_aspic_3_convinit_skn_l3b1.rsd	l3b1	aspic	3	skn	Princi-Pal	배정	For helping me with my ridiculous errands, I suppose I owe you something...if you need help recovering your brother's body, d'uh,livingbody, give me a call
+c_cream_1_convinit_lis_l3b1.rsd	l3b1	cream	1	lis	Princi-Pal	배정	Uuuh, Dr. Nick, I'm here to pick-up Principal Skinner's "personal items".
+c_cream_2_convinit_nic_l3b1.rsd	l3b1	cream	2	nic	Princi-Pal	배정	Hi, little girl! Are you so cute; here's the principal's anti-fungal cream.
+c_cream_3_convinit_lis_l3b1.rsd	l3b1	cream	3	lis	Princi-Pal	배정	Eww...
+c_heart_1_noboxconv_lis_l3b1.rsd	l3b1	heart	1	lis	Princi-Pal	배정	Principal Skinner, I can't help you anymore. Ineedto search for Bart.
+c_heart_2_noboxconv_skn_l3b1.rsd	l3b1	heart	2	skn	Princi-Pal	배정	Lisa, I apologize from the bottom of my Vietnam veteran's heart...I promise this next stop will be the last.
+c_laundromat_1_noboxconv_skn_l3b1.rsd	l3b1	laundromat	1	skn	Princi-Pal	배정	Well, Motherlovesclean house dresses 'n' old lady underwear.
+c_laundromat_2_noboxconv_lis_l3b1.rsd	l3b1	laundromat	2	lis	Princi-Pal	배정	Principal Skinner, I really should get back to my search.
+c_laundromat_3_noboxconv_skn_l3b1.rsd	l3b1	laundromat	3	skn	Princi-Pal	배정	Maybe these gold stars will change your mind?
+c_laundromat_4_noboxconv_lis_l3b1.rsd	l3b1	laundromat	4	lis	Princi-Pal	배정	Alright...
+c_sandwich_1_convinit_lis_l3b1.rsd	l3b1	sandwich	1	lis	Princi-Pal	배정	I need Principal Skinner's dinner.
+c_sandwich_2_convinit_svt_l3b1.rsd	l3b1	sandwich	2	svt	Princi-Pal	배정	Here-do you wanna try a new Krusty Ribwich?
+c_sandwich_3_convinit_lis_l3b1.rsd	l3b1	sandwich	3	lis	Princi-Pal	배정	Kuh! I'm a vegetarian!
+c_sandwich_4_convinit_svt_l3b1.rsd	l3b1	sandwich	4	svt	Princi-Pal	배정	Oh, there's no meat in it. Just paste and MSG.
+c_brother_1_convinit_lis_l3m1.rsd	l3m1	brother	1	lis	Nerd Race Queen	배정	What about Bart? I asked you, have you seen him?
+c_brother_2_convinit_cbg_l3m1.rsd	l3m1	brother	2	cbg	Nerd Race Queen	배정	I think I saw him at the Noiseland Arcade. Ugh, video games, what a waste of money. Now to go online and bid $1000 forItchy & Scratchycorn-cob holders. A terrific, terrific expense.
+c_mylar_1_convinit_cbg_l3m1.rsd	l3m1	mylar	1	cbg	Nerd Race Queen	배정	Yes, yes, can't talk now, I must get the last copy of the newItchy & Scratchy Adventurescomic. It's the controversial issue, in which they finally kiss! Assist me, and I will aid you with your dilemma.
+c_mylar_2_convinit_lis_l3m1.rsd	l3m1	mylar	2	lis	Nerd Race Queen	배정	Now can you tell me if you've seen my pointy-headed nuisance?
+c_mylar_3_convinit_cbg_l3m1.rsd	l3m1	mylar	3	cbg	Nerd Race Queen	배정	Silence! I must get this comic into a mylar bag, before it deteriorates into near-mint condition, heaven forbid it.
+c_nuisance_1_noboxconv_lis_l3m1.rsd	l3m1	nuisance	1	lis			
+c_nuisance_2_noboxconv_cbg_l3m1.rsd	l3m1	nuisance	2	cbg			
+c_noiseland_1_convinit_lis_l3m2.rsd	l3m2	noiseland	1	lis	Clueless	전체	Milhouse? What are you doing here?
+c_noiseland_2_convinit_mil_l3m2.rsd	l3m2	noiseland	2	mil	Clueless	전체	Lisa, what a coincidence! Hey, is that a new dress?
+c_noiseland_3_convinit_lis_l3m2.rsd	l3m2	noiseland	3	lis	Clueless	전체	No, I've been wearing this dress for years. Now where's Bart?
+c_noiseland_4_convinit_mil_l3m2.rsd	l3m2	noiseland	4	mil	Clueless	전체	I think he's at the Planet Hype.
+c_sign_1_convinit_mil_l3m2.rsd	l3m2	sign	1	mil	Clueless	전체	Hi, Lisa! My, your hair looks pointy today.
+c_sign_2_convinit_lis_l3m2.rsd	l3m2	sign	2	lis	Clueless	전체	Milhouse! Have you seen Bart or not?!
+c_sign_3_convinit_mil_l3m2.rsd	l3m2	sign	3	mil	Clueless	전체	So, Lisa, do you have a date for the harvest dance?
+c_sign_4_convinit_lis_l3m2.rsd	l3m2	sign	4	lis	Clueless	전체	This is not a good time!
+c_sign_5_convinit_mil_l3m2.rsd	l3m2	sign	5	mil	Clueless	전체	It's NEVER a good time!!
+c_sign_6_convinit_lis_l3m2.rsd	l3m2	sign	6	lis	Clueless	전체	Bart always hung out at the Kwik-E-Mart, maybe Apu has seen him.
+c_store_1_convinit_mil_l3m2.rsd	l3m2	store	1	mil	Clueless	전체	Oh, hi, Lisa! Ha...fancy meeting you here.
+c_store_2_convinit_lis_l3m2.rsd	l3m2	store	2	lis	Clueless	전체	Stop following me!
+c_store_3_convinit_mil_l3m2.rsd	l3m2	store	3	mil	Clueless	전체	I heard Bart might be out by the Springfield Sign. Perhaps you'd like to share some chewing gum.
+c_weasel_1_convinit_lis_l3m2.rsd	l3m2	weasel	1	lis	Clueless	배정	Milhouse, has Bart been here?
+c_weasel_2_convinit_mil_l3m2.rsd	l3m2	weasel	2	mil	Clueless	배정	Uh, I haven't seen him. Hey, can I buy you a frozen yogurt? I'll throw in two dry toppings or one wet topping.
+c_weasel_3_convinit_lis_l3m2.rsd	l3m2	weasel	3	lis	Clueless	배정	Bart's disappeared! You have to help me find him.
+c_weasel_4_convinit_mil_l3m2.rsd	l3m2	weasel	4	mil	Clueless	배정	Well, he might be at Wall E. Weasel's. He likes the smell of the ball cage.
+c_burger_1_convinit_apu_l3m3.rsd	l3m3	burger	1	apu	Bonfire of the Manatees	배정	Oh, this is terrible. A very bad man is delivering roadkill to all the Krusty Burgers, which are cheaper than my Kwik-E-Dogs!
+c_conspiracy_1_convinit_lis_l3m3.rsd	l3m3	conspiracy	1	lis	Bonfire of the Manatees	배정	Professor Frink, Professor Frink!! My brother Bart is missing! Have you seen him?
+c_conspiracy_2_convinit_frk_l3m3.rsd	l3m3	conspiracy	2	frk	Bonfire of the Manatees	배정	Well let's see now, uh...Bart helped me build a monster, and then disappeared in a bright light.
+c_conspiracy_3_convinit_lis_l3m3.rsd	l3m3	conspiracy	3	lis	Bonfire of the Manatees	배정	Wow! This is crazy. I need someone to talk to who is wise and learn-ed.
+c_cud_1_noboxconv_lis_l3m3.rsd	l3m3	cud	1	lis			
+c_cud_2_noboxconv_apu_l3m3.rsd	l3m3	cud	2	apu			
+c_cud_3_noboxconv_clt_l3m3.rsd	l3m3	cud	3	clt			
+c_cud_4_noboxconv_lis_l3m3.rsd	l3m3	cud	4	lis			
+c_jerkwater_1_noboxconv_lis_l3m3.rsd	l3m3	jerkwater	1	lis	Bonfire of the Manatees	배정	Hee hee hee, that was pretty cool! But Bart's still missing and I'm no closer to finding him.
+c_jerkwater_2_noboxconv_apu_l3m3.rsd	l3m3	jerkwater	2	apu	Bonfire of the Manatees	배정	Perhaps we should consult Professor Frink at the Observatory. He seems to know everything...except why I ever came to this jerkwater burg.
+c_big_1_convinit_lis_l3m4.rsd	l3m4	big	1	lis	Operation Hellfish	합침1:2	Grampa, can you help me find Bart? He's missing. Wow Grampa, what a great clue! You showed why senior citizens are valuable members of the community.
+c_empty_1_noboxconv_lis_l3m4.rsd	l3m4	empty	1	lis	Operation Hellfish	배정	It's empty! What's going on in this town?
+c_kaiser_1_convinit_lis_l3m4.rsd	l3m4	kaiser	1	lis			
+c_kaiser_2_convinit_grp_l3m4.rsd	l3m4	kaiser	2	grp			
+c_kaiser_3_convinit_lis_l3m4.rsd	l3m4	kaiser	3	lis			
+c_kaiser_4_convinit_grp_l3m4.rsd	l3m4	kaiser	4	grp			
+c_kaiser_5_convinit_lis_l3m4.rsd	l3m4	kaiser	5	lis			
+c_kaiser2_1_convinit_lis_l3m4.rsd	l3m4	kaiser2	1	lis			
+c_kaiser2_2_convinit_grp_l3m4.rsd	l3m4	kaiser2	2	grp			
+c_kaiser2_3_convinit_lis_l3m4.rsd	l3m4	kaiser2	3	lis			
+c_kaiser2_4_convinit_grp_l3m4.rsd	l3m4	kaiser2	4	grp			
+c_elderly_1_noboxconv_wig_l3m5.rsd	l3m5	elderly	1	wig	Slithery Sleuthing	배정	Strike two: running over an elderly person without a license.
+c_jeans_1_noboxconv_wig_l3m5.rsd	l3m5	jeans	1	wig	Slithery Sleuthing	배정	Strike one: counterfeit designer jeans, the foulest of all crimes.
+c_lowlife_1_convinit_wig_l3m5.rsd	l3m5	lowlife	1	wig	Slithery Sleuthing	배정	And strike three - littering. Alright, we got all we need on this low-life. Now, about your brother. I've seen lots of mysterious government types over at the docks. Ah-maybe they sent him on a nice cruise. They got some great package deals these days. Five for face, perpo, inclusive!
+c_lowlife_2_convinit_lis_l3m5.rsd	l3m5	lowlife	2	lis	Slithery Sleuthing	배정	Thanks, Chief, you ARE a good cop after all.
+c_lowlife_3_convinit_wig_l3m5.rsd	l3m5	lowlife	3	wig	Slithery Sleuthing	배정	Aaw-you're just saying that.
+c_lowlife_4_convinit_lis_l3m5.rsd	l3m5	lowlife	4	lis	Slithery Sleuthing	배정	Yes I am!
+c_strikes_1_convinit_lis_l3m5.rsd	l3m5	strikes	1	lis	Slithery Sleuthing	배정	Excuse me, Chief Wiggum? Can you help? I've gotta find my brother.
+c_strikes_2_convinit_wig_l3m5.rsd	l3m5	strikes	2	wig	Slithery Sleuthing	배정	Ah, sorry little girl, I'm busy collecting evidence on Jailbird. We're busting him on the three strikes law.
+c_strikes_3_convinit_lis_l3m5.rsd	l3m5	strikes	3	lis	Slithery Sleuthing	배정	How many strikes do you have so far?
+c_strikes_4_convinit_wig_l3m5.rsd	l3m5	strikes	4	wig	Slithery Sleuthing	배정	Uhh, no strikes, but that's only because I'm a very, very bad cop. Now, first of all, if we're gonna go undercover, you will need a disguise.
+c_strikes_5_convinit_lis_l3m5.rsd	l3m5	strikes	5	lis	Slithery Sleuthing	배정	You mean like an eye patch?
+c_strikes_6_convinit_wig_l3m5.rsd	l3m5	strikes	6	wig	Slithery Sleuthing	배정	Hey, good one! Heh-if we could afford a disguise like that, I wouldn't be getting paid in potato chip coupons.
+c_strikes_7_convinit_lis_l3m5.rsd	l3m5	strikes	7	lis	Slithery Sleuthing	배정	So, what disguisedoyou have?
+c_strikes_8_convinit_wig_l3m5.rsd	l3m5	strikes	8	wig	Slithery Sleuthing	배정	Well here's one of Ralph's old Halloween costumes.
+c_strikes_9_convinit_lis_l3m5.rsd	l3m5	strikes	9	lis	Slithery Sleuthing	배정	Fine, wait here and I'll get changed.
+c_strikes2_1_convinit_lis_l3m5.rsd	l3m5	strikes2	1	lis			
+c_strikes2_2_convinit_wig_l3m5.rsd	l3m5	strikes2	2	wig			
+c_strikes2_3_convinit_lis_l3m5.rsd	l3m5	strikes2	3	lis			
+c_strikes2_4_convinit_wig_l3m5.rsd	l3m5	strikes2	4	wig			
+c_ahab_1_noboxconv_lis_l3m6.rsd	l3m6	ahab	1	lis	Fishy Deals	배정	Well that's that. Now maybe that two-bit Ahab will tell me what he knows.
+c_brave_1_noboxconv_lis_l3m6.rsd	l3m6	brave	1	lis			
+c_fish_1_noboxconv_lis_l3m6.rsd	l3m6	fish	1	lis			
+c_free_1_noboxconv_lis_l3m6.rsd	l3m6	free	1	lis			
+c_good_1_noboxconv_lis_l3m6.rsd	l3m6	good	1	lis			
+c_hook_1_noboxconv_lis_l3m6.rsd	l3m6	hook	1	lis			
+c_mackerel_1_convinit_lis_l3m6.rsd	l3m6	mackerel	1	lis	Fishy Deals	배정	Chief Wiggum said that there was some strange stuff going on around here. Have you noticed anything weird? You know, black sedans, guys with dark glasses?
+c_mackerel_2_convinit_sea_l3m6.rsd	l3m6	mackerel	2	sea	Fishy Deals	배정	Yargh, maybe I've seen something, and-uh maybe I haven't. Render me a favor, and it might, jaaar me memory. Ha-ha!
+c_mackerel_3_convinit_lis_l3m6.rsd	l3m6	mackerel	3	lis	Fishy Deals	배정	What favor?
+c_mackerel_4_convinit_sea_l3m6.rsd	l3m6	mackerel	4	sea	Fishy Deals	배정	I've got a shipment here of live mackerel. Can ye navigate the fishies to the finest restaurants, in the Squidport?
+c_mackerel_5_convinit_lis_l3m6.rsd	l3m6	mackerel	5	lis	Fishy Deals	배정	Those poor fish! I mean, sure I'll help.
+c_nets_1_noboxconv_lis_l3m6.rsd	l3m6	nets	1	lis			
+c_plenty_1_noboxconv_lis_l3m6.rsd	l3m6	plenty	1	lis			
+c_savor_1_noboxconv_lis_l3m6.rsd	l3m6	savor	1	lis			
+c_school_1_convinit_lis_l3m6.rsd	l3m6	school	1	lis	Operation Hellfish	전체	I better use something big if I wanna take that car out.....like that school bus!
+c_swim_1_noboxconv_lis_l3m6.rsd	l3m6	swim	1	lis			
+c_tartar_1_noboxconv_lis_l3m6.rsd	l3m6	tartar	1	lis			
+c_wild_1_noboxconv_lis_l3m6.rsd	l3m6	wild	1	lis			
+c_catch_1_convinit_sea_l3m7.rsd	l3m7	catch	1	sea	The Old Pirate and the Sea	배정	Arr, thanks for delivering me catch of the day. Now, I can tell ye, I saw yer brother.
+c_catch_2_convinit_lis_l3m7.rsd	l3m7	catch	2	lis	The Old Pirate and the Sea	배정	Really?! That's great.
+c_catch_3_convinit_sea_l3m7.rsd	l3m7	catch	3	sea	The Old Pirate and the Sea	배정	Aye, he was in a long black limo and-ahoy, thar she drove!
+c_destroy_1_convinit_lis_l3m7.rsd	l3m7	destroy	1	lis	The Old Pirate and the Sea	배정	Oh god, I destroyed the limo, and killed Bart!
+c_destroy_2_convinit_sea_l3m7.rsd	l3m7	destroy	2	sea	The Old Pirate and the Sea	배정	No murderer ye be, he wasn't in the limo. He got out, and he boarded that ship.
+c_destroy_3_convinit_lis_l3m7.rsd	l3m7	destroy	3	lis	The Old Pirate and the Sea	배정	Can you take me there?!
+c_destroy_4_convinit_sea_l3m7.rsd	l3m7	destroy	4	sea	The Old Pirate and the Sea	배정	N'arr, I hate the sea.
+c_found_1_convinit_lis_l3m7.rsd	l3m7	found	1	lis			
+c_found_2_convinit_brt_l3m7.rsd	l3m7	found	2	brt			
+c_found_3_convinit_lis_l3m7.rsd	l3m7	found	3	lis			
+c_found_4_convinit_brt_l3m7.rsd	l3m7	found	4	brt			
+c_found_5_convinit_lis_l3m7.rsd	l3m7	found	5	lis			
+c_found_6_convinit_brt_l3m7.rsd	l3m7	found	6	brt			
+c_found_7_convinit_lis_l3m7.rsd	l3m7	found	7	lis			
+c_count_1_noboxconv_mil_l3r1.rsd	l3r1	count	1	mil	Docks Time Trial Race	배정	Three, two, go!
+c_fail1_1_noboxconv_pat_l3r1.rsd	l3r1	fail1	1	pat	Docks Time Trial Race	배정	Atta girl, Lisa. This will be noted on your permanent record.
+c_fail2_1_noboxconv_pat_l3r1.rsd	l3r1	fail2	1	pat			
+c_intro_1_convinit_lis_l3r1.rsd	l3r1	intro	1	lis	Docks Time Trial Race	배정	Milhouse, are you working here?
+c_intro_2_convinit_mil_l3r1.rsd	l3r1	intro	2	mil	Docks Time Trial Race	배정	It's not so bad. I get a green cookie on St. Patrick's Day... it comes out of my paycheck
+c_success_1_convinit_pat_l3r1.rsd	l3r1	success	1	pat			
+c_count_1_noboxconv_nel_l3r2.rsd	l3r2	count	1	nel	Hillside Area Circuit Race	배정	Three, two, the loser says what?
+c_count_2_noboxconv_lis_l3r2.rsd	l3r2	count	2	lis	Hillside Area Circuit Race	배정	What?
+c_count_3_noboxconv_nel_l3r2.rsd	l3r2	count	3	nel	Hillside Area Circuit Race	배정	HA HA! One, go!
+c_fail1_1_noboxconv_pat_l3r2.rsd	l3r2	fail1	1	pat	Hillside Area Circuit Race	배정	I'm speechless, Lisa. That was better than you have any right to do.
+c_fail2_1_noboxconv_pat_l3r2.rsd	l3r2	fail2	1	pat			
+c_fail2_2_noboxconv_lis_l3r2.rsd	l3r2	fail2	2	lis			
+c_fail2_3_noboxconv_pat_l3r2.rsd	l3r2	fail2	3	pat			
+c_intro_1_convinit_lis_l3r2.rsd	l3r2	intro	1	lis	Hillside Area Circuit Race	배정	Hi Nelson. This is a surprise.
+c_intro_2_convinit_nel_l3r2.rsd	l3r2	intro	2	nel	Hillside Area Circuit Race	배정	Oh, the pleasure is all mine. I'll be your starting man for this mission.
+c_success_1_convinit_pat_l3r2.rsd	l3r2	success	1	pat			
+c_complete_1_convinit_pat_l3r3.rsd	l3r3	complete	1	pat			
+c_complete_2_convinit_lis_l3r3.rsd	l3r3	complete	2	lis			
+c_complete_3_convinit_pat_l3r3.rsd	l3r3	complete	3	pat			
+c_count_1_noboxconv_ral_l3r3.rsd	l3r3	count	1	ral	Squidport Checkpoint Race	배정	One, one, one, go!
+c_fail1_1_noboxconv_pat_l3r3.rsd	l3r3	fail1	1	pat	Squidport Checkpoint Race	배정	She must get her driving ability from her mother's side.
+c_fail2_1_noboxconv_pat_l3r3.rsd	l3r3	fail2	1	pat			
+c_fail2_2_noboxconv_lis_l3r3.rsd	l3r3	fail2	2	lis			
+c_intro_1_convinit_lis_l3r3.rsd	l3r3	intro	1	lis	Squidport Checkpoint Race	배정	Why are you working here?
+c_intro_2_convinit_ral_l3r3.rsd	l3r3	intro	2	ral	Squidport Checkpoint Race	배정	Daddy says I should stay here til I learn to control myself at the hardware store. Vroom vroom~!
+c_intro_3_convinit_lis_l3r3.rsd	l3r3	intro	3	lis	Squidport Checkpoint Race	배정	Right...I'll just start racing.
+c_success_1_convinit_pat_l3r3.rsd	l3r3	success	1	pat			

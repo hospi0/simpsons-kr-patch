@@ -1,0 +1,1627 @@
+            --------------------------------------------------
+                         The Simpsons: Hit & Run
+				       Game Script
+                               Version 1.0
+                             By SpacePirate     
+                       Nintendomaster@comcast.net
+             --------------------------------------------------
+
+====================
+Table of Contents
+====================
+
+1. Introduction
+2. Script Contents
+3. Script
+4. Contact Info
+5. Credits
+6. Copyright Info
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+                          
+                            1. Introduction
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+
+Welcome to my first ever game script. Of course, if I'm gonna make a game
+script, gotta do it on a game that'll be worth while, and what better than
+The Simpsons. The game is enjoyable to play and it is also fun to hear what
+the Simpson characters have to say after you finish a mission. So, reading
+this is almost as funny as hearing what the Simpsons characters have to say.
+Almost! Remember though, I can't understand everything the characters say
+exactly so if you do, please contact me to tell me what it really is. (See 
+Contact Info) Well, enjoy.
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+
+                           2. Script Contents
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+
+Press ctrl+F to bring up a window. Type in the code at the end of a chapter
+line to instantly go to that chapter, without all the boring scrolling.
+
+//////////////////////////////
+Level 1
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Level 1 Introduction................................................LVL1I
+Mission 1...........................................................LVL11
+Mission 2...........................................................LVL12
+Mission 3...........................................................LVL13
+Mission 4...........................................................LVL14
+Movie 1.............................................................MOVE1
+Mission 5...........................................................LVL15
+Mission 6...........................................................LVL16
+Mission 7...........................................................LVL17
+
+//////////////////////////////
+Level 2
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Mission 1...........................................................LVL21
+Mission 2...........................................................LVL22
+Mission 3...........................................................LVL23
+Mission 4...........................................................LVL24
+Mission 5...........................................................LVL25
+Mission 6...........................................................LVL26
+Mission 7...........................................................LVL27
+Movie 2.............................................................MOVE2
+
+//////////////////////////////
+Level 3
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Mission 1...........................................................LVL31
+Mission 2...........................................................LVL32
+Mission 3...........................................................LVL33
+Mission 4...........................................................LVL34
+Mission 5...........................................................LVL35
+Mission 6...........................................................LVL36
+Mission 7...........................................................LVL37
+
+//////////////////////////////
+Level 4
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Mission 1...........................................................LVL41
+Mission 2...........................................................LVL42
+Mission 3...........................................................LVL43
+Mission 4...........................................................LVL44
+Mission 5...........................................................LVL45
+Movie 3.............................................................MOVE3
+Mission 6...........................................................LVL46
+Mission 7...........................................................LVL47
+
+//////////////////////////////
+Level 5
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Mission 1...........................................................LVL51
+Mission 2...........................................................LVL52
+Mission 3...........................................................LVL53
+Mission 4...........................................................LVL54
+Mission 5...........................................................LVL55
+Mission 6...........................................................LVL56
+Mission 7...........................................................LVL57
+Movie 4.............................................................MOVE4
+
+//////////////////////////////
+Level 6
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Mission 1...........................................................LVL61
+Mission 2...........................................................LVL62
+Mission 3...........................................................LVL63
+Mission 4...........................................................LVL64
+Mission 5...........................................................LVL65
+Mission 6...........................................................LVL66
+Mission 7...........................................................LVL67
+Movie 5.............................................................MOVE5
+
+//////////////////////////////
+Level 7
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Mission 1...........................................................LVL71
+Mission 2...........................................................LVL72
+Mission 3...........................................................LVL73
+Mission 4...........................................................LVL74
+Mission 5...........................................................LVL75
+Mission 6...........................................................LVL76
+Mission 7...........................................................LVL77
+Movie 7.............................................................MOVE7
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+
+                               3. Script
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+
+//////////////////////////////
+Level 1
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+=--=--=--=--=--=--=--=--=--=
+Level 1 Introduction: LVL1I
+=--=--=--=--=--=--=--=--=--=
+
+Homer is sitting on his red couch inside his house watching TV with a destroyed
+Bee Camera at his feet. There are gold coins floating above it. Homer grabs one
+and checks it out. Homer then takes his eyes off the coin and puts his
+attention toward a commercial on TV. Krusty the clown is standing on stage
+with a can of Buzz Cola in his hand.
+
+Krusty: Hey hey, I'm endorsing a new cola kids, and this one isn't poisonous to
+anybody!
+Voice: That we know of.
+Krusty: New and improved Buzz Cola is made only from the finest sugars and 
+waters, plus a special ingredient to hot for the FDA! It will give you the get
+up and go to do all the pathetic things you have to do! Try new and improved 
+Buzz Cola!
+Homer: Mmm, cola, must get Buzz Cola. (drools)
+
+=--=--=--=--=--=--=--=--=--=
+Mission 1: LVL11
+=--=--=--=--=--=--=--=--=--=
+
+Homer and Marge are standing outside on the front lawn of the Simpsons' house.
+It's a sunny morning out in Springfield.
+
+Marge: Homie, somebody ate every desert in the house. I need you to go to the
+store and get some of that ice cream with the miniature pies in them.
+Homer: Uh, must have been one of our kids, probably Milhouse.
+
+Homer rushes through the streets to the Kwik-E-Mart and goes in. He goes up to
+Apu at the counter.
+
+Homer: Hey, Apu, give me a cola and I need another bucket of ice cream with 
+mini pies in them.
+Apu: What happened to the ice cream with mini pies your wife bought this 
+morning?
+Homer: I don't knw, I probably ate it, I don't remember things to good.
+
+Homer gets the stuff from the Kwik-E-Mart.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 2: LVL12
+=--=--=--=--=--=--=--=--=--=
+
+Homer rushes back home and goes up to Marge on the front lawn.
+
+Marge: Homie, Lisa left for school without her science project. Can you get it
+to her?
+Homer: Oh, do I have to?
+Marge: You can drop it off on your way to work.
+Homer: And I have to go to work?!
+
+Homer grabs the science project and races to the Elementary School. He gets 
+there before Principal Skinner does so he can get it to Lisa. Homer goes into
+the school and gives it to Lisa.
+
+Lisa: Thanks for bringing me my model of the disegtion system... hey, where's
+the gall bladder.
+Homer: Uh, I got hungry on the way over and it was a fig.
+Lisa: It was modelling clay! By the way dad, mom called, she needs to talk to
+you before you go to work.
+Homer: D'oh!
+
+=--=--=--=--=--=--=--=--=--=
+Mission 3: LVL13
+=--=--=--=--=--=--=--=--=--=
+
+Homer goes back home to talk to Marge inside the house.
+
+Marge: Homer, go talk to Ned Flanders, he seems mifted, and PO'ed.
+Homer: Why me, I'm the worlds greatest neighbor, I even have a mug to that 
+effect.
+
+Homer leaves his house and goes next door to talk to the mega religious Ned 
+Flanders on his front lawn.
+
+Ned: I'm all in a ditter Homer, so many of my possesions have dissapeared. I
+called the police to find the culprit.
+Homer: Culprit, eh.
+Ned: My lawn mower, my cooler, my lawn chair, a family portrait, even Rod's 
+inhaler, what kind of sick individual would take all of this stuff.
+Homer: (In his head) Oh no, I borrowed all of Flanders stuff, quick, think of
+an excuse to get out of here.
+Homer: Excuse me, I need to go chuck some corn.
+
+After finding two of Ned's stuff, Homer needs to find Ned's cooler.
+
+Homer: What's next. Ned's cooler, I gave it to Barney.
+
+Homer goes to a gas station where Barney is hanging out.
+
+Homer: Uh, remeber that cooler I gave you for your birthday? Well, Flanders 
+wants it back.
+Barney: Now what'll I use for a toilet?
+
+Homer grabs the cooler and continues grabbing Ned's stuff until he gets 
+everything. Homer then goes to Ned's house.
+
+Homer: Flanders, look I found your missing stuff. Now about the reward.
+Ned: Thanks neighbor-oony. Here's your reward, a prayer from the lord. Dear
+father in heaven, bless this kind oaf.
+Homer: Stupid Flanders getting happiness from religion.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 4: LVL14
+=--=--=--=--=--=--=--=--=--=
+
+Homer goes into the house to talk to Marge one more time before he goes to 
+work.
+
+Marge: Homie, you're late for work, and todays your workplace evaluation with
+Mr. Smither.
+Homer: Ah! He'll find my scorpion farm, then where will my scorpions live!?
+Only one person can help me, Lenny!
+
+Homer drives down to the Krusty Burger near the cemetary where he finds Lenny.
+
+Lenny: Hey, Homer, how about a breakfast churro?
+Homer: No time, tell me where I can find Mr. Smithers.
+Lenny: I think I saw him  at the Kwik-E-Mart. Oh well, more breakfast
+churros for Lenny!
+Homer: I'm gonna need a car with more junk in the trunk if I want to take him
+out. I wonder if Barney still has the Plow King.
+
+Homer goes across the street to Barney to get the Plow King.
+
+Homer: Barney, can I borrow the Plow King?
+Barney: Take what you want sexy lephrachan, just don't shoot me with that dart
+gun, ahhh.
+Homer: Whatever.
+
+Homer buys the Plow King for 150 coins and then heads down to the Kwik-E-Mart
+to destroy Smithers' car. He destroys it and then heads down to the power
+plant.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 4: LVL14
+=--=--=--=--=--=--=--=--=--=
+
+Homer goes into his little facility but he finds a camera in his office.
+
+Homer: How can I sleep with that camera? Ooh, sexy girls could be watching me
+on the internet! Stupid cameras, you should be smashed, I'll destroy you at 
+your power source! Hahahaha!!
+
+Homer goes and around the plant and destroys all of the power couplings. He
+goes back to his workstation.
+
+Homer: Finally I can get some sleep.
+Burns: (On a speaker) Mindless drones, return to your ugly families.
+Homer: D'oh
+
+Homer goes home and sits on his couch.
+
+=--=--=--=--=--=--=--=--=--=
+Movie 1: MOVE1
+=--=--=--=--=--=--=--=--=--=
+
+Brockman: The famous cartoon creator incarcentated in a verubian jail. In
+other news, local citizens are outraged over the discovery of surveleince 
+cameras throughout the town. We go now to city hall where Mayor Quimby is 
+feeling question from an angry mob.
+Quimby: These miniature cameras are an outrage. Spying on our womans' 
+dressing rooms, bathrooms, and lockerooms is unforgivable. I think I speak for
+all Springfielders when I say, where is the sexy footage?!
+Brockman: In other unexplained news, strange black vans have been appearing 
+all over town.
+Homer: Marge, that black van is spying on us.
+Marge: Oh, Homer, you're so sexy when you're paranoid.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 5: LVL15
+=--=--=--=--=--=--=--=--=--=
+
+Homer goes outside and chases the black van which leads to Mr. Burns.
+
+Homer: Oh, so Mr. Burns is behind all this. Spying is so like him that wrinkled
+old monkey skeleton.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 6: LVL16
+=--=--=--=--=--=--=--=--=--=
+
+Homer drives over to the grocery store and finds Marge at the front of store.
+
+Homer: Mr. burns is spying on everybody, we've got to follow him!
+Marge: Not now Homer, a new violent video game has hit the streets, and we need
+to get rid of it before it warps any children with its bloops and bleeps!
+Homer: But that game sounds awesome.
+Marge: And therefore should be destroyed.
+Homer: I guess.
+
+Marge and Homer collect the Bonestorm games and go back home.
+
+Marge: If only kids would play more video games about sharing.
+Homer: Marge you know I have more crazy plans, now if you'll excuse, me I have
+to go spy on my boss.
+Marge: Hmmm.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 7: LVL17
+=--=--=--=--=--=--=--=--=--=
+
+Homer drives back the the power plant and he goes to Carl in the parking lot.
+
+Carl: Hey Homer, you look like you're having one of your trademark adventures.
+Homer: Danger... Mr. Burns... mini cameras... black vans!
+Carl: Whoa, good thing I'm drunk!
+Homer: Stupid drunk, oh no, he's going to warn Burns. I can't believe I'm 
+racing the same guy twice in one day.
+
+Homer gets to Mr. Burns before Smithers.
+
+Homer: C. Montgomery Burns, I know you're guilty accused... Sir.
+Burns: Fine I admit it, I had a plane shot down. Aunt Hussy was getting to big
+for her choppers.
+Homer: No, you're spying on Springfield with your black vans and cameras.
+Burns: black vans, arent they connected to some pizza concern.
+Homer: What!? They were only pizza vans. Ohh, I'm a class five idiot.
+Burns: Smithers, release the hounds, and if this oaf is an employee of the 
+plant, fire him at once.
+
+//////////////////////////////
+Level 2
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+=--=--=--=--=--=--=--=--=--=
+Mission 1: LVL21
+=--=--=--=--=--=--=--=--=--=
+
+Bart is standing in front of the statue of the founder of Springfield. Milhouse
+is standing next to it.
+
+Bart: I need to get the new Bonestorm or I'll be as uncool as Milhouse.
+Milhouse: I'm standing right here Bart.
+Bart: Hey hey, that's great.
+Milhouse: You better get out of here Bart, Prncipal Skinner is looking for
+everyone who skipped school today. And when you're caught, it's expulsion, 
+Bart, expulsion!!
+
+Bart gets into his car and drives to the Try-N-Save but not after dodging
+Mr. Skinner. Jimbo is standing at the front of the store.
+
+Jimbo: To late losers, I got the last game! Some crazy lady destroyed all the 
+rest.
+Bart: Oh when will people learn that video games don't kill people, they just 
+kills there minds.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 2: LVL22
+=--=--=--=--=--=--=--=--=--=
+
+Bart goes around the corner to Herman's where Kearney is hanging out.
+
+Bart: How am I gonna get that new game?
+Kearney: Who cares? Video games are so late 90s. Illegal fireworks are all the
+rage now. Better make it snappy though if you want to be apart of this trend.
+
+Bart then drives to Moe's where Otto is hanging out outside the store.
+
+Bart: One box of your finest quality chinese frog loggers.
+Otto: Here you go, toquilas and chinese sky candies, they'll blow you away!
+
+Bart grabs the stuff and then heads into the bar.
+
+Moe: Sorry Bart, I can't sell booze to a minor, it ain't right.
+Bart: I'm here about fireworks
+Moe: Oh he** yeah!
+
+Bart gets the fireworks from Moe and then heads over to Town Hall to talk to
+Snake.
+
+Bart: One dozen of your best tiowana fire crackers!
+Snake: Here you go kid dude, don't blow your hand off, or do, what do I care!
+
+Bart grabs more fireworks and then he goes down to the Police Station to talk
+to Ralph.
+
+Bart: Ralph, word in the hood is that you have access to your dad's fireworks 
+stash.
+Ralph: Fireworks make my ears yell!
+Bart: Here's some gum drops, now make with the works!
+Ralph: My daddy's gonna put you in jail.
+
+What do you know, right after Bart collects the fireworks, the police across
+the street comes after Bart. Bart gets in his car and loses the cops.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 3: LVL23
+=--=--=--=--=--=--=--=--=--=
+
+Bart drives down to the Googoplex to talk to the one and only, Comic Book Guy.
+
+Bart: Hey, chocolate and fat, you know where I can get a copy of Bonestorm 2?
+Comic Book Guy: Yes, I have no time to converse with you, I must be first to
+register my disgust on the internet regarding the new McBane film. The action
+was dismal and the nudity was frustratingly fleeting. I barely got going.
+Bart: Quick, to the fat-mobile, hahaha!!
+Comic Book Guy: Yes, I suppose, but must we call it that?
+
+Comic Book Guy and Bart get to the Java Server before the nerd.
+
+Comic Book Guy: I am happy to report that your quest for Bonestorm 2 is quite
+futile. Proffesor Frink posted a message on my news group, 
+alt.furryanimals.fanfiction.net, that he has bought up all of the remaining 
+games.
+Bart: Ohhh.
+Comic Book Guy: I thank you not moan in my mid-sized vehicle.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 4: LVL24
+=--=--=--=--=--=--=--=--=--=
+
+Bart must go talk to Proffesor Frink so, he goes down to the stadium where 
+Frink is hanging out.
+
+Bart: I gotta play Bonestorm 2, gimme one!!
+Frink: No can do my pointy headed friend, I need the power of video game
+violence to run my latest invention-slash-monster. If you find me a
+World War II communication radio and a sattelite, then my creation will live,
+and we can play with it and enjoy the frollicking.
+Bart: Ohh, cool, real violence is way better than TV violence! It's like a 
+level boss come to life. Now who would have a World War II radio? That
+guy that sells all those grenades to Nelson might! I better check.
+
+Bart gets in his car and follows one of the black pizza vans to Chief Wiggum.
+
+Bart: Hey, Springfield's lamest, what's the deal?
+Chief Wiggum: Didn't you hear? Herman's been robbed, do you know who did it, 
+'cause if you did, boy that would be great.
+Bart: Oh no, now where am I gonna get a radio?
+Chief Wiggum: These fresh skid marks leading away from the scene of the crime 
+could be a clue but whose to say, really?
+
+Bart follows the clues which lead him to the highway where Snake is standing
+in the middle of the road.
+
+Bart: Hey Snake, what's up.
+Snake: Um, do I know you little dude?
+Bart: I need that radio you "borrowed".
+Snake: No way litle dude this radio is gonna help me score bodacious chicks!
+Bart: uh, last time I checked, chicks liked fast cars not old electronics. Why 
+don't we race for the radio!
+Snake: Oh i totally agree to your proposal!
+
+Bart and Snake race and what do you know, Bart wins! He gets the stuff from
+good ol' Snake and now he needs a satellite.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 5: LVL25
+=--=--=--=--=--=--=--=--=--=
+
+Bart drives over to the Krusty Burger to find white trash.
+
+Bart: Hey there mister slack-jawed yokal!
+Cletus: That be I.
+Bart: Can i borrow your sattelite dish?
+Cletus: Sure, if you help me scoop up my flat meat, soffisticated city 
+youngster. Those darn revenuers don't like me selling road kill.
+
+After grabbing all of the dead animals and gettng away from Apu, Bart and 
+Cletus deliver the meat.
+
+Bart: Krusty Burgers are made out of road kill? That explains the tire tracks.
+Cletus: Take this sattelite as a reward. She gets 14 channels including the 
+outhouse channel, I love wathcing that!
+Bart: Thanks, hillbilly.
+Cletus: Twas nothing.
+
+Bart grabs the final piece he needs, the sattelite.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 6: LVL26
+=--=--=--=--=--=--=--=--=--=
+
+Bart heads down to the stadium to talk to Proffessor Frink.
+
+Frink: You expect me to complete a Mark 10 Truckosorous without a blender.
+Why don't I just make a Plasma Blade without a tennis racket, for claving sake. 
+Now fetch me a blender with the purey and the frapey and liquidfey.
+Bart: Now where a I gonna get a blender... oh, Doctor Nick, he loves blending
+drinks during surgery!
+
+Bart heads down to the Screaming Monkey Medical Research Center to talk to 
+Doctor Nick.
+
+Bart: Hi Doctor Nick
+Dr. Nick: Hi everbody
+Bart: You seem like a heavy drinker, do you have a blender?
+Dr. Nick: Nope, no ok, my monkeys have escaped, can you catch them for me, 
+I'll be so grateful.
+Bart: Why wont they come back to you.
+Dr. Nick: Because, I have tortured them horribly, silly!
+Bart: There's no way I'll be able to fit all of those monkeys into my car. I
+better get a big truck or something.
+
+Bart drives over to Homer in the hospital's parking lot.
+
+Bart: I need your truck Homer.
+Homer: Why should I give you that?
+Bart: Because I love you.
+Homer: Hahaha, pay up, sucker!
+Bart: You're charging your own son?
+Homer: Yeah, guess I am.
+
+Bart buys the Mr. Plow for 200 coins and collects 30 monkeys from the streets.
+He then takes them to Dr. Nick.
+
+Dr. Nick.: Welcome home, daddy's little angels. Now to put electrodes in your 
+brains!
+
+Bart grabs the blender from Dr. Nick.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 7: LVL27
+=--=--=--=--=--=--=--=--=--=
+
+Bart jets over to the stadium to give Proffesor Frink his blender.
+
+Bart: Here's your last doo-dad, so can I see the Truckosorous thing.
+Frink: Yes... is a word I would love to be able to say. Unfourtunatly, there 
+are too many people using cellphones and the interference would then cause the 
+monster to malfunction and kill many people. And my insurance is already sky
+high with the premiums and shmemiums.
+
+Bart goes out onto the streets and destroys cars with cell phone users in them.
+After that, Bart heads down to the stadium to witness the Truckosorous.
+
+Frink: Well done my little sociopath!
+Bart: I like to smash
+Frink: Now my robot will not go on a killing rampage with the screaming and the 
+sadness and the blood on the robot.
+
+=--=--=--=--=--=--=--=--=--=
+Movie 2: MOVE2
+=--=--=--=--=--=--=--=--=--=
+
+Bart watches the robot/monster from his car.
+
+Bart: Wow, Truckosorous is some kind of truck-slash-dinosour! I would've never 
+guessed.
+
+The robot/monster suddenly looks at Bart.
+
+Bart: Uh oh.
+
+Bart drives away quickly after the robot/monster spews out fire. He gets out
+of the stadium in the nick of time.
+
+Bart: Yes! Everybody do the Bart Man!
+
+Suddenly, a green, bright light surrounds Bart and makes Bart dissapear.
+
+//////////////////////////////
+Level 3
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+=--=--=--=--=--=--=--=--=--=
+Mission 1: LVL31
+=--=--=--=--=--=--=--=--=--= 
+
+Lisa is standing outside of the comic book store during the evening. She goes
+inside the lair.
+
+Lisa: I need to find my stupid brother, have you seen him?
+Comic Book Guy: Yes, yes, can't talk now, I must get the last copy of the new
+Itchy and Scratchy Adventures comic. It's the controversial issue in which
+they finally kiss! Assist me and I will aid you with your delema.
+
+Lisa and the Comic Book Guy race the nerd to the boardwalk. Of course, Lisa
+and the Comica Book Guy win and they get the comic. But wait, Lisa must
+get back to the comic store before the comic becomes Near Mint Condition! She
+gets back on time.
+
+Comic Book Guy: Now to get this inky treasure into its milarch sancuary.
+Lisa: What about my brother, you said you saw him.
+Comic Book Guy: I think I saw him at the Noiseland Arcade. Ah videogames, what 
+a waste of money. Now to go online and bid 1000 dollars for an Itchy and 
+Scratchy corn-cob holders. Excellent, excellent buy.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 2: LVL32
+=--=--=--=--=--=--=--=--=--= 
+
+Lisa heads to the Noiseland Arcade. Milhouse is standing outside on the parking
+lot.
+
+Lisa: Milhouse! Has Bart been here?
+Milhouse: Uh, I haven't seen him. Hey, can I buy you a frozen yogurt? I'll
+throw in two dry toppings or one wet topping.
+Lisa: Bart's dissapeared, you have to help me find him.
+Milhouse: Well, he might be a Wall E. Weasel's. He likes the smell of the ball
+cage.
+
+Lisa goes to Wall E. Weasel's but all she finds is Milhouse.
+
+Lisa: Milhouse? What are you doing here?
+Milhouse: Lisa, what a coincidence! Hey, is that a new dress?
+Lisa: No, I've been wearing this dress for years! Now, where's Bart?
+Milhouse: (Sigh)I think he's at the Planet Hype.
+
+Lisa drives down to the Planet Hype and what do you know, Milhouse is there.
+
+Milhouse: Oh hi Lisa, fancy meeting you here.
+Lisa: Stop following me!
+Milhouse: I think Bart's out at the Springfield sign. Perhaps you'd like to 
+share some chewing gum.
+
+Lisa heads out to the Springfield sign and of course, Milhouse is there.
+
+Milhouse: Hi Lisa, my your hair looks pointy today.
+Lisa: Milhouse, have you seen Bart or not?!
+Milhouse: So Lisa, do you have a date for the dance.
+Lisa: This isn't a good time!
+Milhouse: It's never a good time!!
+Lisa: Bart always hangs out at the Kwik-E-Mart, maybe Apu has seen him.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 3: LVL33
+=--=--=--=--=--=--=--=--=--= 
+
+Lisa heads to the Krusty Burger were she finds Apu.
+
+Apu: Oh, this is terrible. A very bad man is delivering road kill to all the
+Krusty Burgers which are cheaper than my Kwik-E-Dogs!
+
+Apu and Lisa go after the road kill collector to steal their road kill. After
+they're finished with him, they head to the observatory to see Proffesor Frink.
+
+Lisa: Proffessor Frink, Proffessor Frink!! My brother, Bart, is missing. Have 
+you seen him?
+Frink: Well, let's see now, Bart helped me build a monster and then he 
+dissapeared into a bright light.
+Lisa: Wow! This is crazy. I need someone to talk to that is wise and learned.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 4: LVL34
+=--=--=--=--=--=--=--=--=--= 
+
+Lisa goes outside and finds Grandpa right outside the entrance.
+
+Lisa: Grandpa, can you help me find Bart, he's missing.
+Grandpa: Maybe I'm just a seanile old man, but Bart's lucky red hat fell out of
+that black car.
+Lisa: Wow, Grandpa, what a great clue. You showed why senior citizens are 
+valuable members of the community.
+Grandpa: I think my baby teeth are growing back, that's why I had to punch
+that nurse.
+Lisa: I better get something big if I want to take that car out, like that
+School Bus.
+
+Lisa drives down to Kamp Krusty to buy a School Bus off of Otto.
+
+Lisa: Otto, I know I'm a little young to be asking this...
+Otto: Look, I don't have any special brownies left, I ate them all.
+Lisa: But do you think I can use your school bus.
+Otto: Oh, right, cool. Meet my price and she's all yours, little lady!
+
+Lisa goes around and destroys the Black Sedans after she collects the red hat
+from the Observatory. The car was empty.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 5: LVL35
+=--=--=--=--=--=--=--=--=--= 
+
+After destroying the black sedan, Lisa goes to Mr. Burns' casino where she 
+finds Chief Wiggum.
+
+Lisa: Excuse me, Chief Wiggum, can you help? I've gotta find my brother.
+Chief Wiggum: Uh, sorry little girl, I'm busy collecting evidence on Jailbird.
+We're busting him on three strikes law.
+Lisa: How many strikes do you have so far?
+Chief Wiggum: Uhh, no strikes, but that's only because I'm very, very bad cop.
+Now, first of all, if you're gonna go undercover, you are gonna need a 
+disguise.
+Lisa: You mean like an eye patch?
+Chief Wiggum: Hey, good one, if we could afford a disguise like that, I 
+wouldn't be payed in potato chip coupons.
+Lisa: So, what disguise do you have?
+Chief Wiggum: Well, here's one of Ralph's old Holloween costumes.
+Lisa: Fine, wait her so I can get changed.
+
+Lisa buys Cool clothes for 250 coins and then comes back to the casino and
+gets into the cop car. She then rides behind Snake to get evidence. She
+grabs a pair of jeans.
+
+Chief Wiggum: Strike one: counterfeit designer jeans, the foulest of crimes.
+
+She grabs something else.
+
+Chief Wiggum: Strike two: running over an elderly person without a license.
+
+Lisa gets the next thing and after that, they head back to the casino.
+
+Chief Wiggum: And strike three, littering. Alright, we got all the evidence
+we need on this low-life. Now, about your brother. I've seen lots of mysterious
+goverment types over at the docks. Maybe they sent him on a cruise. They got 
+some good deals these days.
+Lisa: Thanks Chief Wiggum, you are a good cop.
+Chief Wiggum: Aw, you're just saying that!
+Lisa: Yes I am!
+
+=--=--=--=--=--=--=--=--=--=
+Mission 6: LVL36
+=--=--=--=--=--=--=--=--=--= 
+
+Lisa goes down to the docks and to a stand owned by non other than the Sea 
+Captain.
+
+Lisa: Chief Wiggum said that there were strange stuff going on around here.
+Have you noticed anything weird? You know, black sedans, guys with dark 
+glasses.
+Sea Captain: Yargh, maybe I seen something, and maybe I haven't. Render me a
+favor and it might jar me memory.
+Lisa: What favor?
+Sea Captain: I've got a shipment here of live macrone. Can ye navigate the 
+fishies to the finest restaraunts in the fish port.
+Lisa: Those poor fish, I mean, sure I'll help.
+
+Lisa drives around and collects the fish. 
+
+=--=--=--=--=--=--=--=--=--=
+Mission 7: LVL37
+=--=--=--=--=--=--=--=--=--= 
+
+After she's done that, she goes back to the Sea Captain's stand.
+
+Sea Captain: Argh, thanks for delivering me catch of the day. Now, I can tell
+ye, I saw your brother.
+Lisa: Really?! That's great.
+Sea Captain: Aye, he was in a long, black limo and... ahoy, there she drove!
+
+Lisa gets in her car and destroys the black limo.
+
+Lisa: Oh god, I destroyed the limo and killed bart!
+Sea Captain: Haha, no murder ye be, he got out of the limo and boarded a ship.
+Lisa: Oh thank you, can you take me there?
+Sea Captain: No, I hate the sea.
+
+Lisa goes to the ship and jumps on to it. She finds Bart.
+
+Lisa: Bart, I found you.
+Bart: (Talks giberish)
+Lisa: Bart, Bart, snap out of it!
+Bart: (More gibersih)
+Lisa: What's your favorite catch phrase?!
+Bart: Kiss my grits! (More giberish)
+Lisa: It's no use, his brain is even worse than usual. I'll have to take him 
+home
+
+//////////////////////////////
+Level 4
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+=--=--=--=--=--=--=--=--=--=
+Mission 1: LVL41
+=--=--=--=--=--=--=--=--=--= 
+
+Marge is at home. It's night time out. Bart's standing in the living room,
+still screwed up.
+
+Bart: (Speaks more giberish)
+Marge: Oh, oh Bart, what's causing your ooga-booga talk? My special little
+guys noodle has turned to google. The whole town's gone nuts. Security cameras,
+mysterious vans, crop circles. There's got to be a connection. Maybe the police
+know something.
+
+Marge goes outside and gets in her vehicle. She then chases the cop car to
+the donut shop. Chief Wiggum is outside.
+
+Marge: Chief Wiggum, I need you to find out what happened to Bart. Can you 
+show me where the crop circle is? There's got to be a clue to curing Bart.
+Chief Wiggum: Oh, that's cute. I'd love to help, but I have sugar withdraw 
+real bad, the donut shop is closed and I've got a monkey on my back 
+screaming for crawlers. Oh, he's screaming.
+
+Marge goes after a donut van. She gets 10 donuts from it and then, rushes back
+to the Chief.
+
+Chief Wiggum: Boy for a busy body house wife, you sure get results. That crop 
+cirlce's at Cletus' shack. Now, if you'll excuse me, I have a truck load of 
+donuts to eat. I'm gonna need a lot of coffee, hehe.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 2: LVL42
+=--=--=--=--=--=--=--=--=--= 
+
+Marge heads over to Cletus' dirty ol' house. Cletus is standing in front of the
+house.
+
+Marge: Excuse me...
+Cletus: I don't care if you is from New York, you ain't taking pictures of
+out decrappetude for no magazine, no way.
+Marge: No, Cletus, it's me, Marge... Marge!!
+
+Marge chases Cletus and picks up the things that fall of his truck.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 3: LVL43
+=--=--=--=--=--=--=--=--=--=  
+
+Marge and Cletus pull into a gas station.
+
+Marge: You've got to help me. I have to find out what happened to my baby boy.
+Cletus: Oh, I'm sorry, I thought you was a city slicker, but I ain't telling
+you nothing, unless you help us with the harvest.
+Marge: Harvest? If I'm gonna be doing yard work, I better change or my next 
+"mission" will be to get mud stains out of green yarn.
+
+Cletus: Now about your queery, my grandaddy saw one of your corn drawings once 
+but he's wth ala now. You should ask around with other folks about it. Maybe 
+try around the graveyard or something.
+Marge: Thanks Cletus!
+Cletus: Twas nothing.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 4: LVL44
+=--=--=--=--=--=--=--=--=--=
+
+Marge heads over to the cemetary to find Hans Moleman.
+
+Marge: Um, excuse me Hans Moleman, can you help me?
+Hans: Shh, I'm hidding from the police. If the police find me out past curfue 
+they'll throw me in jail. I won't survive another night in jail. 
+Marge: Well, I was wondering if you've ever seen a crop circle?
+Hans: Talk to Abe, he mentioned crop circles once. Hurry up and get to the home
+before the police lock the doors.
+
+Marge races down to the Retirement Castle near the gas station. Abe Simpson
+is standing outside of the home.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 5: LVL45
+=--=--=--=--=--=--=--=--=--= 
+
+Abe Simpson is standing outside of the home.
+
+Marge: Grandpa, do you know anything about crop circles?
+Grandpa: What, huh, I can't tell you about crop circles now, those lowsy 
+renegades stole my pills. Without my Agralieve, I'll start bitting nurses. You
+don't need a lawsuit you gosh darn... crop... circles... Agrilieve...
+Marge: Oh dear!
+
+Marge jets to the school and finds Nelson on the baseball field at the back of
+the school.
+
+Marge: How can you hooligans steal an old mans medications? You give them back
+right now!
+Nelson: Oh, we traded them to some dudes in a black car for some PlayDudes. 
+Check it out, man, this one has an interview with the guy who invented the 
+Wa-Wa-Panel.
+Marge: Hmmm.
+
+Marge gets back into her car and goes to the front of the school to find the 
+black sedan. She chases the car and collects the pills that fall out of it.
+After she gets all ten pills, she heads back to the Retirement Castle but
+gets chased by another black sedan. After shaking the car, Marge finally
+gets back to the Retirement Castle.
+
+Marge: Here's your crazy medicine Grandpa.
+Grandpa: Hot diggity, sweet medication, gimme, gimme, gimme!!(snore)
+Marge: Oh great, now I need something to wake him up.
+
+Marge goes to the Kwik-E-Mart and buys caffeine pills for Grandpa. She then
+heads back to the Retirement Castle.
+
+=--=--=--=--=--=--=--=--=--=
+Movie 3: MOVE3
+=--=--=--=--=--=--=--=--=--=
+
+Marge: Maybe these will jog your memory.
+Grandpa: Ah what. 
+Marge: For the last freaking time, tell me about the crop circles!
+Grandpa: There I was surrounded by Tojo and his Nazi henchman when one of 
+them, a racoon as I recall, hits me with a banjo. Now, I never reasoned with 
+a racoon before, let alone a Nazi one, so I...
+Marge: Grandpa, what does this have to do with crop circles!?
+Grandpa: Not a thing, now
+Marge: Crop circles!
+Grandpa: Ok, I have to tell it in C P Oton. As I recall it was kind of a
+cosmic thing. A planet with an attena at the top of it.
+Marge: A planet with an attena? That sounds awfully familiar. I think it was 
+at the Kwik-E-Mart that's it, it was a bottle of pop. Maybe that will jog 
+Bart's memory.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 6: LVL46
+=--=--=--=--=--=--=--=--=--= 
+
+Marge goes to her house and heads up into Bart's bedroom.
+
+Marge: Bart, do you recognize this design?
+Bart: (Some giberish) That's the alien mind control cola, they gave us tons 
+of that up in the alien spaceship. There using it to make the town go crazy.
+Marge: Oh thank god, you've snapped out of your trance. I was so worried.
+Bart: Later, I'm going to the arcade.
+Marge: This conspiracy goes all the way to the top. I'm gonna need a little
+extra fire power, as Officer Marge!
+
+Marge purchases a Police outfit for 400 coins. She then looks at herself in
+Bart's mirror. Marge then rushes out of Bart's room and then goes around the 
+town, collecting poisonous cola. After she collects them all, a whopping 30,
+she heads into the Kwik-E-Mart to talk to Apu about this situation.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 7: LVL47
+=--=--=--=--=--=--=--=--=--= 
+
+Marge: Apu, I think you should be aware that you're selling a tainted cola.
+Where's this stuff coming from?
+Apu: Oh, there is little here not tainted in some way. Even the astroligies 
+grow give poor advice. But I will get to the bottom of this.
+Marge: Well, it made Bart go crazy and if I find the distributer, I'm gonna 
+give them a piece of my mind.
+Apu: Careful Mrs. Simpsons this cola makes people do errational things 
+without guilt. It's as though they have bottled the effects of a raging frat
+kegger.
+Marge: That's it, I'm going after them and any other evil cola trucks I find.
+
+Marge goes head-to-head with the Buzz Cola trucks and she wins. She destroys
+all of the trucks. But Chief Wiggum doesn't like that to much. He needs the
+cola. So, Wiggum chases after Marge but Marge loses him and after that, she
+heads home.
+
+//////////////////////////////
+Level 5
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+=--=--=--=--=--=--=--=--=--=
+Mission 1: LVL51
+=--=--=--=--=--=--=--=--=--=
+
+Apu is standing on the sidewalk at night. He gets into his vehicle and drives
+to the train yard to a certain location.
+
+Apu: Oh, I've been selling tainted cola. Unless I redeam myself, I will be
+reincarnated as a sea cucumber, or worse, a land cucumber.! I must find the
+source of this evil beverage. The soda in-voice commanded I come here but I
+see no cola factory. Ooh, a cola truck. Time for me to do the hindoo that I do!
+
+Apu follows the van and collects boxes dropped by the van as well. The van 
+leads to the mobs place. Louie is standing outside.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 2: LVL52
+=--=--=--=--=--=--=--=--=--=
+
+Apu: Hello stereo-typical Italian. Pleased to tell me the source of the evil
+cola.
+Louie: We don't know nothing... except that the vans are controlled by 
+mysterious strangers. Anyway, you shouldn't snip your nose into other people's
+business. It could come back to haunt you... and you're family.
+Apu: Oh my gosh, you're threat has reminded me of my fatherly duties. I'm
+supposed to pick up the otoplets at the hospital.
+
+Apu drives to the hospital but not without the mob getting in his way. Apu
+gets away form them and gets to the hospital where the doctor is standing 
+outside.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 3: LVL53
+=--=--=--=--=--=--=--=--=--=
+
+Dr. Hibbert: I'm afraid we have a medical emergency.
+Apu: Oh no, my babies!
+Dr. Hibbert: You're babies are about to go to the bathroom all over my waiting
+room and diapers aren't covered by your insurance. Ooh, you better hurry, I 
+heard the parents of the Shellbyville 9 are grabbing every diaper in town.
+Apu: I will get the diapers but there is no way I'll be able to fit them in my
+car. Maybe Mr. Homer will have a gas-guzzling American vehicle that I can use.
+
+Apu goes over to the hospital parking lot where Homer is.
+
+Apu: Mr. Homer, sir, do you have a over-sized vehicle that I might be 
+borrowing?
+Homer: Borrowing, no, selling to you at an insanely high price, yes.
+
+Apu gets the car for 500 coins and then rams the Shellbyville van until it
+drop 10 daipers. After that, Apu races back to the hospital to give the diapers
+to Dr. Hibbert.
+
+Apu: Quickly, cover my incotenent baby's tooshies!
+Dr. Hibbert: Whoa, that was close, another minute and my office would look 
+like the Gansees River.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 4: LVL54
+=--=--=--=--=--=--=--=--=--=
+
+Apu drives over to the Krust Burger where Krusty is standing outside.
+
+Apu: Hello famous, American clown, I wish to ask a favor.
+Krusty: Everyone wants to wet their beacks, uhhh.
+Apu: I require information about trucks delivering evil cola. How can I get 
+this classified data?
+Krusty: Sorry, Apu, I'm a drink, squeezy, punchy low-life. You need a 
+proffesional scumbag. Follow a cop until you find one. You'll have better luck
+if ya, you know, look American.
+Apu: Thank you, horrible man.
+
+Apu goes out and buys an American outfit for 425 coins and comes back to the 
+Krusty Burger. He then looks at himself in the window of the Krusty Burger.
+Apu follows a trail of donuts across town until he finds a the cop car. He then
+follows it across town to Snake at the DMV.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 5: LVL55
+=--=--=--=--=--=--=--=--=--=
+
+Snake: Hand over your wallet, dude, this is totally a mugging.
+Apu: What good luck, a criminal.
+Snake: Huh?
+Apu: Well surely a violent, filth bag such as yourself could find out who is 
+driving the black cola vans.
+Snake: Well, I do have a connection with the DMV but it will cost you. You have
+to pick up the litter for my community service.
+Apu: It is a deal.
+Snake: Deal, now hand over your wallet.
+Apu: Yes, yes, whatever.
+
+Apu follows a dump truck and collects trash that falls off of it. After that, 
+he runs areound town collecting trash. After he collects everything, he drives 
+back to the DMV where Snake is waiting.
+
+Snake: My friend has the information in the DMV.
+Apu: Oh thank you, thank you my violent associate.
+
+Apu goes inside the DMV and collects the information in a folder at the front 
+desk.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 6: LVL56
+=--=--=--=--=--=--=--=--=--=
+
+Apu goes back outside to talk to Snake.
+
+Apu: Sir, this folder is empty! To rob me is one thing but I never expected
+you to lie!
+Snake: Dude relax, ok. I got the info you need. I just need help on some more
+community service. Haha, I am totally evil.
+Apu: I should no better to trust a demented jucko but ok.
+
+Apu: If you do not tell me who operates these vans than I will be forced to 
+use profanity.
+Snake: Ok, ok, chill, dude. The museum runs them.
+Apu: The museum? This adventure gets more exciting than the last!
+
+=--=--=--=--=--=--=--=--=--=
+Mission 7: LVL57
+=--=--=--=--=--=--=--=--=--=
+
+Apu drives over to the bookstore near Moe's where Bart is hanging out.
+
+Apu: Oh Mr. Bart, I have discovered that the evil cola is being made in the
+Springfield museum.
+Bart: But that closes in five minutes!
+Apu: And my car is out of gas!
+Bart: Just fill it up at the Kwik-E-Mart.
+Apu: With those prices, no way!
+Bart: Fine, we'll take my car.
+
+Bart and Apu drive to the museum but the curator is leaving. So they destroy
+the curators car, grab the key, and go back to the museum.
+
+=--=--=--=--=--=--=--=--=--=
+Movie 4: MOVE4
+=--=--=--=--=--=--=--=--=--=
+
+I never thought I'd say this, but I'm actually excited to go to the museum!
+Apu: Sheba, the cola is dripping from that meteor!
+Bart: Cool, free deadly cola.
+
+The cola that's dripping from the meteor goes into the T-Rex's nose. That 
+causes the dinosaur to come back to life. It's eyes are glowing bright red. 
+Bart and Apu begin to back away when suddenly, Bart trips on the cord powering
+the meteor and it destroys the meteor and the T-Rex.
+
+Apu: We did it! We destroyed a pricless, archiological artifact.
+Bart: What we? I did all the driving!
+Apu: Let's find out who's behind all this strange cola businness.
+
+Apu and Bart are inside a large vent and they're at the end of it where the
+gate is. They see two aliens.
+
+Bart: I know it's a cliche but, acurmuba.
+
+Kang: Kodas, look at these space ratings for "Foolish Earthlings".
+Kodas: What happened Kaing, "Foolish Earthlings" used to be the Number One 
+reality show in the galaxy. Space viewers couldn't get enough of these humans 
+and their behavior.
+Kang: Our show is down in all key demos.
+Kodas: But our show concept was so perfect. We film these idiotic bipeds with 
+hidden cameras and beam it into every television in the galaxy.
+
+A TV with the Point of View of one of the bee cameras shows Willie stepping on
+a rake and getting hit in the face by it.
+
+Willie: I'll cover your mockers!
+Apu: These aliens have been secretly filming an intergalactic reality show in 
+Springfield.
+Bart: I knew there was a simple explanation.
+Kang: I'm going to intruduce the evil cola into the water supply. People will 
+go mad!
+Kodas: I like it!
+Kang: Then we distribute laser guns at the Squidport tourist area!
+Kodas: I like it!
+Kang: The cola madden humans will go beserk...
+Kodas: I like it
+Kang: Destroying themselves and their town!
+Kodas: Delivering big, big space ratings for "Foolish Earthlings" 
+Kodas and Kaing: Hahahahaha!!
+Apu: We have got to prevent the aliens from distributing laser guns into the 
+hands of cola drunk townspeople.
+Bart: Why that sounds hillarious, I'd watch that show!
+Apu: I'll tell you what you're a bad little boy.
+
+//////////////////////////////
+Level 6
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+=--=--=--=--=--=--=--=--=--=
+Mission 1: LVL61
+=--=--=--=--=--=--=--=--=--=
+
+Bart is outside the video arcade at with Apu. It's night out.
+
+Bart: Apu, you've got to help me warn Krusty of this alien plot, and thus 
+saving the good people of Springfield.
+Apu: I'm sorry sir but I cannot speak English, I can only speak Heindi.
+Bart: But you're speaking English now.
+Apu: Yes, I learned these words phonetically.
+Bart: Your just scared about getting vaproized by the space monsters. 
+Apu: Up, down, up, down, go hot dog, button your undershirt, blah, blah, blah.
+
+Bart goes over to Otto who is outside of the arcade also.
+
+Bart: Otto man, I need a ride.
+Otto: No can do, little dude. I gotta round up these other little dudes and get
+them to KrustLu for the studio tour.
+Bart: That's where I need to go. Step on it, Otto.
+Otto: Ok right after I drop these kids off at KrustyLu.
+Bart: Otto, I just said.
+Otto: Ok, stop hassling me midget Abraham Lincoln.
+
+Otto and Bart drive the bus and pick up the kids waiting to get to the studio
+tour at KrustyLu. They get them all and then they jet over to KrustyLu.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 2: LVL62
+=--=--=--=--=--=--=--=--=--=
+
+Barney working at the studios and he's outside.
+
+Bart: Barney, where's Krusty? I have to warn him.
+Barney: Krusty's not here, Little Homer, he's down at the Squidport, doing a
+promo for this new Buzz Cola.
+Bart: But that's the cola the aliens are using to control all human behavior.
+Barney: Control human behavior? No beverage can do that. Oh no, I haven't had a 
+Duff in two hours, my life is over! Ohhhhh!!
+Bart: But I have to get to Krusty before the limo does.
+Barney: And I have to stay here and go through the DT's.
+Bart: Sounds like a plan.
+
+Bart gets into his car and follows a truck to the observatory where Krusty's 
+limo is at. Bart tries to talk to the driver but he drives away. After that,
+Bart races the limo to the board walk where Krusty's at. Bart gets there before
+the limo does.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 3: LVL63
+=--=--=--=--=--=--=--=--=--=
+
+Bart: Krusty, listen carefully, aliens are handing out free laser guns 
+and cola that makes you go crazy. It'll be a massacre, the streets will be
+littered with lasered-off limbs and heads.
+Krusty: Yeah right, and I'm getting into the Country Western Hall of Fame. It
+just ain't gonna happen, kid.
+Bart: Oh, I just gotta find evidence. Who do I know that's smart enough to 
+prove this alien conspiracy? Bumblebee Man, Comic Book Guy, Disco Stew, that's 
+it a! A nerd, Proffesor Frink!
+
+Bart chases the cloaked-car and it leads back to the observatory.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 4: LVL64
+=--=--=--=--=--=--=--=--=--=
+
+Bart goes inside the observatory to find Proffesor Frink.
+
+Bart: Proffesor Frink! You've gotta help me, no one believes my story, it's
+just just like "The Boy Who Cried Wolf" except, instead of a wolf, it's an 
+alien conspiracy!
+Frink: Aliens? That would explain the strange transmissions from my Plutonium
+C-B Radio. I must've intercepted an alien message. It says they're hiding the 
+lasers in the dump truck. Bla, ho, ya, the plot is congriluted now.
+Bart: Relax, nerd layer, I'll knock the lasers out of the trucks so I can show
+them to Krusty.
+
+Bart leaves rhe observatory and gets in his car. He drives to the Duff Brewery
+and follows a dump truck from there. He rams the truck to get some laser guns.
+After he collects six of them, he goes back to the Duff Brewery and heads to 
+the back to get a laser gun to show Krusty as proof.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 5: LVL65
+=--=--=--=--=--=--=--=--=--=
+
+Bart drives to the taffy shop to find Principal Skinner.
+
+Bart: Principal Skinner, aliens are distributing deadly lasers all over 
+Springfield. We've gotta warn everybody.
+Skinner: All we've gotta do, young man, is get that eliscit goo-god of your 
+hands. Clearly you forgot the the schools zero-tolerance policy of lasers.
+
+Skinner takes Bart's laser gun and drives away. But Bart goes after him and
+destroys his car. He then takes the gun back.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 6: LVL66
+=--=--=--=--=--=--=--=--=--=
+
+Bart heads down to Krustylu Studios to talk to Krusty who is outside.
+
+Bart: Krusty, I have proof now! See this laser gun? 
+Krusty: Well what do you know, you were telling the truth. You've tought this 
+old clown a lesson. Uh, blah, blah, blah, excetera, excetera, stay in school.
+I just wish you told me before I let them set up those free laser gun stands.
+Bart: Oh man, I better get some heavy artillery if I'm gonna take out thatmuch private property. Hmm, Kearney should have something.
+
+Bart goes over to Kearney who is right nearby.
+
+Bart: Hey Kearney, I need to do a lot of collaterall damage in the minimum 
+amount of time.
+Kearney: I've got just the thing. I have a car that was owned by a super
+villain. He once conquered the East Coast.
+
+Bart buys the Globex Super Villian Car for 600 coins and drives around town,
+destroying the laser stands. After he destroys them all, Bart rushes back to
+the studio to talk to Krusty.
+
+Bart: Oh, why didn't I just do this in the first place?
+Krusty: Oh, why didn't I realize that show girl last night was a guy?
+
+=--=--=--=--=--=--=--=--=--=
+Mission 7: LVL67
+=--=--=--=--=--=--=--=--=--= 
+
+Bart heads to Krusty Burger and finds Homer.
+
+Bart: Dad, the aliens have taken over the Duff Brewery and they're using it to
+store laser guns. Ohh, if only I didn't have to do so much explaining.
+Homer: What, this is Duff's worst disgrace since Duff Ice. It's time to use
+my secret weapon. Remember when I told you I sold my old car so you could go to
+college?
+Bart: Yeah.
+Homer: It was a lie.
+Bart: Yay, that's worth more.
+
+Homer and Bart race to the Duff Brewery, getting there before the aliens.
+
+=--=--=--=--=--=--=--=--=--=
+Movie 5: MOVE5
+=--=--=--=--=--=--=--=--=--=
+
+Homer and Bart drive into the Duff Brewery and see the spaceship come out of
+the floor where the Duff air baloon used to be.
+
+Kaing: The lasers were only the beginning! Even now, our all purpose evil cola
+is spreading underground through your water supply. It will wake the dead! 
+Zombies will rise from the grave and devour the living!
+Kodos: And our ratings will rise! Rise to levels not seen since the hay day 
+of Evening Shade.
+
+The spaceship leaves.
+
+Bart: Oh man, that sounds cool! I mean, oh no, I hope there plan fails. Who am
+I kidding, zombies eating brains! Ohh this is gonna rock!
+
+
+//////////////////////////////
+Level 7
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+=--=--=--=--=--=--=--=--=--=
+Mission 1: LVL71
+=--=--=--=--=--=--=--=--=--=
+
+It's October 31st, its Holloween and the dead are walking (and driving) the
+streets. Homer is inside the house with Lisa. There are cobwebs everywhere and
+there is a skeleton on the couch. It's night out but it looks darker than ever
+before.
+
+Lisa: Dad! The zombies are on the way, shouldn't we do something?
+Homer: Not now Lisa, I'm trying to listen to the baseball game.
+TV: It's the top of the seventh and, oh god zombies! They're devouring the 
+crowd. Now... ah, they're eating my brain! Oh, the pain! Ahhhhh!!
+Homer: Oh alright, I'll get some survival supplies. Stupid Brockman getting 
+eaten by zombies.
+
+Homer goes next door to Flander's. He has a gate around his yard.
+
+Homer: Flanders, give me your first aid kit.
+Ned: Well I was hoping to save it for Roder and Toder to bandage there 
+brain-eating boo-boos.
+Homer: Just rub a bible on them.
+Ned: Will that work to fend off zombies?
+Homer: Who am I, Doctor Science?
+Ned: Okely-dokely, here's the first aid.
+Rod: Daddy, if the zombies are dead, why aren't they in heaven? 
+Tod: I hope my brain feeds a hungry zombie. 
+
+Homer grabs the first aid kit. Homer then goes to Cletus' next and steals some 
+boards. Cletus yells at Homer but he gets away. Homer then goes to Moe's 
+house. Moe's outside.
+
+Homer: Moe, I need your chainsaw to chop up attacking zombies.
+Moe: Then how will I defend myself?
+Homer: Moe, Moe, Moe, shouldn't the weapons go to people who have loved ones in
+their lives.
+Moe: Yeah maybe your right.
+Homer: I think I made my point.
+Moe: Well, I better comb my hair before the zombies get here. (Sigh) my life 
+stinks.
+
+Homer grabs the chiansaw and goes back to his house.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 2: LVL72
+=--=--=--=--=--=--=--=--=--=
+
+After dropping off the supplies at the Simpsons house, Homer drives to the 
+school playground where the Comic Book Guy is. There is a big space craft 
+above the baseball field.
+
+Homer: Hey, you there, Smelly Sam. What's going on?
+Comic Book Guy: The alien craft is using some sort of tractor beam to suck up 
+trespassers to their doom. Worst. Effects. Ever.
+Homer: But that's real.
+Comic Book Guy: Worst. Effects. Ever.
+Homer: What's with the cool black car?
+Comic Book Guy: If my knowledge of sci fi movies is correct, which it is, the 
+black car is an advanced probe for the mother ship. Now, if you're through, I'm
+going to spend my last hours on Earth, complaining about movies on the 
+internet.
+Homer: The gift of life is wasted on you.
+Comic Book Guy: Yes, I recommend you obtain a zombie car. It will protect you 
+well but it is runned on human brains, slight draw back.
+Homer: I've got plenty of those.
+
+Homer heads down to the graveyard to buy a Zombie Car. He gets it from a zombie
+for 500 coins. He then goes back to the school playground to follow the black
+car. He follows it through the town until it stops at the the power plant.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 3: LVL73
+=--=--=--=--=--=--=--=--=--=
+
+Proffesor Frink is at the power plant.
+
+Frink: I'm glad you're here my morpobly obbesse ally. Based on my mathulations,
+I've figured out the aliens weakness. It's nuclear waste. Yuck.
+Homer: Uh, and how does that effect me?
+Frink: Well it could save the life of you and your family.
+Homer: And?
+Frink: Look, I've loaded my vehicle with nuclear waste from the power plant.
+I'm going to deliver this toxic payload to the alien ship, risking myself and 
+my delicious brain to zombie snacking which if you've never undergone that, I
+can tell you it stings.
+Homer: What a hero, I never knew his name.
+Frink: Uh, it's Proffesor John Frink.
+Homer: Are you still here?
+
+Homer and Proffesor Frinkget into the car with the nuclear waste and they race 
+to the school playground. When they get there, they go under the beam and they
+car begins to get sucked up by it. Homer gets out. Frink doesn't.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 4: LVL74
+=--=--=--=--=--=--=--=--=--=
+
+Homer needs more nuclear waste. So, he goes inside the school to talk to Lisa 
+who is standing in the hallway.
+
+Homer: I need to buy some nuclear waste, and fast!
+Lisa: Why don't you ask Mr. Burns. His buried nuclear waste has poisoned 
+Springfield for years to come.
+Homer: Good ol' Mr. Burns. He'll save us! Thank goodness for nuclear waste.
+
+Homer starts driving to the power plant when suddenly, a plant car begins to
+chase him. He gets away and continues on to the power plant. When he gets 
+there, he has to climb the wreakage a space ship made in the front of the 
+building to get to Mr. Burns. He climbs it all the way to Mr. Burns' office.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 5: LVL75
+=--=--=--=--=--=--=--=--=--=
+
+After Homer gets past the booby trapped office floor, Homer goes up to 
+Mr. Burns.
+
+Burns: Ooh, is it you Merryweather, come to haunt me again. I kid you once I...
+Homer: Mr. Burns, it's me, Homer Simpson!
+Burns: So you're not the ghost of my former partner? Woo, wow, that was... wow.
+Homer: Look, I need to get some barrels of radioactive waste to save 
+Springfield from the aliens.
+Burns: I agree, illegal aliens are a nucence.
+Homer: Not leafblower aliens, tentacle aliens.
+Burns: Oh, in that case, here's a map to where I burried nuclear barrels all 
+over Springfield. And they said that they made them bleed from the heart. I 
+hope they... bleed from the heart.
+
+Homer grabs the map off of Mr. Burns' desk and then goes to his car. He gets
+the barrel of nuclear waste and drives it to the school and into the tractor
+beam. 
+
+=--=--=--=--=--=--=--=--=--=
+Mission 6: LVL76
+=--=--=--=--=--=--=--=--=--=
+
+Snake is in the school playground. Homer talks to him because he needs a car.
+
+Snake: Wow, imagine, me getting car jacked. What a total switcharoo.
+Homer: Just go.
+Snake: And what will you do if I don't.
+Homer: Flip you the bird!
+Snake: Ok, don't get freaky, get in!
+
+Homer and Snake go to the power plant but not before they have to get away
+from another black car. They get the nuclear waste and drive to the school 
+plyground. They drive the car into the tractor beam.
+
+=--=--=--=--=--=--=--=--=--=
+Mission 7: LVL77
+=--=--=--=--=--=--=--=--=--=
+
+Homer goes over to Grandpa who is walking in the school playground.
+
+Homer: Where'd you get that sweet ride.
+Grandpa: I bought it with my social security. Thank you Uncle Sucker.
+Homer: Gimme a lift. I gotta save Springfield.
+Grandpa: You're not gonna sacrifice me for the greater good, are you son?
+Homer: We'll see dad, we'll see.
+Grandpa: Ohh.
+
+Homer and Grandpa begin to drive to the power plant but see a black car and 
+they must race it. Once they win, they get the barrel and head to the school
+but when they get near the corner next to Homer's house, a black car comes out
+of a drive way and begins chasing them. They get away and they get back to the
+school. They put the car into the light and it explodes.
+
+=--=--=--=--=--=--=--=--=--=
+Movie 7: MOVE7
+=--=--=--=--=--=--=--=--=--=
+
+Grandpa and his new car are being sucked into the spaceship.
+
+Grandpa: I smell toes!
+
+The car explodes and sends the craft landing straight into the ground.
+
+Homer: Eat nuclear death you effenement, wrinkly space wods! Hehehe, imagine 
+that, scared of some harmless nuclear waste. So very harmless. Ow!
+
+Homer looks at his back and there is a third hand there.
+
+Homer: Cut your finger nails!
+
+The two aliens come out of the ship looking like they're about to die.
+
+Kang: That fourtune teller was right, I do end up dying in a space ship crash.
+
+A newspaper called the SpaceVariety comes up to the screen and it has the 
+headlines "'Foolish Earthlings' FINALE 1# Ratings Soar". Then the Simpsons 
+house is shown. Homer, Marge, and Lisa are sitting down on the couch.
+
+Lisa: Dad, I'm really proud of you for rescuing all of us from that alien 
+invasion.
+Homer: Did that really happen? I thought that was a dream after eating to many
+raw hot dogs.
+Marge: No Homie, your the town hero.
+Homer: Sweet! And the ninja baby sitters? Was that real or a hotdog dream?
+Lisa: Hotdog dream.
+
+Bart runs in from the other living room.
+
+Bart: Dad, your fans want you outside!
+Homer: Fans.
+
+Homer puts his Duff down and gets up to see whats going on outside. He opens
+the door to show tons of weird aliens.
+
+Homer: Oh those fans.
+
+Homer bends down and grabs his newspaper. After he gets up, he starts to look
+cool by making muscles and stuff. After that, there's a view of Kang and Kodos
+on a cloud in the sky.
+
+Kang: Atleast our show was a success.
+Kodos: Why did we go to earth heaven?
+Kang: Atleast we don't have to sit through the stupid video game credits.
+
+Kodos points down. The logo for the Simpsons: Hit and Run moves up.
+
+Kang: Nooo!!!
+
+Credits roll.
+
+The end.
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+                          
+                            4. Contact Info
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+
+You can contact me at Nintendomaster@comcast.net
+
+ -If you are going to ask me a question, make sure its not included in the
+  script. I'll probably answer anyway unless it is a stupid question like
+  "Who's Homer?"
+ -If I understood something wrong in the script, then please tell me what I
+  did wrong and I will change it.
+ -If here's anything wrong with the script, tell me and I'll fix it.
+ -I'll accept all the thank you letters and the hate letters, just don't send
+  me a virus, please!
+ -Do no send me l33t emails. I'll simply make fun of it on the message boards.
+ -No chain letters please. There just a waste of my extremely valuable time.
+ -Also don't send me spam.
+ -If you want my guide on your site, make sure you include the site in your
+  email. Otherwise, I won't let you have it.
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+                          
+                              5. Credits
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+
+I like to thank:
+
+ -Matt Groening and the other people who make the Simpsons TV show. It's simply
+  the best show ever and its taken my life away... ok its the best cartoon
+  and it's tied with 24 for best TV show... what.
+ -Vivendi Universal, Radical Entertanment, Fox, and Gracie Films for making
+  this game to be the best Simpsons game ever.
+ -Rockstar games for making the GTA3 engine. Heh...
+ -The voice actors that did the voices of the characters in the game.
+ -CJayC for accepting my guides and making GameFAQs
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+                          
+                           6. Copyright Info
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+
+This document is copyrighted by me, SpacePirate. If you steal this game 
+without my permission, than I will take serious action. If you wish to 
+post this guide on your site, then email me at 
+nintendomaster@comcast.net and make sure you read the Contact 
+Information section. If I don't allow you to use my guide on your site, 
+than don't steal it. That's the worst thing you can do besides not 
+asking and just go straight to stealing it. If you do, be prepared to 
+pay. I have my connections!
+
+Another thing you can do that can land you in some major trouble is 
+alter this guide. Wheather I allow you to use my guide or not, do not 
+change anything in the guide. I don't give a crap if there's a spelling 
+mistake and you thought it would be nice to fix it, don't change 
+anything. It's my work, not yours! 
+
+If I allow you to use my guide on your site, then you must stay up to 
+date with the version updates. If you are to lazy to switch the old 
+guide with the new, than I will take my guide off your site faster than 
+a slutty teenager dies in a slasher movie. Now, these are the sites that
+are allowed to use this FAQ:
+
+http://www.gamefaqs.com
+http://www.neoseeker.com
+
+Again, don't steal, alter, or do anything else with my guide. And, ask 
+before you post.
+
+Copyright (c) SpacePirate 2004

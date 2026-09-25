@@ -1,0 +1,222 @@
+# 심슨 히트 앤 런 — 메뉴·시스템 UI (게임큐브판에 나오는 것만)
+# ⛔ PS2/Xbox/PC 전용 문자열은 게임큐브에서 안 나오므로 제외
+# ★ $ ¥ # 는 게임이 채우는 자리이므로 그대로 둘 것
+# --- 단추 ---
+ACCEPT	수락
+BACK	뒤로
+QUIT	나가기
+CANCEL	취소
+PURCHASE	구입
+CHANGE	교체
+# --- 일시정지 ---
+PAUSED	일시정지
+CONTINUE_(PAUSE)	계속하기
+RESTART_MISSION	미션 다시 시작
+ABORT_MISSION	미션 포기
+OPTIONS_(PAUSE)	설정
+SETTINGS	세부 설정
+MISSION_SELECT	미션 선택
+SAVE_GAME	게임 저장
+VIEW_CARDS	카드 보기
+PRESS_START_RESUME_PLAY_GC	START 를 눌러 계속
+# --- 일시정지 세부 설정 ---
+CAMERA	카메라
+NOT_AVAILABLE	( 없음 )
+INTERSECT_NAV_SYSTEM	길안내 시스템
+INVERT_CAM_CONTROL	카메라 상하 반전
+JUMP_CAMERAS	점프 카메라
+RADAR	레이더
+AUTO	자동
+TUTORIAL	튜토리얼
+RUMBLE_SETTING	진동
+VIBRATION_SETTING	진동
+DISABLE_TUTORIAL	튜토리얼 끄기
+# --- 메인 메뉴 ---
+NEW_GAME	새 게임
+RESUME_GAME	이어서 하기
+LOAD_GAME	불러오기
+MINI_GAME	보너스 게임
+SCRAP_BOOK	스크랩북
+OPTIONS	설정
+QUIT_GAME	게임 종료
+PRESS_START_GC	START 를 누르세요
+LOADING	로딩 중
+LOADING_0	로딩 중
+LOADING_1	로딩 중 .
+LOADING_2	로딩 중 . .
+LOADING_3	로딩 중 . . .
+DEMO	- 데모 -
+# --- 설정 ---
+CONTROLLER	컨트롤러
+DISPLAY_(OPTIONS)	화면
+SOUND	소리
+VIEW_MOVIES	동영상 보기
+VIEW_CREDITS	제작진 보기
+INTERLACED	인터레이스
+PROGRESSIVE	프로그레시브
+# --- 소리 ---
+MUSIC	음악
+EFFECTS	효과음
+VOICE	음성
+ENGINE	차량음
+MONO_SOUND	모노
+STEREO_SOUND	스테레오
+SURROUND_SOUND	서라운드
+# --- 화면 (PC 항목이지만 문자열 공용) ---
+RESOLUTION	해상도
+DISPLAY_MODE	화면 모드
+FULL_SCREEN	전체 화면
+WINDOW	창 모드
+COLOUR DEPTH	색 깊이
+16_BIT	16비트
+32_BIT	32비트
+# --- 컨트롤러 설정 ---
+CONFIGURATION	설정:
+DISPLAY	표시:
+IN_CAR	차 안
+ON_FOOT	도보
+RUMBLE	진동:
+VIBRATION	진동:
+ON	켬
+OFF	끔
+# --- 컨트롤러 안내 (게임큐브) ---
+TURN_LEFT_RIGHT	좌 / 우 조향
+MOVE_CHARACTER	이동
+RESET_CAR	차 되돌리기
+CAMERA_ZOOM_IN_OUT	(위 / 아래) 카메라 확대 / 축소
+CAR_LOOK_UP_BEHIND	(위 / 아래) 위 보기 / 뒤 보기
+CAR_LOOK_LEFT_RIGHT	(좌 / 우) 좌우 보기
+ROTATE_CAMERA	(좌 / 우) 카메라 회전
+ATTACK	공격
+E_BRAKE	핸드브레이크
+JUMP	점프
+DASH_SPRINT	대시 / 달리기
+GET_IN_CAR_TALK_TO_CHARACTER	차에 타기 / 말 걸기
+GET_OUT_OF_CAR	차에서 내리기
+HORN_TAUNT	경적
+ACCELERATE	가속
+LOOK_UP	위 보기
+PAUSE	일시정지
+BRAKE_REVERSE	브레이크 / 후진
+ZOOM_FOV	카메라 확대
+# --- 레벨 ---
+LEVEL_1	레벨 1
+LEVEL_2	레벨 2
+LEVEL_3	레벨 3
+LEVEL_4	레벨 4
+LEVEL_5	레벨 5
+LEVEL_6	레벨 6
+LEVEL_7	레벨 7
+LEVEL_COMPLETE	레벨 완료
+LEVEL_PROGRESS	레벨 진행도
+USE_MISSION_SELECT	미션 선택으로 이 레벨에 다시 올 수 있다
+STATUS	상태
+ACCEPT_MISSION	미션 시작
+# --- 상점·전화 부스 ---
+SPEED	속도
+ACCELERATION	가속력
+STABILITY	조종성
+TOUGHNESS	내구성
+COINS	동전
+TO_PURCHASE	필요
+VIEW_STATS	능력치 보기
+VIEW_MODEL	능력치 숨기기
+VEHICLE_REPAIR_COST	수리 비용:
+VEHICLE_DAMAGED	손상도:
+# --- 스크랩북 ---
+OPEN_BOOK	책 펼치기
+MISSIONS	미션
+CLOTHES	옷
+CARDS	카드
+GAME_STATS	게임 기록
+STORY_MISSIONS	스토리 미션
+BONUS_MISSIONS	보너스 미션
+STREET_RACES	거리 경주
+COLLECTIBLE_CARDS	수집 카드
+CHARACTER_CLOTHING	캐릭터 의상
+VEHICLES	차량
+GAGS	개그
+WASPS	말벌 카메라
+MOVIES	동영상
+GAME_COMPLETE	전체 달성도
+# --- 동영상 보기 ---
+INTRO_MOVIE	게임 오프닝
+MOVIE_1	레벨 1 도입부
+MOVIE_2	레벨 1 동영상
+MOVIE_3	레벨 2 동영상
+MOVIE_4	레벨 4 동영상
+MOVIE_5	레벨 5 동영상
+MOVIE_6	레벨 6 동영상
+MOVIE_7	레벨 7 동영상
+MOVIE_8	보너스 동영상
+# --- 보너스 게임 ---
+CHARACTER_SELECT	캐릭터 바꾸기
+CHANGE_TRACK_DIRECTION	트랙 방향 바꾸기
+SELECT_TRACK_AND_NUM_LAPS	트랙과 바퀴 수를 고르세요
+PRESS_START	START 를 누르세요
+WAITING_FOR_OTHER_PLAYERS	다른 참가자를 기다리는 중 . . .
+0_LAPS	0바퀴
+1_LAPS	1바퀴
+2_LAPS	2바퀴
+3_LAPS	3바퀴
+4_LAPS	4바퀴
+5_LAPS	5바퀴
+6_LAPS	6바퀴
+7_LAPS	7바퀴
+8_LAPS	8바퀴
+9_LAPS	9바퀴
+BEST_LAP	최고 랩
+TOTAL_TIME	총 시간
+POINTS	점수
+WINS	승
+RACE_SUMMARY	경주 시리즈 순위
+1ST	1위
+2ND	2위
+3RD	3위
+4TH	4위
+# --- 언어 선택 ---
+SELECT_LANGUAGE	언어 선택
+# --- 메모리 카드 (게임큐브) ---
+SELECT_MEMORY_DEVICE_(GC)	메모리 카드 선택
+SELECT_ANOTHER_MEMORY_DEVICE_(GC)	다른 메모리 카드 선택
+LOAD_GAME_FROM	불러올 곳:
+SAVE_GAME_TO	저장할 곳:
+FREE_SPACE	남은 블록:
+NO_MEMORY_DEVICE_(GC)	쓸 수 있는 메모리 카드가 없습니다.
+EMPTY_SLOT	< 빈 칸 >
+CHECKING_MEMORY_CARDS_(GC)	슬롯 A 와 B 의 메모리 카드를 확인하는 중
+CHECKING_MEMORY_CARD_B_(GC)	슬롯 B 의 메모리 카드를 확인하는 중
+MU_DAMAGED_STATUS_(GC)	이 메모리 카드는 손상되어 쓸 수 없습니다.
+MU_INVALID_STATUS_(GC)	지원하지 않는 장치입니다. 메모리 카드로 바꿔 주세요.
+MU_WRONG_TYPE_STATUS_(GC)	이 메모리 카드는 쓸 수 없습니다.
+MU_FULL_STATUS_(GC)	이 메모리 카드에는 저장할 공간이 부족합니다. 심슨 히트 앤 런은 파일 1개와 블록 2개가 필요합니다. 메모리 카드 화면에서 내용을 정리하세요.
+MEMCARD_FULL_HAS_EXISTING_(GC)	이 메모리 카드에는 저장할 공간이 부족합니다. 심슨 히트 앤 런은 파일 1개와 블록 2개가 필요합니다. 기존 파일에 덮어쓸 수 있습니다. 메모리 카드 화면에서 내용을 정리하세요.
+MEMCARD_FULL_NO_EXISTING_(GC)	이 메모리 카드에는 저장할 공간이 부족합니다. 심슨 히트 앤 런은 파일 1개와 블록 2개가 필요합니다. 메모리 카드 화면에서 내용을 정리하세요.
+# --- 오류 (게임큐브) ---
+ERROR_DATA_CORRUPT_LOADING_(GC)	슬롯 $ 메모리 카드의 심슨 히트 앤 런 저장 파일이 손상되어 지워야 합니다.
+ERROR_DATA_CORRUPT_SAVING_(GC)	슬롯 $ 메모리 카드의 심슨 히트 앤 런 저장 파일이 손상되어 지워야 합니다.
+ERROR_FILE_NOT_FOUND_(GC)	슬롯 $ 의 메모리 카드에 심슨 히트 앤 런 저장 자료가 없습니다.
+ERROR_HW_FAILURE_LOADING_(GC)	불러오기 실패! 치명적인 오류가 일어났습니다.
+ERROR_HW_FAILURE_SAVING_(GC)	저장 실패! 치명적인 오류가 일어났습니다.
+ERROR_MEDIA_CORRUPT_LOADING_(GC)	슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다.
+ERROR_MEDIA_CORRUPT_SAVING_(GC)	이 메모리 카드는 손상되어 쓸 수 없습니다.
+ERROR_MEDIA_DAMAGED_(GC)	슬롯 $ 의 메모리 카드는 손상되어 쓸 수 없습니다.
+ERROR_MEDIA_ENCODING_ERROR_(GC)	슬롯 $ 의 메모리 카드는 다른 지역용으로 포맷되어 있습니다.
+ERROR_MEDIA_ENCODING_ERROR_LOADING_(GC)	불러오기 실패! 슬롯 $ 의 메모리 카드는 다른 지역용으로 포맷되어 있습니다.
+ERROR_MEDIA_ENCODING_ERROR_SAVING_(GC)	저장 실패! 슬롯 $ 의 메모리 카드는 다른 지역용으로 포맷되어 있습니다.
+ERROR_MEDIA_INVALID_(GC)	슬롯 $ 의 장치는 지원하지 않습니다. 메모리 카드로 바꿔 주세요.
+ERROR_MEDIA_INVALID_LOADING_(GC)	불러오기 실패! 슬롯 $ 에 메모리 카드가 아닌 것이 꽂혀 있습니다. 메모리 카드로 바꿔 주세요.
+ERROR_MEDIA_INVALID_SAVING_(GC)	저장 실패! 슬롯 $ 에 메모리 카드가 아닌 것이 꽂혀 있습니다. 메모리 카드로 바꿔 주세요.
+ERROR_MEDIA_NOT_FORMATTED_(GC)	슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다.
+ERROR_MEDIA_NOT_FORMATTED_LOADING_(GC)	슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다.
+ERROR_MEDIA_NOT_FORMATTED_SAVING_(GC)	저장 실패! 슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다.
+ERROR_MEDIA_NOT_PRESENT_(GC)	슬롯 A 와 B 에 메모리 카드가 없습니다.
+ERROR_MEDIA_WRONG_TYPE_(GC)	슬롯 $ 의 메모리 카드는 심슨 히트 앤 런과 맞지 않아 쓸 수 없습니다.
+ERROR_MEDIA_WRONG_TYPE_LOADING_(GC)	불러오기 실패! 슬롯 $ 의 메모리 카드는 심슨 히트 앤 런과 맞지 않아 쓸 수 없습니다.
+ERROR_MEDIA_WRONG_TYPE_SAVING_(GC)	저장 실패! 슬롯 $ 의 메모리 카드는 심슨 히트 앤 런과 맞지 않아 쓸 수 없습니다.
+ERROR_NO_FREE_SPACE_(GC)	슬롯 $ 의 메모리 카드에 저장할 공간이 부족합니다. 심슨 히트 앤 런은 새 파일을 저장하는 데 빈 파일 1개와 빈 블록 2개가 필요합니다.
+ERROR_NO_FREE_SPACE_CHECKING_(GC)	슬롯 $ 의 메모리 카드에 새 파일을 저장할 공간이 부족합니다. 심슨 히트 앤 런은 파일 1개와 블록 2개가 필요합니다. 기존 파일을 불러와 덮어쓸 수는 있습니다.
+ERROR_NO_MEDIA_LOADING_(GC)	불러오기 실패! 슬롯 $ 에 메모리 카드가 없습니다.
+ERROR_NO_MEDIA_SAVING_(GC)	저장 실패! 슬롯 $ 에 메모리 카드가 없습니다.
+ERROR_WRONG_MEDIA_LOADING_(GC)	불러오기 실패! 슬롯 $ 의 메모리 카드를 확인하고 다시 시도하세요.
+ERROR_WRONG_MEDIA_SAVING_(GC)	저장 실패! 슬롯 $ 의 메모리 카드를 확인하고 다시 시도하세요.

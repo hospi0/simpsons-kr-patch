@@ -1,0 +1,121 @@
+# 지금 «영문으로 되돌린» 문구 98개 — 한글로 두면 □ 가 되는 것들
+
+===== Accept3.pag (1개)
+  208 ACCEPT                                 Accept                                               | 수락
+
+===== Demo.pag (1개)
+   71 DEMO                                   - DEMO -                                             | - 데모 -
+
+===== ErrorPrompt.pag (27개)
+   41 ERROR_MEDIA_WRONG_TYPE_LOADING_(GC)    Load failed! Memory Card in Memory Card Slot $ is in | 불러오기 실패! 슬롯 $ 의 메모리 카드는 심슨 히트 앤 런과 맞지 않아 쓸 수 없습니다.
+   76 ERROR_WRONG_MEDIA_SAVING_(GC)          Save failed!  Please check Memory Card in Memory Car | 저장 실패! 슬롯 $ 의 메모리 카드를 확인하고 다시 시도하세요.
+  133 ERROR_DATA_CORRUPT_LOADING_(GC)        The Simpsons Hit & Run Saved Game file on Memory Car | 슬롯 $ 메모리 카드의 심슨 히트 앤 런 저장 파일이 손상되어 지워야 합니다.
+  187 ERROR_HW_FAILURE_SAVING_(GC)           Save failed! A fatal error has occurred.             | 저장 실패! 치명적인 오류가 일어났습니다.
+  296 ERROR_MEDIA_INVALID_LOADING_(GC)       Load failed! Something other than a Memory Card is i | 불러오기 실패! 슬롯 $ 에 메모리 카드가 아닌 것이 꽂혀 있습니다. 메모리 카드로 바꿔 주세요.
+  297 ERROR_FILE_NOT_FOUND_(GC)              No Simpsons Hit & Run save data present on Memory Ca | 슬롯 $ 의 메모리 카드에 심슨 히트 앤 런 저장 자료가 없습니다.
+  301 ERROR_MEDIA_WRONG_TYPE_(GC)            Memory Card in Memory Card Slot $ is incompatible wi | 슬롯 $ 의 메모리 카드는 심슨 히트 앤 런과 맞지 않아 쓸 수 없습니다.
+  336 ERROR_MEDIA_NOT_FORMATTED_LOADING_(GC) The Memory Card in Slot $ is corrupted and needs to  | 슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다.
+  337 ERROR_NO_MEDIA_LOADING_(GC)            Load failed! No Memory Card found in Slot $.         | 불러오기 실패! 슬롯 $ 에 메모리 카드가 없습니다.
+  343 ERROR_MEDIA_WRONG_TYPE_SAVING_(GC)     Save failed! Memory card in Memory Card Slot $ is in | 저장 실패! 슬롯 $ 의 메모리 카드는 심슨 히트 앤 런과 맞지 않아 쓸 수 없습니다.
+  344 ERROR_MEDIA_NOT_FORMATTED_(GC)         The Memory Card in Slot $ is corrupted and needs to  | 슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다.
+  364 ERROR_MEDIA_NOT_PRESENT_(GC)           No Memory Card found in Slot A or B.                 | 슬롯 A 와 B 에 메모리 카드가 없습니다.
+  436 ERROR_MEDIA_ENCODING_ERROR_LOADING_(GC) Load failed! Memory Card in Memory Card Slot $ is fo | 불러오기 실패! 슬롯 $ 의 메모리 카드는 다른 지역용으로 포맷되어 있습니다.
+  588 ERROR_MEDIA_CORRUPT_SAVING_(GC)        This Memory Card is damaged and cannot be used.      | 이 메모리 카드는 손상되어 쓸 수 없습니다.
+  591 ERROR_WRONG_MEDIA_LOADING_(GC)         Load failed!  Please check Memory Card in Memory Car | 불러오기 실패! 슬롯 $ 의 메모리 카드를 확인하고 다시 시도하세요.
+  605 ERROR_MEDIA_DAMAGED_(GC)               The Memory Card in Slot $ is damaged and cannot be u | 슬롯 $ 의 메모리 카드는 손상되어 쓸 수 없습니다.
+  610 ERROR_DATA_CORRUPT_SAVING_(GC)         The Simpsons Hit & Run Saved Game file on Memory Car | 슬롯 $ 메모리 카드의 심슨 히트 앤 런 저장 파일이 손상되어 지워야 합니다.
+  618 ERROR_MEDIA_CORRUPT_LOADING_(GC)       The Memory Card in Slot $ is corrupted and needs to  | 슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다.
+  619 ERROR_MEDIA_INVALID_SAVING_(GC)        Save failed! Something other than a Memory Card is i | 저장 실패! 슬롯 $ 에 메모리 카드가 아닌 것이 꽂혀 있습니다. 메모리 카드로 바꿔 주세요.
+  668 ERROR_NO_MEDIA_SAVING_(GC)             Save failed! No Memory Card found in Slot $.         | 저장 실패! 슬롯 $ 에 메모리 카드가 없습니다.
+  848 ERROR_NO_FREE_SPACE_CHECKING_(GC)      There is insufficient space to save a new file to th | 슬롯 $ 의 메모리 카드에 새 파일을 저장할 공간이 부족합니다. 심슨 히트 앤 런은 파일 1개와 블록 2개가 필요합니다. 기존 파일을 불러와 덮어쓸 수는 있습니다.
+  934 ERROR_MEDIA_INVALID_(GC)               The device in Slot $ is not supported. Replace with  | 슬롯 $ 의 장치는 지원하지 않습니다. 메모리 카드로 바꿔 주세요.
+  972 ERROR_NO_FREE_SPACE_(GC)               There is insufficient space to save to the Memory Ca | 슬롯 $ 의 메모리 카드에 저장할 공간이 부족합니다. 심슨 히트 앤 런은 새 파일을 저장하는 데 빈 파일 1개와 빈 블록 2개가 필요합니다.
+ 1096 ERROR_HW_FAILURE_LOADING_(GC)          Load failed! A fatal error has occurred.             | 불러오기 실패! 치명적인 오류가 일어났습니다.
+ 1125 ERROR_MEDIA_NOT_FORMATTED_SAVING_(GC)  Save failed! The Memory Card in Slot $ is corrupted  | 저장 실패! 슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다.
+ 1349 ERROR_MEDIA_ENCODING_ERROR_(GC)        The Memory Card in Slot $ is formatted for another m | 슬롯 $ 의 메모리 카드는 다른 지역용으로 포맷되어 있습니다.
+ 1457 ERROR_MEDIA_ENCODING_ERROR_SAVING_(GC) Save Failed! The Memory Card in Slot $ is formatted  | 저장 실패! 슬롯 $ 의 메모리 카드는 다른 지역용으로 포맷되어 있습니다.
+
+===== GenericPrompt.pag (42개)
+   77 MSG_LOAD_CONFIRM_(GC)                  Loading this game will replace the current game in p | 이 게임을 불러오면 진행 중인 게임을 덮어씁니다. 계속할까요?
+   79 INGAME_MESSAGE_00                      To complete this mission, you will need the PLOW KIN | 이 미션을 하려면 「플로우 킹」이 필요합니다. 주유소의 바니에게 동전 150개로 구입하세요. 중요: 이미 가진 차는 전화 부스에서 부를 수 있습니다.
+   80 INGAME_MESSAGE_01                      To complete this mission, you will need the MR. PLOW | 이 미션을 하려면 「미스터 플로우」 트럭이 필요합니다. 병원 주차장의 호머에게 동전 200개로 구입하세요. 참고: 이미 가진 차는 전화 부스에서 부를 수 있습니다.
+   81 INGAME_MESSAGE_02                      To complete this mission, you will need the SCHOOL B | 이 미션을 하려면 「스쿨버스」가 필요합니다. 크러스티 캠프의 오토에게 동전 300개로 구입하세요. 참고: 이미 가진 차는 전화 부스에서 부를 수 있습니다.
+   82 INGAME_MESSAGE_03                      You need a disguise. Purchase Lisa's "COOL" CLOTHES  | 변장이 필요합니다. 안드로이드의 지하실이나 천문대에서 리사의 「멋진」 옷을 동전 250개로 구입하세요.
+   83 INGAME_MESSAGE_04                      Don't get your clothes dirty.  Purchase Marge's "INM | 옷을 더럽히면 안 됩니다. 퀵키 마트·바트의 방·스프링필드 초등학교에서 마지의 「죄수」 옷을 동전 300개로 구입하세요.
+   84 INGAME_MESSAGE_05                      Serve and protect.  Purchase Marge's POLICE UNIFORM  | 봉사와 보호. 퀵키 마트·바트의 방·스프링필드 초등학교에서 마지의 경찰복을 동전 400개로 구입하세요.
+   85 INGAME_MESSAGE_06                      To complete this mission, you will need Homer's "CUS | 이 미션을 하려면 호머의 「개조차」가 필요합니다. 병원 주차장의 호머에게 동전 500개로 구입하거나, 이미 가졌다면 전화 부스에서 부르세요.
+   86 INGAME_MESSAGE_07                      You need a disguise.  Purchase Apu's AMERICAN CLOTHE | 변장이 필요합니다. 모의 술집이나 차량국에서 아푸의 미국인 옷을 동전 425개로 구입하세요.
+   87 INGAME_MESSAGE_08                      To complete this mission, you will need the GLOBEX S | 이 미션을 하려면 「글로벡스 슈퍼 악당 차」가 필요합니다. 크러스티루 입구의 키어니에게 동전 600개로 구입하거나, 이미 가졌다면 전화 부스에서 부르세요.
+   88 INGAME_MESSAGE_09                      To complete this mission, you will need the ZOMBIE C | 이 미션을 하려면 「좀비 차」가 필요합니다. 스프링필드 묘지의 좀비에게 동전 500개로 구입하거나, 이미 가졌다면 전화 부스에서 부르세요.
+   89 INGAME_MESSAGE_10                      Talk to the Squeaky Voiced Teen at the Aztec theatre | 아즈텍 극장의 목소리 갈라진 알바생과 대화하세요.
+   90 INGAME_MESSAGE_11                      Congratulations! You've unlocked a new vehicle. Go t | 축하합니다! 새 차를 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+   91 INGAME_MESSAGE_12                      Congratulations! You've unlocked Cletus' Pickup Truc | 축하합니다! 클레터스의 픽업트럭을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+   92 INGAME_MESSAGE_13                      Congratulations! You've unlocked Grampa's WWII Vehic | 축하합니다! 할아버지의 2차대전 차를 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+   93 INGAME_MESSAGE_14                      Congratulations! You've unlocked Principal Skinner's | 축하합니다! 스키너 교장의 세단을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+   94 INGAME_MESSAGE_15                      Congratulations! You've unlocked Comic Book Guy's Kr | 축하합니다! 만화방 아저씨의 크렘린을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+   95 INGAME_MESSAGE_16                      Congratulations! You've unlocked Professor Frink's H | 축하합니다! 프링크 교수의 호버카를 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+   96 INGAME_MESSAGE_17                      Congratulations! You've unlocked Snake's Lil' Bandit | 축하합니다! 스네이크의 리틀 밴딧을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+   97 INGAME_MESSAGE_18                      Congratulations! You've unlocked Mr. Burns' Limo. Go | 축하합니다! 번즈 사장의 리무진을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+  107 MSG_CONFIRM_QUIT                       Are you sure you want to quit?                       | 정말 종료할까요?
+  205 MSG_FORMAT_CONFIRM2_(GC)               Formatting the Memory Card will erase all previously | 메모리 카드를 포맷하면 저장된 자료가 모두 지워집니다. 포맷을 진행할까요?
+  206 MSG_DISPLAY_PROGRESSIVE_SCAN_CONFIRM   Did you see the screen correctly? If you did and you | 화면이 제대로 보였나요? 제대로 보였고 프로그레시브 모드로 출력하려면 「예」를, 아니면 「아니오」를 고르세요.
+  280 MSG_SAVE_CONFIRM_OVERWRITE_(GC)        The Simpsons Hit & Run game already exists. Overwrit | 심슨 히트 앤 런 저장 자료가 이미 있습니다. 덮어쓸까요?
+  307 MSG_LOAD_CARD_EMPTY_(GC)               No Simpsons Hit & Run save data present on Memory Ca | 슬롯 $ 의 메모리 카드에 심슨 히트 앤 런 저장 자료가 없습니다.
+  328 MSG_CONFIRM_RACE_AGAIN                 Race again?                                          | 한 번 더 달릴까요?
+  360 MSG_DISPLAY_PROGRESSIVE_SCAN           Do you want to display in Progressive Mode?          | 프로그레시브 모드로 출력할까요?
+  446 MSG_CONFIRM_RESTART                    Are you sure you want to restart the current mission | 지금 미션을 처음부터 다시 할까요?
+  503 MSG_DISPLAY_PROGRESSIVE_SCAN_TEST      Testing Progressive Mode.  Reverting back to Interla | 프로그레시브 모드를 시험 중입니다. 5초 안에 인터레이스 모드로 되돌아갑니다.
+  524 MSG_CONFIRM_SAVE_BEFORE_QUIT           Do you want to save your game?                       | 게임을 저장할까요?
+  683 MSG_CONFIRM_NEW_GAME                   Restarting will cause all unsaved game progress to b | 새로 시작하면 저장하지 않은 진행 내용이 모두 사라집니다. 그래도 새로 시작할까요?
+  809 MSG_CONFIRM_ABORT                      Are you sure you want to cancel the current mission? | 지금 미션을 취소할까요?
+  843 MSG_SAVE_SUCCESSFUL                    Save Successful                                      | 저장 완료
+  844 MSG_SAVE_CONFIRM_(GC)                  Ready to save. Do not touch the Memory Card or the P | 저장을 시작합니다. 메모리 카드와 전원 단추를 건드리지 마세요.
+  979 MSG_DELETE_CORRUPT_FAIL_(GC)           Failed deleting corrupted file. Please check Memory  | 손상된 파일을 지우지 못했습니다. 슬롯 $ 의 메모리 카드를 확인하고 다시 시도하세요
+  998 MSG_DELETE_CORRUPT_SUCCESS_(GC)        Corrupted file has been deleted.                     | 손상된 파일을 지웠습니다.
+ 1119 MSG_LOAD_SUCCESSFUL                    Load Successful                                      | 불러오기 완료
+ 1122 MSG_FORMAT_CONFIRM_(GC)                The Memory Card in Slot $ is corrupted and needs to  | 슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다. 진행할까요?
+ 1123 MSG_FORMAT_FAIL_(GC)                   Format failed. The Memory Card in Slot $ is damaged  | 포맷에 실패했습니다. 슬롯 $ 의 메모리 카드가 손상되어 쓸 수 없습니다.
+ 1451 MSG_FORMAT_SUCCESS_(GC)                Format Successful.                                   | 포맷을 마쳤습니다.
+ 1463 MSG_DELETE_CORRUPT_(GC)                Are you sure you want to delete this file?           | 이 파일을 정말 지울까요?
+ 1476 MSG_CONFIRM_START_MISSION              Would you like to load this mission?                 | 이 미션을 불러올까요?
+
+===== Language.pag (1개)
+   67 SELECT_LANGUAGE                        Select Language                                      | 언어 선택
+
+===== Loading.pag (1개)
+  939 LOADING                                LOADING                                              | 로딩 중
+
+===== LoadingFE.pag (4개)
+  606 LOADING_0                              LOADING                                              | 로딩 중
+  607 LOADING_1                              LOADING .                                            | 로딩 중 .
+  608 LOADING_2                              LOADING . .                                          | 로딩 중 . .
+  609 LOADING_3                              LOADING . . .                                        | 로딩 중 . . .
+
+===== MemCardCheck.pag (2개)
+  857 CHECKING_MEMORY_CARD_B_(GC)            Checking Memory Card Slot B                          | 슬롯 B 의 메모리 카드를 확인하는 중
+  982 CHECKING_MEMORY_CARDS_(GC)             Checking Memory Card Slot A and B                    | 슬롯 A 와 B 의 메모리 카드를 확인하는 중
+
+===== Message.pag (6개)
+   27 MSG_CONTROLLER_DISCONNECTED_(GC)       Controller disconnected.  \Please reconnect the cont | 컨트롤러가 빠졌습니다.  \계속하려면 컨트롤러를  \포트 ¥ 에 다시 꽂으세요.
+  325 MSG_LOADING_MISSION                    Loading new mission.  Please wait.                   | 새 미션을 불러오는 중입니다. 잠시 기다려 주세요.
+  438 MSG_SAVING_GAME_(GC)                   Saving. Do not touch the Memory Card in Slot $ or th | 저장하는 중입니다. 슬롯 $ 의 메모리 카드와 전원 단추를 건드리지 마세요.
+  444 MSG_AUTO_LOADING_GAME_(GC)             Auto-loading most recent saved game. Do not touch th | 가장 최근 저장 자료를 자동으로 불러옵니다. 슬롯 $ 의 메모리 카드와 전원 단추를 건드리지 마세요.
+  458 MSG_LOADING_GAME_(GC)                  Loading. Do not touch the Memory Card in Slot $ or t | 불러오는 중입니다. 슬롯 $ 의 메모리 카드와 전원 단추를 건드리지 마세요.
+ 1135 MSG_FORMATTING_(GC)                    Formatting. Do not touch the Memory Card in Slot $ o | 포맷하는 중입니다. 슬롯 $ 의 메모리 카드와 전원 단추를 건드리지 마세요.
+
+===== Prompt.pag (12개)
+   13 NO                                     NO                                                   | 아니오
+   14 OK                                     OK                                                   | 확인
+  149 YES                                    YES                                                  | 예
+  188 FORMAT_GC                              Format Memory Card                                   | 메모리 카드 포맷
+  317 RETRY                                  Retry                                                | 다시
+  400 SAVE                                   Save                                                 | 저장
+  521 DELETE                                 Delete File                                          | 파일 삭제
+  791 MANAGE_MEM_CARD_GC                     Manage Memory Card                                   | 메모리 카드 관리
+ 1033 CONTINUE_WITHOUT_FORMAT                Continue Without Format                              | 포맷하지 않고 계속
+ 1120 LOAD                                   Load                                                 | 불러오기
+ 1594 CONTINUE                               Continue                                             | 계속
+ 1626 CONTINUE_WITHOUT_SAVE                  Continue Without Saving                              | 저장하지 않고 계속
+
+===== Splash.pag (1개)
+  213 PRESS_START_GC                         PRESS START                                          | START 를 누르세요

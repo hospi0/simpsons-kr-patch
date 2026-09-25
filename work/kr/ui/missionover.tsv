@@ -1,0 +1,102 @@
+# 심슨 히트 앤 런 — 미션 종료 화면 (MissionOver.pag)
+RETRY_MISSION	미션을 다시 할까요?
+SKIP	건너뛰기
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE	차 밖으로 나갔습니다.
+MISSION_FAILED_VEHICLE_DAMAGE	차가 부서졌습니다.
+MISSION_FAILED_TIME_OUT	시간이 다 됐습니다.
+MISSION_FAILED_GET_COLLECTIBLES	물건을 다 모으지 못했습니다.
+MISSION_FAILED_POSITION	경주에서 졌습니다.
+MISSION_FAILED_RACE	경주에서 졌습니다.
+MISSION_FAILED_HIT_N_RUN	히트 앤 런: 경찰에 붙잡혔습니다!
+MISSION_FAILED_NOT_ABDUCTED	차에서 내리지 못했습니다.
+MISSION_FAILED_OUT_OF_BOUNDS	구역을 벗어났습니다.
+MISSION_FAILED_PLAYER_HIT	공격당했습니다.
+MISSION_FAILED_FOLLOW_DISTANCE	차를 놓쳤습니다.
+MISSION_FAILED_VEHICLE_DAMAGE_HINT0	힌트 : 큰 물체(건물·나무 등)에 부딪히지 마세요.
+MISSION_FAILED_VEHICLE_DAMAGE_HINT1	힌트 : 핸드브레이크로 미끄러뜨리며 차를 다루세요.
+MISSION_FAILED_VEHICLE_DAMAGE_HINT2	힌트 : 렌치를 찾아 차를 수리하세요.
+MISSION_FAILED_VEHICLE_DAMAGE_HINT3	힌트 : 미션에 들어가기 전에 지역을 둘러보세요.
+MISSION_FAILED_VEHICLE_DAMAGE_HINT4	힌트 : 정면충돌이 가장 큰 손상을 입힙니다.
+MISSION_FAILED_VEHICLE_DAMAGE_HINT5	힌트 : 동전을 모아 다른 차를 사세요.
+MISSION_FAILED_VEHICLE_DAMAGE_HINT6	힌트 : 전화 부스에서 차를 수리하세요.
+MISSION_FAILED_VEHICLE_DAMAGE_HINT7	힌트 : 큰 차일수록 더 잘 버팁니다.
+MISSION_FAILED_TIME_OUT_HINT0	힌트 : 모퉁이를 질러 시간을 아끼세요.
+MISSION_FAILED_TIME_OUT_HINT1	힌트 : 미션에 들어가기 전에 지역을 둘러보세요.
+MISSION_FAILED_TIME_OUT_HINT2	힌트 : 건물 사이에 지름길이 있습니다.
+MISSION_FAILED_TIME_OUT_HINT3	힌트 : 크러스티 유리를 찾으면 지름길이 있습니다.
+MISSION_FAILED_TIME_OUT_HINT4	힌트 : 일반 차량과 부딪히지 마세요.
+MISSION_FAILED_TIME_OUT_HINT5	힌트 : 동전을 모아 다른 차를 사세요.
+MISSION_FAILED_TIME_OUT_HINT6	힌트 : 전화 부스에서 차를 수리하세요.
+MISSION_FAILED_TIME_OUT_HINT7	힌트 : 속도가 관건입니다! 빠른 차를 모세요.
+MISSION_FAILED_FOLLOW_DISTANCE_HINT0	힌트 : 미션에 들어가기 전에 지역을 둘러보세요.
+MISSION_FAILED_FOLLOW_DISTANCE_HINT1	힌트 : 크러스티 유리를 찾으면 지름길이 있습니다.
+MISSION_FAILED_FOLLOW_DISTANCE_HINT2	힌트 : 쫓는 차를 시야에서 놓치지 마세요.
+MISSION_FAILED_FOLLOW_DISTANCE_HINT3	힌트 : 쫓는 차 바로 뒤에 붙어 다니세요.
+MISSION_FAILED_FOLLOW_DISTANCE_HINT4	힌트 : 지름길로 쫓는 차를 따라잡으세요.
+MISSION_FAILED_FOLLOW_DISTANCE_HINT5	힌트 : 쫓는 차와 속도를 맞춰 보세요.
+MISSION_FAILED_FOLLOW_DISTANCE_HINT6	힌트 : 동전을 모아 다른 차를 사세요.
+MISSION_FAILED_FOLLOW_DISTANCE_HINT7	힌트 : 핸드브레이크로 미끄러뜨리며 차를 다루세요.
+MISSION_FAILED_POSITION_HINT0	힌트 : 핸드브레이크로 미끄러뜨리며 차를 다루세요.
+MISSION_FAILED_POSITION_HINT1	힌트 : 지도를 둘러보며 경주 노선과 지름길을 익히세요.
+MISSION_FAILED_POSITION_HINT2	힌트 : 다른 차를 길 밖이나 큰 물체로 밀어붙이세요.
+MISSION_FAILED_POSITION_HINT3	힌트 : 크러스티 유리를 찾으면 지름길이 있습니다.
+MISSION_FAILED_POSITION_HINT4	힌트 : 건물 사이에 지름길이 있습니다.
+MISSION_FAILED_POSITION_HINT5	힌트 : 모퉁이를 질러 시간을 아끼세요.
+MISSION_FAILED_POSITION_HINT6	힌트 : 거리 경주를 모두 마치면 다른 차를 받습니다.
+MISSION_FAILED_POSITION_HINT7	힌트 : 동전을 모아 다른 차를 사세요.
+MISSION_FAILED_RACE_HINT0	힌트 : 핸드브레이크로 미끄러뜨리며 차를 다루세요.
+MISSION_FAILED_RACE_HINT1	힌트 : 지도를 둘러보며 경주 노선과 지름길을 익히세요.
+MISSION_FAILED_RACE_HINT2	힌트 : 다른 차를 길 밖이나 큰 물체로 밀어붙이세요.
+MISSION_FAILED_RACE_HINT3	힌트 : 크러스티 유리를 찾으면 지름길이 있습니다.
+MISSION_FAILED_RACE_HINT4	힌트 : 건물 사이에 지름길이 있습니다.
+MISSION_FAILED_RACE_HINT5	힌트 : 모퉁이를 질러 시간을 아끼세요.
+MISSION_FAILED_RACE_HINT6	힌트 : 거리 경주를 모두 마치면 다른 차를 받습니다.
+MISSION_FAILED_RACE_HINT7	힌트 : 동전을 모아 다른 차를 사세요.
+MISSION_FAILED_OUT_OF_BOUNDS_HINT0	힌트 : 차를 잘 몰고 다니세요.
+MISSION_FAILED_OUT_OF_BOUNDS_HINT1	힌트 : 좀 더 조심해서 운전하세요.
+MISSION_FAILED_OUT_OF_BOUNDS_HINT2	힌트 : 브레이크로 속도를 조절하세요.
+MISSION_FAILED_OUT_OF_BOUNDS_HINT3	힌트 : 차를 잘 몰고 다니세요.
+MISSION_FAILED_OUT_OF_BOUNDS_HINT4	힌트 : 핸드브레이크를 쓰면 모퉁이를 잘 돕니다.
+MISSION_FAILED_OUT_OF_BOUNDS_HINT5	힌트 : 앞에 나올 장애물을 미리 살피세요.
+MISSION_FAILED_OUT_OF_BOUNDS_HINT6	힌트 : 브레이크로 속도를 조절하세요.
+MISSION_FAILED_OUT_OF_BOUNDS_HINT7	힌트 : 앞에 나올 장애물을 미리 살피세요.
+MISSION_FAILED_GET_COLLECTIBLES_HINT0	힌트 : 물건을 하나라도 남기면 미션은 실패합니다.
+MISSION_FAILED_GET_COLLECTIBLES_HINT1	힌트 : 차를 쫓는 중에 물건에서 너무 멀어지지 마세요.
+MISSION_FAILED_GET_COLLECTIBLES_HINT2	힌트 : 쫓는 차를 시야에 두고 물건도 모두 챙기세요.
+MISSION_FAILED_GET_COLLECTIBLES_HINT3	힌트 : 차를 쫓는 중에도 물건을 남기지 마세요.
+MISSION_FAILED_GET_COLLECTIBLES_HINT4	힌트 : 물건을 「전부」 모아야 합니다.
+MISSION_FAILED_GET_COLLECTIBLES_HINT5	힌트 : 물건에서 너무 멀어지면 놓치게 됩니다.
+MISSION_FAILED_GET_COLLECTIBLES_HINT6	힌트 : 물건은 하나도 빠짐없이 모아야 합니다.
+MISSION_FAILED_GET_COLLECTIBLES_HINT7	힌트 : 쫓는 차 가까이 붙어 물건을 모두 챙기세요.
+MISSION_FAILED_HIT_N_RUN_HINT0	힌트 : 경찰에게 붙잡히지 마세요
+MISSION_FAILED_HIT_N_RUN_HINT1	힌트 : 옷을 갈아입으면 수배도가 내려갑니다
+MISSION_FAILED_HIT_N_RUN_HINT2	힌트 : 렌치로 차를 수리하세요
+MISSION_FAILED_HIT_N_RUN_HINT3	힌트 : 좀 더 조심해서 운전하세요
+MISSION_FAILED_HIT_N_RUN_HINT4	힌트 : 행인을 치지 마세요
+MISSION_FAILED_HIT_N_RUN_HINT5	힌트 : 옷을 갈아입으면 수배도가 내려갑니다
+MISSION_FAILED_HIT_N_RUN_HINT6	힌트 : 실내로 들어가면 수배도가 내려갑니다
+MISSION_FAILED_HIT_N_RUN_HINT7	힌트 : 난폭 운전은 경찰을 부릅니다
+MISSION_FAILED_NOT_ABDUCTED_HINT0	힌트 : 차에서 뛰어내리는 걸 잊지 마세요.
+MISSION_FAILED_NOT_ABDUCTED_HINT1	힌트 : 모선에 닿기 전에 차에서 뛰어내리세요.
+MISSION_FAILED_NOT_ABDUCTED_HINT2	힌트 : 견인 광선 안에서 차에서 뛰어내리세요.
+MISSION_FAILED_NOT_ABDUCTED_HINT3	힌트 : 차에서 뛰어내리는 걸 기억하세요.
+MISSION_FAILED_NOT_ABDUCTED_HINT4	힌트 : 차에서 뛰어내리는 걸 잊지 마세요.
+MISSION_FAILED_NOT_ABDUCTED_HINT5	힌트 : 모선에 닿기 전에 차에서 뛰어내리세요.
+MISSION_FAILED_NOT_ABDUCTED_HINT6	힌트 : 견인 광선 안에서 차에서 뛰어내리세요.
+MISSION_FAILED_NOT_ABDUCTED_HINT7	힌트 : 차에서 뛰어내리는 걸 기억하세요.
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT0	힌트 : 차 안에 머무르세요.
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT1	힌트 : 10초 안에 차로 돌아오세요.
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT2	힌트 : 차에서 내리지 마세요.
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT3	힌트 : 차로 돌아올 시간은 10초뿐입니다.
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT4	힌트 : 차 안에 머무르세요.
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT5	힌트 : 10초 안에 차로 돌아오세요.
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT6	힌트 : 차에서 내리지 마세요.
+MISSION_FAILED_PLAYER_OUT_OF_VEHICLE_HINT7	힌트 : 10초 안에 차에 다시 타야 합니다.
+MISSION_FAILED_PLAYER_HIT_HINT0	힌트 : 더 빠른 차를 구하세요.
+MISSION_FAILED_PLAYER_HIT_HINT1	힌트 : 지름길을 찾으세요.
+MISSION_FAILED_PLAYER_HIT_HINT2	힌트 : 렌치로 차를 수리하세요.
+MISSION_FAILED_PLAYER_HIT_HINT3	힌트 : 보이는 자판기는 모두 부수세요.
+MISSION_FAILED_PLAYER_HIT_HINT4	힌트 : 공격당하지 마세요.
+MISSION_FAILED_PLAYER_HIT_HINT5	힌트 : 전화 부스에서 새 차를 받으세요.
+MISSION_FAILED_PLAYER_HIT_HINT6	힌트 : 거리 경주를 모두 마치면 다른 차를 받습니다.
+MISSION_FAILED_PLAYER_HIT_HINT7	힌트 : 동전을 모아 더 튼튼한 차를 사세요.

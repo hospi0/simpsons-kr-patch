@@ -1,0 +1,87 @@
+# 심슨 히트 앤 런 — 인게임 안내 (Hud.pag / Prompt.pag / GenericPrompt.pag / Message.pag)
+# ⛔ TUTORIAL_000~015 는 «글자 스프라이트»가 그리므로 여기 없음 (영문 유지)
+# ★ $ # ¥ %d 는 게임이 채우는 자리이므로 그대로 둘 것
+# --- Hud.pag ---
+BUSTED	붙잡혔다!
+HIT_AND_RUN	히트 앤 런!
+STAGE_COMPLETE	과제 완료!
+GAGS_COMPLETE	이 지역 개그 완료!
+WASPS_COMPLETE	이 지역 말벌 완료!
+CARD_GET	수집 카드!
+CARD_LEVEL_COMPLETE	이 지역 카드 수집 완료!
+CARD_DECK_COMPLETE	카드 한 벌 완성!
+ITEM_DROPPED	물건을 떨어뜨렸다!
+MINI_TRACK_UNLOCKED	새 보너스 게임 트랙 해금!
+IS_MOVIE_UNLOCKED	새 보너스 게임 트랙 해금! 이치와 스크래치 영화표 해금!
+LAPS	바퀴
+KMH	km/h
+MPH	mph
+ORDINAL_1ST	위
+ORDINAL_2ND	위
+ORDINAL_3RD	위
+ORDINAL_4TH	위
+# --- Prompt.pag (선택지 단추) ---
+YES	예
+NO	아니오
+OK	확인
+RETRY	다시
+SAVE	저장
+LOAD	불러오기
+DELETE	파일 삭제
+CONTINUE	계속
+CONTINUE_WITHOUT_SAVE	저장하지 않고 계속
+CONTINUE_WITHOUT_FORMAT	포맷하지 않고 계속
+FORMAT_GC	메모리 카드 포맷
+MANAGE_MEM_CARD_GC	메모리 카드 관리
+# --- GenericPrompt.pag : 미션 조건 안내 ---
+INGAME_MESSAGE_00	이 미션을 하려면 「플로우 킹」이 필요합니다. 주유소의 바니에게 동전 150개로 구입하세요. 중요: 이미 가진 차는 전화 부스에서 부를 수 있습니다.
+INGAME_MESSAGE_01	이 미션을 하려면 「미스터 플로우」 트럭이 필요합니다. 병원 주차장의 호머에게 동전 200개로 구입하세요. 참고: 이미 가진 차는 전화 부스에서 부를 수 있습니다.
+INGAME_MESSAGE_02	이 미션을 하려면 「스쿨버스」가 필요합니다. 크러스티 캠프의 오토에게 동전 300개로 구입하세요. 참고: 이미 가진 차는 전화 부스에서 부를 수 있습니다.
+INGAME_MESSAGE_03	변장이 필요합니다. 안드로이드의 지하실이나 천문대에서 리사의 「멋진」 옷을 동전 250개로 구입하세요.
+INGAME_MESSAGE_04	옷을 더럽히면 안 됩니다. 퀵키 마트·바트의 방·스프링필드 초등학교에서 마지의 「죄수」 옷을 동전 300개로 구입하세요.
+INGAME_MESSAGE_05	봉사와 보호. 퀵키 마트·바트의 방·스프링필드 초등학교에서 마지의 경찰복을 동전 400개로 구입하세요.
+INGAME_MESSAGE_06	이 미션을 하려면 호머의 「개조차」가 필요합니다. 병원 주차장의 호머에게 동전 500개로 구입하거나, 이미 가졌다면 전화 부스에서 부르세요.
+INGAME_MESSAGE_07	변장이 필요합니다. 모의 술집이나 차량국에서 아푸의 미국인 옷을 동전 425개로 구입하세요.
+INGAME_MESSAGE_08	이 미션을 하려면 「글로벡스 슈퍼 악당 차」가 필요합니다. 크러스티루 입구의 키어니에게 동전 600개로 구입하거나, 이미 가졌다면 전화 부스에서 부르세요.
+INGAME_MESSAGE_09	이 미션을 하려면 「좀비 차」가 필요합니다. 스프링필드 묘지의 좀비에게 동전 500개로 구입하거나, 이미 가졌다면 전화 부스에서 부르세요.
+INGAME_MESSAGE_10	아즈텍 극장의 목소리 갈라진 알바생과 대화하세요.
+INGAME_MESSAGE_11	축하합니다! 새 차를 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+INGAME_MESSAGE_12	축하합니다! 클레터스의 픽업트럭을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+INGAME_MESSAGE_13	축하합니다! 할아버지의 2차대전 차를 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+INGAME_MESSAGE_14	축하합니다! 스키너 교장의 세단을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+INGAME_MESSAGE_15	축하합니다! 만화방 아저씨의 크렘린을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+INGAME_MESSAGE_16	축하합니다! 프링크 교수의 호버카를 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+INGAME_MESSAGE_17	축하합니다! 스네이크의 리틀 밴딧을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+INGAME_MESSAGE_18	축하합니다! 번즈 사장의 리무진을 얻었습니다. 전화 부스로 가면 탈 수 있습니다.
+# --- GenericPrompt.pag : 확인 대화상자 ---
+MSG_CONFIRM_ABORT	지금 미션을 취소할까요?
+MSG_CONFIRM_RESTART	지금 미션을 처음부터 다시 할까요?
+MSG_CONFIRM_NEW_GAME	새로 시작하면 저장하지 않은 진행 내용이 모두 사라집니다. 그래도 새로 시작할까요?
+MSG_CONFIRM_QUIT	정말 종료할까요?
+MSG_CONFIRM_RACE_AGAIN	한 번 더 달릴까요?
+MSG_CONFIRM_SAVE_BEFORE_QUIT	게임을 저장할까요?
+MSG_CONFIRM_START_MISSION	이 미션을 불러올까요?
+MSG_LOAD_SUCCESSFUL	불러오기 완료
+MSG_SAVE_SUCCESSFUL	저장 완료
+MSG_DISPLAY_PROGRESSIVE_SCAN	프로그레시브 모드로 출력할까요?
+MSG_DISPLAY_PROGRESSIVE_SCAN_CONFIRM	화면이 제대로 보였나요? 제대로 보였고 프로그레시브 모드로 출력하려면 「예」를, 아니면 「아니오」를 고르세요.
+MSG_DISPLAY_PROGRESSIVE_SCAN_TEST	프로그레시브 모드를 시험 중입니다. 5초 안에 인터레이스 모드로 되돌아갑니다.
+# --- GenericPrompt.pag : 메모리 카드 (게임큐브) ---
+MSG_DELETE_CORRUPT_(GC)	이 파일을 정말 지울까요?
+MSG_DELETE_CORRUPT_FAIL_(GC)	손상된 파일을 지우지 못했습니다. 슬롯 $ 의 메모리 카드를 확인하고 다시 시도하세요
+MSG_DELETE_CORRUPT_SUCCESS_(GC)	손상된 파일을 지웠습니다.
+MSG_FORMAT_CONFIRM_(GC)	슬롯 $ 의 메모리 카드가 손상되어 포맷이 필요합니다. 진행할까요?
+MSG_FORMAT_CONFIRM2_(GC)	메모리 카드를 포맷하면 저장된 자료가 모두 지워집니다. 포맷을 진행할까요?
+MSG_FORMAT_FAIL_(GC)	포맷에 실패했습니다. 슬롯 $ 의 메모리 카드가 손상되어 쓸 수 없습니다.
+MSG_FORMAT_SUCCESS_(GC)	포맷을 마쳤습니다.
+MSG_LOAD_CARD_EMPTY_(GC)	슬롯 $ 의 메모리 카드에 심슨 히트 앤 런 저장 자료가 없습니다.
+MSG_LOAD_CONFIRM_(GC)	이 게임을 불러오면 진행 중인 게임을 덮어씁니다. 계속할까요?
+MSG_SAVE_CONFIRM_(GC)	저장을 시작합니다. 메모리 카드와 전원 단추를 건드리지 마세요.
+MSG_SAVE_CONFIRM_OVERWRITE_(GC)	심슨 히트 앤 런 저장 자료가 이미 있습니다. 덮어쓸까요?
+# --- Message.pag : 진행 중 안내 (게임큐브) ---
+MSG_LOADING_MISSION	새 미션을 불러오는 중입니다. 잠시 기다려 주세요.
+MSG_AUTO_LOADING_GAME_(GC)	가장 최근 저장 자료를 자동으로 불러옵니다. 슬롯 $ 의 메모리 카드와 전원 단추를 건드리지 마세요.
+MSG_LOADING_GAME_(GC)	불러오는 중입니다. 슬롯 $ 의 메모리 카드와 전원 단추를 건드리지 마세요.
+MSG_SAVING_GAME_(GC)	저장하는 중입니다. 슬롯 $ 의 메모리 카드와 전원 단추를 건드리지 마세요.
+MSG_FORMATTING_(GC)	포맷하는 중입니다. 슬롯 $ 의 메모리 카드와 전원 단추를 건드리지 마세요.
+MSG_CONTROLLER_DISCONNECTED_(GC)	컨트롤러가 빠졌습니다.  \계속하려면 컨트롤러를  \포트 ¥ 에 다시 꽂으세요.

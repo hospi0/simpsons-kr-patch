@@ -1,0 +1,135 @@
+# 심슨 히트 앤 런 — 미션 로딩 화면 (MissionLoad.pag)
+# ★ %d %D 는 숫자 자리이므로 그대로 둘 것
+CANCEL_MISSION	미션 취소
+BEST_TIME	최고 기록:
+ENTRY_FEE	참가비:
+PAYOUT	상금:
+TIME_TO_BEAT	목표 기록:
+VEHICLE_ODDS	난이도:
+VEHICLE_ODDS_EASY	쉬움
+VEHICLE_ODDS_MEDIUM	보통
+VEHICLE_ODDS_HARD	어려움
+RACE_COMPLETE_ALL	모든 경주 완료 — 축하합니다!
+RACE_COMPLETE_SOME	경주 %d/%d 완료 — 축하합니다!
+RACE_COMPLETE_INFO_ALL_1	전화 부스로 가면 일렉토러스를 받을 수 있다
+RACE_COMPLETE_INFO_ALL_2	전화 부스로 가면 모의 세단을 받을 수 있다
+RACE_COMPLETE_INFO_ALL_3	전화 부스로 가면 분서 승합차를 받을 수 있다
+RACE_COMPLETE_INFO_ALL_4	전화 부스로 가면 광대차를 받을 수 있다
+RACE_COMPLETE_INFO_ALL_5	전화 부스로 가면 엘 카로 로코를 받을 수 있다
+RACE_COMPLETE_INFO_ALL_6	전화 부스로 가면 36년식 스투츠 베어캣을 받을 수 있다
+RACE_COMPLETE_INFO_ALL_7	전화 부스로 가면 오픈휠 레이서를 받을 수 있다
+MISSION_TITLE_L1_M0	콜라 대소동
+MISSION_TITLE_L1_M8	경주 1: 기록 도전
+MISSION_TITLE_L1_M9	경주 2: 서킷 경주
+MISSION_TITLE_L1_M10	경주 3: 체크포인트 경주
+MISSION_TITLE_L1_M11	경주 4: 내기 경주
+MISSION_TITLE_L2_M8	경주 1: 기록 도전
+MISSION_TITLE_L2_M9	경주 2: 서킷 경주
+MISSION_TITLE_L2_M10	경주 3: 체크포인트 경주
+MISSION_TITLE_L2_M11	경주 4: 내기 경주
+MISSION_TITLE_L3_M8	경주 1: 기록 도전
+MISSION_TITLE_L3_M9	경주 2: 서킷 경주
+MISSION_TITLE_L3_M10	경주 3: 체크포인트 경주
+MISSION_TITLE_L3_M11	경주 4: 내기 경주
+MISSION_TITLE_L4_M8	경주 1: 기록 도전
+MISSION_TITLE_L4_M9	경주 2: 서킷 경주
+MISSION_TITLE_L4_M10	경주 3: 체크포인트 경주
+MISSION_TITLE_L4_M11	경주 4: 내기 경주
+MISSION_TITLE_L5_M8	경주 1: 기록 도전
+MISSION_TITLE_L5_M9	경주 2: 서킷 경주
+MISSION_TITLE_L5_M10	경주 3: 체크포인트 경주
+MISSION_TITLE_L5_M11	경주 4: 내기 경주
+MISSION_TITLE_L6_M8	경주 1: 기록 도전
+MISSION_TITLE_L6_M9	경주 2: 서킷 경주
+MISSION_TITLE_L6_M10	경주 3: 체크포인트 경주
+MISSION_TITLE_L6_M11	경주 4: 내기 경주
+MISSION_TITLE_L7_M8	경주 1: 기록 도전
+MISSION_TITLE_L7_M9	경주 2: 서킷 경주
+MISSION_TITLE_L7_M10	경주 3: 체크포인트 경주
+MISSION_TITLE_L7_M11	경주 4: 내기 경주
+MISSION_INFO_WAGER_COINS	경주에 참가하려면 동전 %D개가 필요하다
+MISSION_INFO_L1_M0	퀵키 마트에 가서 아이스크림과 콜라를 사 오세요.
+MISSION_INFO_L1_M1	스키너 교장과 학교까지 경주해 리사에게 과학 과제물을 전해 주세요.
+MISSION_INFO_L1_M2	시간이 다 되기 전에 네드가 「잃어버린」 물건 6개를 모두 찾으세요!
+MISSION_INFO_L1_M3	스미더스가 발전소에 닿기 전에 그의 차를 부수세요.
+MISSION_INFO_L1_M4	시간이 다 되기 전에 전력 연결부를 모두 부수세요!
+MISSION_INFO_L1_M5	검은 승합차를 조사하고 따라가세요. 놓치면 안 됩니다!
+MISSION_INFO_L1_M6	시간이 다 되기 전에 배달 트럭을 들이받아 본스톰 게임을 모으세요!
+MISSION_INFO_L1_M7	스미더스보다 먼저 번즈 저택에 도착하세요.
+MISSION_INFO_L1_M8	시간이 다 되기 전에 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L1_M9	전 바퀴를 완주하고 1위로 경주를 마치세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L1_M10	체크포인트를 모두 지나 1위로 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L1_M11	시간이 다 되기 전에 한 바퀴를 완주하면 동전을 받습니다.
+MISSION_INFO_L1_M12	2분 30초 안에 두꺼운 종이통을 찾아 클레터스의 토마코 수확물을 모으세요.
+MISSION_INFO_L2_M1	스키너 교장을 피하세요! 시간이 다 되기 전에 트라이앤세이브로 가세요!
+MISSION_INFO_L2_M2	시간이 다 되기 전에 스프링필드 곳곳의 폭죽을 모으세요! 위검 서장을 피하세요!
+MISSION_INFO_L2_M3	범생이와 자바 서버까지 경주하세요.
+MISSION_INFO_L2_M4	허먼 군용 골동품점에 가서 프링크 교수에게 줄 2차대전 무전기를 찾으세요.
+MISSION_INFO_L2_M5	시간이 다 되기 전에 납작고기를 모으세요! 아푸를 피하세요!
+MISSION_INFO_L2_M6	시간이 다 되기 전에 원숭이를 모으세요! 그다음 닉 선생에게서 믹서기를 받으세요.
+MISSION_INFO_L2_M7	시간이 다 되기 전에 휴대폰 쓰는 운전자들의 차를 모두 부수세요!
+MISSION_INFO_L2_M8	시간이 다 되기 전에 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L2_M9	전 바퀴를 완주하고 1위로 경주를 마치세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L2_M10	체크포인트를 모두 지나 1위로 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L2_M11	시간이 다 되기 전에 한 바퀴를 완주하면 동전을 받습니다.
+MISSION_INFO_L2_M12	할아버지에게 드릴 혈액을 모으세요.
+MISSION_INFO_L3_M1	범생이와 이치와 스크래치 가게까지 경주하세요. 시간이 다 되기 전에 만화책을 되찾으세요!
+MISSION_INFO_L3_M2	밀하우스의 단서를 따라 바트를 찾으세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L3_M3	아푸가 육식주의자들을 이기도록 도우세요. 시간이 다 되기 전에 클레터스의 트럭을 들이받아 고기를 모으세요!
+MISSION_INFO_L3_M4	검은 세단들을 부숴 단서를 찾으세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L3_M5	스네이크를 따라가 그의 죄를 입증할 「삼진」 증거를 찾으세요. 하나도 놓치면 안 됩니다!
+MISSION_INFO_L3_M6	선장의 물고기를 구하세요. 시간이 다 되기 전에 물고기를 모두 모으세요!
+MISSION_INFO_L3_M7	검은 리무진을 부숴 바트를 찾으세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L3_M8	시간이 다 되기 전에 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L3_M9	전 바퀴를 완주하고 1위로 경주를 마치세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L3_M10	체크포인트를 모두 지나 1위로 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L3_M11	시간이 다 되기 전에 한 바퀴를 완주하면 동전을 받습니다.
+MISSION_INFO_L3_M12	시간이 다 되기 전에 스키너 교장의 심부름을 도와주세요!
+MISSION_INFO_L4_M1	시간이 다 되기 전에 위검 서장을 찾아 도넛을 모아 주세요!
+MISSION_INFO_L4_M2	클레터스를 따라가며 트럭에서 떨어지는 물건을 모으세요. 하나도 놓치면 안 됩니다!
+MISSION_INFO_L4_M3	클레터스의 겨울나기 케첩 수확을 도우세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L4_M4	위검 서장과 은퇴자의 성까지 경주하세요!
+MISSION_INFO_L4_M5	시간이 다 되기 전에 불량배들에게서 할아버지 약을 되찾으세요. 하나도 놓치면 안 됩니다!
+MISSION_INFO_L4_M6	시간이 다 되기 전에 달려가 사악한 콜라 캔을 모두 모으세요!
+MISSION_INFO_L4_M7	시간이 다 되기 전에 콜라 배달 트럭을 모두 부수세요!
+MISSION_INFO_L4_M8	시간이 다 되기 전에 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L4_M9	전 바퀴를 완주하고 1위로 경주를 마치세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L4_M10	체크포인트를 모두 지나 1위로 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L4_M11	시간이 다 되기 전에 한 바퀴를 완주하면 동전을 받습니다.
+MISSION_INFO_L4_M12	학교로 가서 가로챈 선물을 모두 모으세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L5_M1	콜라 트럭을 따라가며 증거를 모두 모으세요. 콜라 상자를 하나도 놓치면 안 됩니다!
+MISSION_INFO_L5_M2	시간이 다 되기 전에 병원으로 가세요! 조직폭력배를 피하세요!
+MISSION_INFO_L5_M3	시간이 다 되기 전에 셸비빌 승합차를 들이받아 기저귀를 모으세요!
+MISSION_INFO_L5_M4	경찰을 따라가 범죄자를 찾으세요.
+MISSION_INFO_L5_M5	시간이 다 되기 전에 쓰레기를 모두 모으세요. 하나도 놓치면 안 됩니다!
+MISSION_INFO_L5_M6	스네이크의 「사회봉사」를 도우세요. 현금 수송차를 부수고 위검 서장을 피하세요!
+MISSION_INFO_L5_M7	관장이 떠나기 전에 박물관으로 가세요.
+MISSION_INFO_L5_M8	시간이 다 되기 전에 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L5_M9	전 바퀴를 완주하고 1위로 경주를 마치세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L5_M10	체크포인트를 모두 지나 1위로 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L5_M11	시간이 다 되기 전에 한 바퀴를 완주하면 동전을 받습니다.
+MISSION_INFO_L5_M12	시간이 다 되기 전에 호버카를 찾아 무력화하세요!
+MISSION_INFO_L6_M1	크러스티가 떠나기 전에 아이들을 모두 태우고 크러스티루 스튜디오로 가세요.
+MISSION_INFO_L6_M2	크러스티의 리무진을 찾아 크러스티를 찾으세요. 리무진이 그를 태우기 전에 말을 거세요.
+MISSION_INFO_L6_M3	프링크 교수를 찾아 따라가세요.
+MISSION_INFO_L6_M4	양조장으로 가서 외계인의 계획을 막으세요. 트럭을 들이받아 레이저총을 모으세요.
+MISSION_INFO_L6_M5	시간이 다 되기 전에 스키너 교장의 차를 부수고 레이저총을 되찾으세요!
+MISSION_INFO_L6_M6	시간이 다 되기 전에 스프링필드의 무료 레이저총 매대를 모두 부수세요!
+MISSION_INFO_L6_M7	외계인들이 달아나기 전에 양조장까지 달리세요.
+MISSION_INFO_L6_M8	시간이 다 되기 전에 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L6_M9	전 바퀴를 완주하고 1위로 경주를 마치세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L6_M10	체크포인트를 모두 지나 1위로 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L6_M11	시간이 다 되기 전에 한 바퀴를 완주하면 동전을 받습니다.
+MISSION_INFO_L6_M12	스네이크의 「뒷정리」를 도우세요. 위검 서장의 차를 부수고 증거를 모으세요.
+MISSION_INFO_L7_M1	좀비를 막을 물자를 모으세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L7_M2	외계인 차가 어디로 향하는지 알아내세요. 차를 따라가세요!
+MISSION_INFO_L7_M3	외계인에게서 프링크 교수를 지키세요. 핵폐기물을 우주선까지 배달하세요.
+MISSION_INFO_L7_M4	시간이 다 되기 전에 핵폐기물이 있는 곳을 찾으세요!
+MISSION_INFO_L7_M5	핵폐기물을 모아 우주선까지 배달하세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L7_M6	핵폐기물을 모아 우주선까지 배달하세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L7_M7	핵폐기물을 모아 우주선까지 배달하세요. 시간을 넘기면 안 됩니다!
+MISSION_INFO_L7_M8	시간이 다 되기 전에 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L7_M9	전 바퀴를 완주하고 1위로 경주를 마치세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L7_M10	체크포인트를 모두 지나 1위로 결승선을 통과하세요. 차를 부수면 안 됩니다.
+MISSION_INFO_L7_M11	시간이 다 되기 전에 한 바퀴를 완주하면 동전을 받습니다.
+MISSION_INFO_L7_M12	시간이 다 되기 전에 스미더스가 번즈 사장의 물건을 찾도록 도우세요.
