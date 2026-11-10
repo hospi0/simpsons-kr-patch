@@ -1,0 +1,99 @@
+v_damage_clt_ma	야, 이 차 닭 열 마리 주고 산 거여!
+v_damage_clt_school	아이고, 옥수수 술 다 쏟았당께.	영문교정: spilt my corn liquor
+v_damage_clt_stop	아이고, 뼈마디가 다 부서졌구먼!	추정: «stank bones»
+v_damage_skn_already	그만 좀 해!
+v_damage_skn_ambush	매복이다!
+v_damage_skn_beret	훈장 받을 뻔한 참전 용사를 건드리지 마라!
+v_damage_skn_hot	오, 텀블러 떨어뜨렸다.
+v_damage_smi_01	보안팀, 18구역으로.	추정
+v_damage_smi_burns	번즈 사장님이 내 보너스에서 까시겠군.
+v_damage_smi_salary	아, 번즈 사장님이 이걸로 날 채찍질하실 게 뻔해.
+v_damage_smi_stopit	그렇게 굴면 못써.
+v_damage_smi_why	이 얼간이, 이 차에 강아지들이 타 있단 말이야.
+v_damage_snk_bandit	내 차가! 아파서 우네!
+v_damage_snk_car	이 차 구하려고 내가 무슨 짓을 했는지 알아?
+v_damage_snk_dead	오, 넌 완전 죽었다!
+v_damage_wig_01	오, 이제 너 쫓아가야 하잖아!
+v_damage_wig_02	교통 법규 위반이다!
+v_damage_wig_04	이거 쓰게 만들지 마라, 진짜 쓴다!
+v_damage_wig_05	아, 왜 이래!
+v_damage_wig_06	아, 좀 왜 이래!
+v_hitcar_clt_enjoy	클레투스가 맛 좀 보여 준다!
+v_hitcar_clt_skeer	트럭 맛 좀 봐라, 이 양반들아!
+v_hitcar_clt_yeeha	이햐!
+v_hitcar_skn_educate	제대로 교육시켜 주지.
+v_hitcar_skn_fire	발사!
+v_hitcar_skn_take	맛 좀 봐라!
+v_hitcar_smi_01	그래, 좋지? 그렇지?
+v_hitcar_smi_army	찌그러짐이나 먹어라, 친구.	추정: «Eat dent»
+v_hitcar_smi_laugh	하하하하하하!
+v_hitcar_smi_treehugger	내가 네 차를 찌그러뜨렸어. 그럼 내 차도 찌그러졌겠지만.|그래도 네 차를 찌그러뜨렸다고.
+v_hitcar_snk_extreme	완전 극한이다!
+v_hitcar_snk_impact	쩌는 충격.
+v_hitcar_snk_phat	호호! 죽인다!
+v_hitcar_wig_01	아, 그래. 법이 허락한 폭력. 달콤하지 않냐?
+v_hitcar_wig_02	아야! 총 깔고 앉았다!	영문교정: sat on my gun
+v_hitcar_wig_03	이 차가 시 소유라서 다행이지.
+v_hitcar_wig_04	치즈 데니시처럼 달콤하구먼.
+v_hitcar_wig_05	휴! 치즈 데니시처럼 달콤하구먼!
+v_mfail_clt_bested	너보다 머리 좋은 사람한테 졌구먼.	영문교정: bested
+v_mfail_clt_blame	내가 이겼다! 주머니쥐 파이로 축하해야겄구먼!
+v_mfail_clt_how	와! 내가 어떻게 한 거여?
+v_mfail_skin_remedial	보충반 감 운전자로군.
+v_mfail_skn_drivers	운전 교습이라도 받으면 좀 낫겠지.
+v_mfail_skn_malk	하! 엎질러진 우유 보고 울지 마라!
+v_mfail_skn_mother	모든 건 어머니의 날카로운 눈과 엄한 손 덕분이다.
+v_mfail_smi_01	석사 학위나 따고 다시 와.
+v_mfail_smi_bees	너 같은 일벌은 꿀이나 모으는 게 어울려.
+v_mfail_smi_carbon	도시락 싸 다니는 부류가 나한테 덤비면 안 되지.
+v_mfail_smi_organ	실업 수당 줄에서 보자고. 아니 난 못 보겠군, 나는 직장이 있으니까. 그래도, 야호!
+v_mfail_smi_victory	아, 승리는 힘을 주는군.
+v_mfail_snk_chill	진정해, 친구. 이제 익숙할 때도 됐잖아.
+v_mfail_snk_heat	오 안 돼! 짭새다!
+v_mfail_snk_mygod	오 마이 갓! 오 마이 갓!
+v_mfail_wig_01	왜 그래? 압박감을 못 견디겠냐?
+v_mfail_wig_02	매일 두들겨 패니까 경찰이 몸매 관리가 되지.
+v_mfail_wig_03	그렇게 두들겨 맞으니 우리 경찰들 몸매가 유지된다니까.	다시 받아쓰기
+v_mfail_wig_04	아이고, 돼지처럼 땀나네.
+v_mfail_wig_05	아이고, 돼지처럼 땀나네.
+v_mvic_clt_01	그러지 말았어야 했는디 말이여. 어허.
+v_mvic_clt_bail	내 평생 처음으로 패배자가 된 기분이구먼.
+v_mvic_clt_dang	아이고, 이중으로 젠장할!
+v_mvic_clt_rise	거참, 저게 미끄러운 돼지가 아니면 뭐가 돼지여.
+v_mvic_skn_blame	이 분풀이는 숫자 색칠놀이에 해야겠군.	영문교정: take this out on
+v_mvic_skn_children	너와 네 자식들이 대가를 치를 것이다.
+v_mvic_skn_childrena	너와 네 자식들이 대가를 치를 것이다.
+v_mvic_skn_mad	오, 어머니가 틀림없이 언짢아하실 거야.
+v_mvic_skn_mada	어머니가 언짢아하실 거야, 틀림없어.
+v_mvic_skn_release	분필 때문에 생긴 직업병만 없었어도 이겼을 텐데.
+v_mvic_smi_01	어떻게 하는지 모르겠지만, 너무 좋아!
+v_mvic_smi_02	경외심이 드는군.
+v_mvic_smi_03	비결을 알려 주면 세안 스크럽 하나 주지.
+v_mvic_smi_04	훌륭해!
+v_mvic_smi_05	망할, 그 패기 같으니.
+v_mvic_snk_parol	완전 칼침 놔 주마!
+v_mvic_snk_prison	다시 감방 신세겠군.
+v_mvic_snk_victim	그래도 내 범죄는 대부분 피해자가 없었지.
+v_mvic_wig_airship	용의자는 무슨 비행선 같은 걸 몰고 있는 것으로 추정.
+v_mvic_wig_crime	좋아. 네 죄는 다른 놈 잡아넣지 뭐.
+v_mvic_wig_dog	코드 172. 나쁜 일 진행 중.
+v_mvic_wig_stranger	언젠가 잡고 말겠다, 수수께끼의 낯선 자여.
+v_mvic_wig_suspecta	용의자 놓쳤음. 낮잠 들어감.
+v_mvic_wig_taze	다음엔 그냥 전기총 쏜다.
+v_tail_clt_01	우! 듀크 형제들이 된 기분이구먼!
+v_tail_clt_later	잘 가라, 양키!
+v_tail_clt_smart	내가 더 똑똑했지롱!	추정: «House out!»
+v_tail_clt_waste	그 잘난 초등학교 2학년 교육이 헛수고였나 보구먼!
+v_tail_skn_01	오, 어머니가 이 얘길 들으시면.
+v_tail_skn_02	A 트리플 플러스.
+v_tail_skn_fools	바보들! 바보들!
+v_tail_skn_smoke	해냈다! 이제 에드나가 날 좀 다르게 보겠지.
+v_tail_skn_victory	내 생애 첫 승리의 맛!
+v_tail_smi_01	아랫사람이 또 이겼다!
+v_tail_smi_serf	잘 가, 육체노동자.
+v_tail_smi_try	잘했는데! 자, 이제 어디서 얼굴 마사지를 받지?
+v_tail_smi_unemployment	웨일런 스미더스를 미행으로 잡은 놈은 아무도 없지.
+v_tail_snk_posersa	잘 가라, 허세꾼들!
+v_tail_snk_radical	죽인다!
+v_tail_snk_shame	호호! 부끄러운 줄 알아라, 패배자!
+v_tail_wig_01	아이고. 한심했다.

@@ -1,0 +1,4 @@
+# v0.9 UI 덮어쓰기 — 색인<TAB>번역 (ui_kr_boot_en6.tsv 위에 얹는다)
+# 136 CANCEL: v0.8 은 레터박스 «자막 칸»이라 영문으로 뒀다. 쓰는 곳 = ingame.p3d Cancel.pag · LetterBoxButtons.pag
+#             둘 다 boulderK16 참조, 취(U+CDE8)·소(U+C18C) 글리프 있음 확인 (2026-11-11, 하스피 «캔슬도 취소로»)
+136	취소

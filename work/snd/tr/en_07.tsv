@@ -1,0 +1,230 @@
+w_activate_apu_go	1.01	Push, push, push!	
+w_activate_apu_hope	1.12	I hope this works.	
+w_activate_apu_try	1.54	Hmm, let's try this thing.	
+w_activate_brt_01	1.51	This looks like part of the game.	
+w_activate_brt_02	2.07	Okay, let's fire this thing up.	
+w_activate_brt_03	1.33	Here's hoping I don't die.	
+w_activate_brt_beep	0.43	BEEP	
+w_activate_brt_click	2.23	Hello, inactivatable object!	
+w_activate_brt_cool	1.22	Hope this does something cool.	
+w_activate_brt_do	0.71	What's this do?	
+w_activate_hom_buttons	3.65	Woohoo! I love senselessly pushing things!	
+w_activate_hom_press	2.77	Oh, I hope do not press means press right away!	
+w_activate_hom_thing	1.14	Dingy goes up!	
+w_activate_hom_what	0.94	What's this do?	
+w_activate_lis_01	1.10	Engage!	
+w_activate_lis_02	2.12	What basic controls?	
+w_activate_lis_do	2.74	A device of some sort. It's fascinating!	
+w_activate_lis_fuction	1.84	I should be able to discern its function.	
+w_activate_lis_hope	1.73	Come on, Doohickey, work!	
+w_activate_lis_simple	1.97	Seems like a simple mechanism.	
+w_activate_mrg_01	2.18	Let's see what this does.	
+w_activate_mrg_02	2.16	Just one little adjustment.	
+w_activate_mrg_do	1.09	What's this feeling?	
+w_activate_mrg_doing	2.90	I'll do it. I always end up doing it.	
+w_activate_mrg_mind	2.13	Nobody will mind if I touch this.	
+w_activate_mrg_try	2.97	Hmph. I'll wiggle this thing, Gummy!	
+w_aidestroy_apu_impress	2.48	I am most assuredly impressed.	
+w_aidestroy_apu_never	2.27	Never have I seen such excellence!	
+w_aidestroy_apu_thrilling	1.70	That was most thrilling!	
+w_aidestroy_apu_trem	0.99	Tremendous!	
+w_aidestroy_brt_cool	2.98	That was the coolest!	
+w_aidestroy_brt_mess	2.06	Mess with the best, end up like the rest!	
+w_aidestroy_brt_pay	1.29	Just pay me now!	
+w_aidestroy_brt_rock	1.40	Rock the cast bar, dude!	
+w_aidestroy_hom_01	3.38	Everyone sucks but me!	
+w_aidestroy_hom_02	1.87	Homer, Homer, Homer!	
+w_aidestroy_hom_03	1.89	You think you're better than me?	
+w_aidestroy_hom_04	1.17	In your face!	
+w_aidestroy_lis_01	3.52	Ha ha ha! They didn't even see it coming!	
+w_aidestroy_lis_02	0.71	GOTCHA!	
+w_aidestroy_lis_03	1.03	Take that!	
+w_aidestroy_lis_04	2.11	Brains have defeated Brawn.	
+w_aidestroy_mrg_01	1.89	No more bad guy!	
+w_aidestroy_mrg_02	1.84	Make room for Marge!	
+w_aidestroy_mrg_auto	1.56	I'll call the Auto Club!	
+w_aidestroy_mrg_hope	1.40	I hope he's okay!	
+w_aidestroy_mrg_house	2.29	Marge is in the house!	
+w_aidestroy_mrg_wreckless	2.00	One less reckless driver.	
+w_air_apu_fun	1.79	I am having so much fun!	
+w_air_apu_house	1.99	I can see my house from here!	
+w_air_apu_maha	2.32	I am higher than the Maharishi!	
+w_air_apu_vishnu	2.46	Vishnu, here I come!	
+w_air_brt_cool	2.20	Cool!	
+w_air_brt_dude	1.46	Cowabunga, dude!	
+w_air_brt_laugh	1.69	Ha ha ha ha ha!	확인 필요
+w_air_brt_score	1.84	High score, here I come!	
+w_air_brt_whee	1.55	Whee!	확인 필요
+w_air_hom_01	1.94	Just call me Air Homer!	
+w_air_hom_02	1.33	So long, suckers!	
+w_air_hom_03	1.34	Eat my dust!	
+w_air_hom_04	1.71	WOOHOO! ALRIGHT!	
+w_air_lis_01	2.41	Look at me! I'm flying!	
+w_air_lis_02	1.39	Whee!	
+w_air_lis_03	1.86	Kid Power!	
+w_air_lis_04	1.81	I can touch the sky!	
+w_air_mrg_01	2.00	HAAAAAAAAAAAAAAAAAAAAAAAH!	확인 필요
+w_air_mrg_02	1.83	Oh, my heavens!	
+w_air_mrg_03	2.96	Easy, EASY!	
+w_air_mrg_04	2.59	Wow, a lot of people have pools!	
+w_answer_snk_01	10.10	Yo, you've, like, reached the Gustafson residence. Mr. Gustafson can't come to the phone right now, but he is alive. Also, Gustafson gave me his house.	
+w_answer_snk_01a	13.01	Hello. You've reached, like, the Gustafson residence. Mr. Gustafson can't come to the phone right now, but he is totally alive. Um, also, Gustafson gave me his house.	
+w_arrive_apu_easy	1.38	I make this look easy.	
+w_arrive_apu_here	1.62	Here we are at the destination.	
+w_arrive_apu_karma	0.81	Good Karma.	
+w_arrive_brt_easy	1.20	Easy peasy!	
+w_arrive_brt_hard	1.28	How about a hard one next time?	
+w_arrive_brt_problemo	1.72	No problemo!	
+w_arrive_brt_safe	1.77	Safe and Sound.	
+w_arrive_hom_01	2.88	Woohoo! You should be in Cannonball Run!	
+w_arrive_hom_02	1.68	Way to ignore the speed limit!	
+w_arrive_hom_03	2.74	Your driving is adequate, but lacks passion.	
+w_arrive_hom_04	5.67	That was easy as pie. Mmm, eggs over easy.	
+w_arrive_hom_04a	5.04	That was easy as pie. Mmm, eggs over easy.	
+w_arrive_hom_drunk	1.93	When this is over, I'm hittin' the sauce.	
+w_arrive_lis_01	2.37	Here we are, safe and sound.	
+w_arrive_lis_02	2.17	Now, that was efficient.	
+w_arrive_lis_03	2.46	You have a gift for speed!	
+w_arrive_lis_04	2.87	Not too fast, not too slow, just right.	
+w_arrive_mrg_01	1.33	Now where do I go?	
+w_arrive_mrg_02	1.88	Safe and sound.	
+w_arrive_mrg_03	2.60	Oh my goodness, that was so fast!	
+w_arrive_mrg_04	1.17	TARRAAAA-	확인 필요
+w_askfood_apu_fatty	3.59	All right, juvenile, serve me a fatty poison of some kind.	
+w_askfood_apu_food	2.61	My huge pot belly is completely empty.	
+w_askfood_apu_giving	2.33	Pleased to be giving me something to eat, thank you.	
+w_askfood_apu_kill	2.33	What do you have that won't immediately kill me?	
+w_askfood_apu_outside	2.28	How odd to eat non-quickie mutt food.	
+w_askfood_apu_vegan	2.21	Do you have anything at all made of chickpeas?	
+w_askfood_brt_calorie	1.61	Need a calorie hit, my good man.	
+w_askfood_brt_content	2.35	I need something with no vegetable content, please.	
+w_askfood_brt_fatty	3.36	Got a lot of running around to do today. Something sweet and fatty, please!	
+w_askfood_brt_special	1.87	What's today's special du jour?	
+w_askfood_brt_sugar	1.37	Gimme a sugar fix, please.	
+w_askfood_brt_value	3.29	Give me something with no nutritional value, please.	
+w_askfood_hom_01	3.77	I need food that's flavorful, yet supple to the touch.	
+w_askfood_hom_blood	2.73	My blood cholesterol is low. Give me a recharge.	
+w_askfood_hom_burrito	2.69	I'm looking for something in a breakfast burrito.	
+w_askfood_hom_chest	3.48	Whatever food doesn't kill me, makes me stronger.	
+w_askfood_hom_content	4.20	What do you have that is high in both fat and alcohol content?	
+w_askfood_hom_fatty	2.67	I need a selection of fatty treats, please.	
+w_askfood_hom_holiday	2.91	What do you have that will tantalize my very discerning palate?	
+w_askfood_lis_animal	3.19	Give me nutrition that didn't hurt an animal in any way!	
+w_askfood_lis_gruel	5.59	I'm so hungry, I'll eat anything as long as it's organic, vegan, and cruelty-free.	
+w_askfood_lis_more	2.05	Please sir, can I have some more?	
+w_askfood_lis_perk	2.91	I'm a little tuckered out. What have you got that'll perk me up?	
+w_askfood_lis_snack	2.39	I need some healthy snack food, please.	
+w_askfood_lis_starving	3.99	I'm starving and I'm on a mission. What a time to be vegetarian!	
+w_askfood_mrg_caboose	3.33	What do you have that won't put too much meat on my caboose?	
+w_askfood_mrg_calorie	2.47	What's the lowest calorie meal you have?	
+w_askfood_mrg_hungry	2.23	I'm starving like Marvin!	
+w_askfood_mrg_pick	2.64	I need a serious pick-me-up.	
+w_askfood_mrg_recommend	1.80	What grubber chow do you have?	
+w_askfood_mrg_today	1.33	What do you have today?	
+w_askride_apu_life	3.98	If you give me a ride, I will pay you a million dollars in the next life, I promise.	
+w_askride_apu_ride	1.50	Could I possibly get a ride?	
+w_askride_brt_01	3.57	Attention cars! Ten-year-old hitchhiker needs a ride!	
+w_askride_brt_02	4.15	Breaker Breaker, this is Bart Simpson requesting one pimp ride ASAP.	
+w_askride_brt_03	2.75	If it wouldn't be too much trouble, I really need a new car.	
+w_askride_brt_lift	2.50	Yo, Lyft? Now? Please?	
+w_askride_brt_little	2.74	Hello, drivers. Got a little situation here.	
+w_askride_hom_getme	2.64	Can you come and get me? I'll pay you in back rubs!	
+w_askride_hom_getmea	3.00	Can you come and get me? I'll pay you in back rubs!	
+w_askride_hom_getmeb	3.32	Can you come and get me? I'll pay you in back rubs!	
+w_askride_hom_getmec	3.31	Can you come and get me? I'll pay you in back rubs!	
+w_askride_hom_sleeping	2.78	I need your help, my car is, uh, sleeping.	
+w_askride_lis_01	2.61	I hope kids at home don't imitate my hitchhiking.	
+w_askride_lis_02	1.10	Could you come get me?	
+w_askride_lis_03	2.26	I need a ride here. Stat!	
+w_askride_lis_pick	1.37	Can you please pick me up?	
+w_askride_lis_stranded	4.65	Um, um, I seem to be stranded here. Can you help a sister out?	
+w_askride_mrg_01	1.43	I could really use a lift.	
+w_askride_mrg_02	1.87	Hook me up with some wheels, man!	
+w_askride_mrg_lift	2.35	Kind sir, could you give me a lift?	
+w_askride_mrg_pickup	2.22	Sexy Mommy needs a ride!	
+w_bcrash_apu_driving	2.70	What are you trying to prove with this crazy driving?	
+w_bcrash_apu_future	2.52	Perhaps I should refrain from doing that in the future.	
+w_bcrash_apu_ohno	1.12	Oh, no!	
+w_bcrash_apu_skull	2.70	Oh! I smashed my skull!	
+w_bcrash_brt_01	1.75	Lousy laws of physics.	
+w_bcrash_brt_02	1.10	Take that!	
+w_bcrash_brt_03	1.93	Oh yeah baby, bring it on!	
+w_bcrash_brt_04	1.63	I hope that was expensive.	
+w_bcrash_brt_05	1.87	I should do that more often.	
+w_bcrash_brt_06	1.65	Hope that didn't break my memory card.	
+w_bcrash_brt_cool	2.28	Oh, that was so cool!	
+w_bcrash_brt_oops	0.83	Oops.	
+w_bcrash_brt_take	0.93	Take that!	
+w_bcrash_brt_whoa	1.42	Whoa!	
+w_bcrash_hom_01	2.08	Okay, that's a lawsuit.	
+w_bcrash_hom_02	2.87	Lousy, rotten, karmic retribution.	
+w_bcrash_hom_03	1.29	I HAVE NO INSURANCE!	
+w_bcrash_hom_04	1.91	Oh, now I have a wedgie!	
+w_bcrash_lis_01	0.90	Ow!	
+w_bcrash_lis_02	0.93	Oh no!	
+w_bcrash_lis_03	1.66	Ow! My hair!	
+w_bcrash_lis_04	1.27	Ow! My hair!	
+w_bcrash_lis_07	0.71	Darn it!	
+w_bcrash_mrg_01	1.41	Are you blind?	
+w_bcrash_mrg_03	1.78	Oh my goodness!	
+w_bcrash_mrg_04	0.91	My bad!	
+w_bcrash_mrg_05	2.27	I'm not very good at this.	
+w_bcrash_mrg_06	1.54	I'm not very good at this.	
+w_break_apu_aisle	1.99	Ha! Clean up in aisle 1!	
+w_break_apu_random	3.05	This is just between me and you, random object!	
+w_break_apu_shiva	2.33	Oh, Shiva smiles on such behavior.	
+w_break_brt_nice	1.18	Woo! Nice one!	
+w_break_brt_right	1.04	Alright!	
+w_break_brt_total	2.63	That was totally awesome!	
+w_break_brt_wicked	1.93	Whoa, wicked!	
+w_break_hom_01	1.29	Looks harder than it is.	
+w_break_hom_02	0.80	Woo-hoo!	
+w_break_hom_03	0.72	I didn't do it.	
+w_break_hom_04	0.66	Bart did it.	
+w_break_hom_05	1.29	I blame society.	
+w_break_hom_06	1.47	Nothing lasts forever.	
+w_break_hom_06a	1.35	Nothing lasts forever.	
+w_break_hom_07	1.73	Possessions are fleeting.	
+w_break_hom_herea	1.71	Uh, it was like that when I got here.	
+w_break_lis_01	2.26	HA HA HA HA HA!	확인 필요
+w_break_lis_02	1.09	Mea culpa.	
+w_break_lis_03	2.00	Great! More liberal guilt!	
+w_break_lis_04	0.83	My bad.	
+w_break_lis_05	1.98	Hey, I'm just a little girl.	
+w_break_lis_blame	2.05	I hope Bart gets blamed for that.	
+w_break_lis_recycle	1.94	I hope those were recyclable!	
+w_break_lis_sorry	1.23	Sorry, sorry!	
+w_break_mrg_01	1.31	Oh, my!	
+w_break_mrg_02	1.05	Oh my!	
+w_break_mrg_03	2.81	You shouldn't enjoy that.	
+w_break_mrg_04	2.18	Canyonero!	
+w_break_mrg_05	0.99	Whoops!	
+w_break_mrg_06	1.82	Oh, that's gonna cost me.	
+w_break_mrg_hope	2.31	Oh, I hope I don't have to pay for that.	
+w_break_mrg_insurance	2.27	Is this going to affect my insurance?	
+w_break_mrg_smashie	1.99	Smashy Smashy!	
+w_breakca_apu_01	2.57	Call me the Hindu God of Death!	
+w_breakca_apu_creepy	2.68	These things are just too creepy.	
+w_breakca_apu_forgive	2.26	Well, forgive my action, little device.	
+w_breakca_apu_forgivea	1.93	Oh, forgive my action, little device.	
+w_breakca_apu_lessa	1.01	One less of you!	
+w_breakca_brt_01	1.26	Hmm, gotcha!	확인 필요
+w_breakca_brt_02	2.06	Ha ha ha ha ha ha!	
+w_breakca_brt_03	2.33	El Barto strikes again!	
+w_breakca_brt_04	3.06	One less expensive electronic device in the world.	
+w_breakca_brt_05	1.42	Outta my face!	
+w_breakca_brt_dislike	3.13	If there's one thing I dislike, it's security cameras.	
+w_breakca_brt_vandals	2.64	Petty vandals and security cameras do not mix.	
+w_breakca_hom_firework	1.85	Marge will clean this mess up later.	
+w_breakca_hom_smart	3.15	If you're so smart, how come I broke you?	
+w_breakca_hom_smash	1.78	It's not like anyone likes these things.	
+w_breakca_hom_stupid	2.58	Ha ha! Stupid like a fox!	
+w_breakca_lis_01	2.47	Find someone less passive to spy on.	
+w_breakca_lis_02	4.17	These cameras are a form of oppression. Thus, my action is justified.	
+w_breakca_lis_03	2.51	Strike a blow for privacy rights!	
+w_breakca_lis_expensive	2.16	Looks expensive. Too bad.	
+w_breakca_lis_fun	2.66	Antisocial behavior can be fun!	
+w_breakca_lis_millions	2.77	I do not want to be watched by millions, thank you.	
+w_breakca_lis_this	0.95	Karate Kick.	
+w_breakca_mrg_01	1.40	Stop watching me!	
+w_breakca_mrg_02	1.29	Homer, Marge, Bart, Lisa, Apu, Smithers, Springfield.	

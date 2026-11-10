@@ -1,0 +1,230 @@
+w_activate_apu_go	밀어, 밀어, 밀어!
+w_activate_apu_hope	이게 작동하면 좋겠군요.
+w_activate_apu_try	흠, 이걸 한번 써 봅시다.
+w_activate_brt_01	게임에 나오는 장치 같은데.
+w_activate_brt_02	좋아, 이거 한번 켜 보자.
+w_activate_brt_03	안 죽기만 바라자.
+w_activate_brt_beep	삐.
+w_activate_brt_click	안녕, 작동 가능한 물건아!	영문교정: activatable
+w_activate_brt_cool	뭔가 멋진 일이 일어나면 좋겠다.
+w_activate_brt_do	이건 뭐 하는 거지?
+w_activate_hom_buttons	우후! 아무 생각 없이 누르는 거 너무 좋아!
+w_activate_hom_press	«누르지 마시오»가 «당장 누르시오»라는 뜻이면 좋겠다!
+w_activate_hom_thing	올라간다!	추정: «Dingy goes up»
+w_activate_hom_what	이건 뭐 하는 거지?
+w_activate_lis_01	가동!
+w_activate_lis_02	이 조종 장치는 뭘까?	추정: «What basic controls?»
+w_activate_lis_do	무슨 장치네. 흥미로워!
+w_activate_lis_fuction	기능을 알아낼 수 있을 거야.
+w_activate_lis_hope	제발, 장치야, 작동해라!
+w_activate_lis_simple	간단한 장치 같아.
+w_activate_mrg_01	이게 뭘 하는지 보자.
+w_activate_mrg_02	조금만 손보면 돼.
+w_activate_mrg_do	이건 뭐지?	추정: «What's this feeling?»
+w_activate_mrg_doing	내가 할게. 결국 늘 내가 하잖아.
+w_activate_mrg_mind	이거 좀 만진다고 누가 뭐라 하겠어.
+w_activate_mrg_try	흠. 이 장치 좀 흔들어 볼까!	추정: «wiggle this thing, Gummy»
+w_aidestroy_apu_impress	정말이지 감탄했습니다.
+w_aidestroy_apu_never	이렇게 훌륭한 솜씨는 처음 봅니다!
+w_aidestroy_apu_thrilling	정말 짜릿했어요!
+w_aidestroy_apu_trem	굉장합니다!
+w_aidestroy_brt_cool	완전 끝내줬어!
+w_aidestroy_brt_mess	최고한테 덤비면 나머지 꼴 난다고!
+w_aidestroy_brt_pay	돈이나 내놔!
+w_aidestroy_brt_rock	끝내준다, 친구!	추정: «Rock the Casbah» 패러디
+w_aidestroy_hom_01	나 빼고 다 형편없어!
+w_aidestroy_hom_02	호머! 호머! 호머!	다시 받아쓰기로 확인
+w_aidestroy_hom_03	네가 나보다 잘난 줄 알았냐?
+w_aidestroy_hom_04	꼴좋다!
+w_aidestroy_lis_01	하하하! 오는 줄도 몰랐을걸!
+w_aidestroy_lis_02	잡았다!
+w_aidestroy_lis_03	맛 좀 봐라!
+w_aidestroy_lis_04	두뇌가 근육을 이겼어.
+w_aidestroy_mrg_01	악당 끝!
+w_aidestroy_mrg_02	마지 나가신다!
+w_aidestroy_mrg_auto	자동차 협회에 전화해 줄게요!
+w_aidestroy_mrg_hope	괜찮아야 할 텐데!
+w_aidestroy_mrg_house	마지 납셨다!
+w_aidestroy_mrg_wreckless	난폭 운전자 하나 줄었네.
+w_air_apu_fun	너무 재밌어요!
+w_air_apu_house	여기서 우리 집이 보여요!
+w_air_apu_maha	마하리시보다 더 높이 올라왔어요!
+w_air_apu_vishnu	비슈누여, 제가 갑니다!
+w_air_brt_cool	멋지다!
+w_air_brt_dude	카우아붕가!
+w_air_brt_laugh	하하하하하!
+w_air_brt_score	최고 점수, 내가 간다!
+w_air_brt_whee	야호!
+w_air_hom_01	날 에어 호머라고 불러!
+w_air_hom_02	잘 있어라, 멍청이들아!
+w_air_hom_03	내 먼지나 먹어라!
+w_air_hom_04	우후! 좋았어!
+w_air_lis_01	날 봐! 날고 있어!
+w_air_lis_02	야호!
+w_air_lis_03	어린이 파워!
+w_air_lis_04	하늘에 닿겠어!
+w_air_mrg_01	으아아아아아아!	비언어(비명)
+w_air_mrg_02	어머나 세상에!
+w_air_mrg_03	살살, 살살!
+w_air_mrg_04	와, 수영장 있는 집이 많네!
+w_answer_snk_01	요, 여기는 그러니까 구스타프슨 씨 댁이다. 구스타프슨 씨는 지금 전화를 못 받는데,|살아는 있다. 그리고 구스타프슨 씨가 나한테 집을 줬다.
+w_answer_snk_01a	여보세요. 여기는 그러니까 구스타프슨 씨 댁이다. 구스타프슨 씨는 지금 전화를 못 받는데,|완전 살아 있다. 음, 그리고 구스타프슨 씨가 나한테 집을 줬다.
+w_arrive_apu_easy	이 정도는 식은 죽 먹기죠.
+w_arrive_apu_here	목적지에 도착했습니다.
+w_arrive_apu_karma	좋은 업보로군요.
+w_arrive_brt_easy	식은 죽 먹기!
+w_arrive_brt_hard	다음엔 어려운 걸로 줘 볼래?
+w_arrive_brt_problemo	문제없어!
+w_arrive_brt_safe	무사히 도착.
+w_arrive_hom_01	우후! 「캐논볼」에 나가야겠는데!
+w_arrive_hom_02	제한 속도 무시하는 맛이지!
+w_arrive_hom_03	운전은 괜찮은데 열정이 부족해.
+w_arrive_hom_04	식은 죽 먹기였어. 음, 반숙 계란.
+w_arrive_hom_04a	식은 죽 먹기였어. 음, 반숙 계란.
+w_arrive_hom_drunk	이거 끝나면 술 좀 들이켜야지.
+w_arrive_lis_01	무사히 도착했어.
+w_arrive_lis_02	정말 효율적이었어.
+w_arrive_lis_03	속도에 재능이 있네!
+w_arrive_lis_04	너무 빠르지도, 느리지도 않게, 딱 좋아.
+w_arrive_mrg_01	이제 어디로 가지?
+w_arrive_mrg_02	무사히 도착.
+w_arrive_mrg_03	어머나, 정말 빨랐다!
+w_arrive_mrg_04	짜잔!	추정
+w_askfood_apu_fatty	좋아, 꼬마야. 기름진 독 같은 걸로 아무거나 주렴.
+w_askfood_apu_food	제 커다란 똥배가 텅 비었어요.
+w_askfood_apu_giving	먹을 것 좀 주세요, 고맙습니다.
+w_askfood_apu_kill	먹자마자 죽지는 않을 게 뭐가 있죠?
+w_askfood_apu_outside	퀵키 마트 핫도그가 아닌 걸 먹다니 기분이 묘하군요.	영문교정: non-Kwik-E-Mart
+w_askfood_apu_vegan	병아리콩으로 만든 거 뭐라도 있나요?
+w_askfood_brt_calorie	칼로리 한 방 주세요, 아저씨.
+w_askfood_brt_content	채소 하나도 안 들어간 걸로 주세요.
+w_askfood_brt_fatty	오늘 돌아다닐 데가 많아요. 달고 기름진 걸로 주세요!
+w_askfood_brt_special	오늘의 특별 메뉴는 뭐예요?
+w_askfood_brt_sugar	설탕 한 방 주세요.
+w_askfood_brt_value	영양가 하나도 없는 걸로 주세요.
+w_askfood_hom_01	풍미 있으면서도 촉감이 보들보들한 음식이 필요해.
+w_askfood_hom_blood	혈중 콜레스테롤이 낮아. 충전 좀 해 줘.
+w_askfood_hom_burrito	아침 부리토 같은 거 없나?
+w_askfood_hom_chest	날 죽이지 못하는 음식은 날 더 강하게 만들지.
+w_askfood_hom_content	지방이랑 알코올 둘 다 많이 든 게 뭐 있어?
+w_askfood_hom_fatty	기름진 간식 모둠 부탁해.
+w_askfood_hom_holiday	내 까다로운 입맛을 홀릴 만한 거 뭐 있어?
+w_askfood_lis_animal	동물을 조금도 해치지 않은 음식으로 주세요!
+w_askfood_lis_gruel	너무 배고파요. 유기농이고 비건이고 동물 학대 없는 거면 뭐든 먹을게요.
+w_askfood_lis_more	저기요, 조금만 더 주실래요?
+w_askfood_lis_perk	좀 지쳤어요. 기운 나게 해 줄 거 있어요?
+w_askfood_lis_snack	건강한 간식 좀 주세요.
+w_askfood_lis_starving	배고파 죽겠는데 임무 중이에요. 채식주의자로 살기 참 힘든 때네!
+w_askfood_mrg_caboose	엉덩이에 살이 너무 안 붙을 만한 게 뭐 있어요?
+w_askfood_mrg_calorie	제일 칼로리 낮은 메뉴가 뭐예요?
+w_askfood_mrg_hungry	배고파 죽겠어요!
+w_askfood_mrg_pick	기운 좀 확 나는 게 필요해요.
+w_askfood_mrg_recommend	먹을 만한 거 뭐 있어요?
+w_askfood_mrg_today	오늘은 뭐가 있어요?
+w_askride_apu_life	태워 주시면 다음 생에 백만 달러 드릴게요, 약속해요.
+w_askride_apu_ride	혹시 좀 태워 주실 수 있나요?
+w_askride_brt_01	차량 여러분께 알립니다! 열 살 히치하이커가 태워 줄 차를 찾습니다!
+w_askride_brt_02	여기는 바트 심슨, 끝내주는 차 한 대 지금 당장 요청한다, 오버.
+w_askride_brt_03	귀찮지 않으시면, 새 차가 꼭 필요해서요.
+w_askride_brt_lift	저기, 좀 태워 줄래요? 지금? 제발?
+w_askride_brt_little	운전자 여러분, 여기 작은 문제가 생겼어요.
+w_askride_hom_getme	나 좀 데리러 와 줄래? 등 안마로 갚을게!
+w_askride_hom_getmea	나 좀 데리러 와 줄래? 등 안마로 갚을게!
+w_askride_hom_getmeb	나 좀 데리러 와 줄래? 등 안마로 갚을게!
+w_askride_hom_getmec	나 좀 데리러 와 줄래? 등 안마로 갚을게!
+w_askride_hom_sleeping	도와줘, 내 차가, 어, 자고 있어.
+w_askride_lis_01	집에 있는 어린이들이 제 히치하이킹을 따라 하지 않길 바라요.
+w_askride_lis_02	저 좀 데리러 와 주실래요?
+w_askride_lis_03	차가 필요해요. 당장요!
+w_askride_lis_pick	저 좀 태워 주실래요?
+w_askride_lis_stranded	음, 음, 여기 발이 묶였어요. 좀 도와주실래요?
+w_askride_mrg_01	누가 좀 태워 주면 좋겠네.
+w_askride_mrg_02	바퀴 좀 연결해 줘, 친구!
+w_askride_mrg_lift	친절한 분, 좀 태워 주시겠어요?
+w_askride_mrg_pickup	섹시한 엄마가 태워 줄 차를 찾아요!
+w_bcrash_apu_driving	이런 미친 운전으로 뭘 증명하려는 거예요?
+w_bcrash_apu_future	앞으로는 그런 짓은 삼가야겠군요.
+w_bcrash_apu_ohno	오, 안 돼!
+w_bcrash_apu_skull	아! 머리를 박았어요!
+w_bcrash_brt_01	망할 물리 법칙.
+w_bcrash_brt_02	맛 좀 봐라!
+w_bcrash_brt_03	오 그래 그래, 덤벼 봐!
+w_bcrash_brt_04	비싼 거였으면 좋겠다.
+w_bcrash_brt_05	이거 더 자주 해야겠어.
+w_bcrash_brt_06	메모리 카드 안 망가졌어야 할 텐데.
+w_bcrash_brt_cool	오, 완전 멋졌다!
+w_bcrash_brt_oops	어이쿠.
+w_bcrash_brt_take	맛 좀 봐라!
+w_bcrash_brt_whoa	우와!
+w_bcrash_hom_01	좋아, 이건 소송감이야.
+w_bcrash_hom_02	지긋지긋한 업보 같으니.
+w_bcrash_hom_03	나 보험 없단 말이야!
+w_bcrash_hom_04	아, 팬티가 끼었어!
+w_bcrash_lis_01	아야!
+w_bcrash_lis_02	안 돼!
+w_bcrash_lis_03	아야! 내 머리카락!
+w_bcrash_lis_04	아야! 내 머리카락!
+w_bcrash_lis_07	이런!
+w_bcrash_mrg_01	눈이 없어요?
+w_bcrash_mrg_03	어머나!
+w_bcrash_mrg_04	내 실수!
+w_bcrash_mrg_05	나 이런 거 잘 못해.
+w_bcrash_mrg_06	나 이런 거 잘 못해.
+w_break_apu_aisle	하! 1번 통로 청소 요망!
+w_break_apu_random	이건 너와 나만의 비밀이다, 아무 물건아!
+w_break_apu_shiva	오, 시바 신께서 이런 짓을 보고 웃으십니다.
+w_break_brt_nice	우! 좋았어!
+w_break_brt_right	좋았어!
+w_break_brt_total	완전 끝내줬어!
+w_break_brt_wicked	우와, 죽인다!
+w_break_hom_01	보기보다 쉽네.
+w_break_hom_02	우후!
+w_break_hom_03	내가 안 그랬어.
+w_break_hom_04	바트가 그랬어.
+w_break_hom_05	다 사회 탓이야.
+w_break_hom_06	영원한 건 없어.
+w_break_hom_06a	영원한 건 없어.
+w_break_hom_07	소유는 덧없는 것.
+w_break_hom_herea	어, 내가 왔을 때부터 이랬어.
+w_break_lis_01	하하하하하!
+w_break_lis_02	내 탓이오.
+w_break_lis_03	좋아! 진보주의자의 죄책감이 또 늘었네!
+w_break_lis_04	내 실수.
+w_break_lis_05	저기, 전 그냥 꼬마예요.
+w_break_lis_blame	바트가 덤터기 썼으면 좋겠다.
+w_break_lis_recycle	재활용되는 거였으면 좋겠는데!
+w_break_lis_sorry	죄송해요, 죄송해요!
+w_break_mrg_01	어머나!
+w_break_mrg_02	어머나!
+w_break_mrg_03	그걸 즐기면 안 돼.
+w_break_mrg_04	캐녀네로!
+w_break_mrg_05	어이쿠!
+w_break_mrg_06	아, 그거 물어내야겠네.
+w_break_mrg_hope	아, 그거 물어내지 않아도 되면 좋겠다.
+w_break_mrg_insurance	이거 보험료에 영향 있으려나?
+w_break_mrg_smashie	부숴라 부숴!
+w_breakca_apu_01	힌두교 죽음의 신이라 불러 주세요!
+w_breakca_apu_creepy	이것들은 너무 소름 끼쳐요.
+w_breakca_apu_forgive	흠, 내 행동을 용서하렴, 작은 장치야.
+w_breakca_apu_forgivea	오, 내 행동을 용서하렴, 작은 장치야.
+w_breakca_apu_lessa	너 하나 줄었다!
+w_breakca_brt_01	흠, 잡았다!
+w_breakca_brt_02	하하하하하하!
+w_breakca_brt_03	엘 바르토 또 등장!
+w_breakca_brt_04	세상에서 비싼 전자 기기 하나 줄었다.
+w_breakca_brt_05	내 앞에서 꺼져!
+w_breakca_brt_dislike	내가 싫어하는 게 하나 있다면 그건 감시 카메라야.
+w_breakca_brt_vandals	좀도둑 낙서꾼이랑 감시 카메라는 상극이지.
+w_breakca_hom_firework	이 난장판은 나중에 마지가 치우겠지.
+w_breakca_hom_smart	그렇게 똑똑하면서 어떻게 나한테 부서졌냐?
+w_breakca_hom_smash	어차피 이거 좋아하는 사람도 없잖아.
+w_breakca_hom_stupid	하하! 여우처럼 멍청하다!
+w_breakca_lis_01	딴 데 가서 더 얌전한 사람이나 엿봐.
+w_breakca_lis_02	감시 카메라는 억압의 한 형태야. 따라서 내 행동은 정당해.
+w_breakca_lis_03	사생활 권리를 위해 한 방!
+w_breakca_lis_expensive	비싸 보이네. 안됐네.
+w_breakca_lis_fun	반사회적 행동도 재밌네!
+w_breakca_lis_millions	수백만 명한테 감시당하긴 싫어요, 고맙지만.
+w_breakca_lis_this	가라테 킥!
+w_breakca_mrg_01	그만 좀 쳐다봐!
+w_breakca_mrg_02	그만 가 볼게요.	다시 받아쓰기: I'll buzz off.
